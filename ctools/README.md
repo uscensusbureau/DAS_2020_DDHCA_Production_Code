@@ -4,20 +4,7 @@ A collection of python modules that are of general use.
 
 ## Installation
 
-ctools is built and published as a python package.  It's hosted by DAS in
-Nexus at https://repo.rm.census.gov/repository/DAS_Python/.
-
-To install the latest version on DAS systems:
-
-```
-pip install --upgrade ctools
-```
-
-To install on non-DAS systems:
-
-```
-pip install --upgrade --extra-index-url http://repo.rm.census.gov/repository/DAS_Python/ ctools
-```
+ctools is built and published as a python package.
 
 ### Versioning
 

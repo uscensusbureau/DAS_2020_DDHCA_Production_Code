@@ -55,7 +55,7 @@ SafeTab and PHSafe use as inputs.
 This also contains code that adds variance information to the SafeTab output as a stopgap until SafeTab updates to 
 include variance information, as well as code that stores the CEF data in a record layout format on s3.
 
-SafeTab Documentation for the format of its inputs is [here](../tumult/safetab_p/SafeTab_P_Documentation.pdf)
+SafeTab Documentation for the format of its inputs is [here](../../safetab_p/SafeTab_P_Documentation.pdf)
 
 ### Important Files:
 

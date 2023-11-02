@@ -12,7 +12,7 @@ microdata* which were used by Bureau subject matter experts to
 tabulate the 2020 DDHC-A product.  SafeTab-P was built on Tumult's
 "Analytics" and "Core" platforms. both SafeTab-P and the underlying
 platforms are implemented in Python. The latest version of the
-platforms can be found at [[https://tmlt.dev/]].
+platforms can be found at https://tmlt.dev/.
 
 In the interests of both transparency and scientific advancement, the
 Census Bureau committed to releasing any source code used in creation

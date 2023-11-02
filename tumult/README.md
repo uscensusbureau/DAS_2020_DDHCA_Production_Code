@@ -15,7 +15,7 @@ Copyright 2023 Tumult Labs
 
 ## SafeTab-P 5.0.0
 
-This repository contains SafeTab-P and its supporting Tumult-developed libraries. For instructions on running SafeTab-P, see its [README](safetab_p/README.md).
+This repository contains SafeTab-P and its supporting Tumult-developed libraries. For instructions on running SafeTab-P, see its [README](../safetab_p/README.md).
 
 ### Access to the Deliverable
 
@@ -37,7 +37,7 @@ In the repository there are five folders, each of which contains a component of 
 - **SafeTab-Utils 0.5.3**: A Python library that implements pieces of Census business logic that are shared between multiple Census products. Includes code for processing characteristic iterations and geographies, performing additional, product-specific validation, and reading in Census data.
 - **SafeTab-P 5.0.0**: The main program of this release. It produces the Detailed DHC-A.
 
-SafeTab-P also requires a CEF reader module for reading data from Census' file formats. The CEF reader is implemented separately, and is therefore not included in this release. We do include a built-in alternative reader that gets data from CSV files. When using the CSV reader, the CEF reader can be replaced by the included [mock CEF reader](safetab_p/tmlt/mock_cef_reader).
+SafeTab-P also requires a CEF reader module for reading data from Census' file formats. The CEF reader is implemented separately, and is therefore not included in this release. We do include a built-in alternative reader that gets data from CSV files. When using the CSV reader, the CEF reader can be replaced by the included [mock CEF reader](../safetab_p/tmlt/mock_cef_reader).
 
 For details, consult each library's `README` within its respective subfolder. To see which new features have been added since the previous versions, consult their respective `CHANGELOG`s.
 

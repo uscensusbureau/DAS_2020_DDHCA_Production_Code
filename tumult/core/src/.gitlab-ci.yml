@@ -1,0 +1,394 @@
+# GitLab CI can create duplicate pipelines in certain cases when one event that
+# triggers a pipeline (e.g. a push) causes another such event (e.g. the
+# resulting update to an MR). This block prevents that in common cases.
+workflow:
+  rules:
+    # If pushing to a branch that has an open MR associated with it, don't
+    # launch the on-push pipeline.
+    - if: '$CI_COMMIT_BRANCH && $CI_OPEN_MERGE_REQUESTS && $CI_PIPELINE_SOURCE == "push"'
+      when: never
+    - when: always
+
+# Define the potential stages that can be run in a GitLab CI pipeline job
+stages:
+  - setup
+  - lint
+  - test
+  - docs
+  - benchmark
+  - test-release
+  - release
+  - handler
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  POETRY_VIRTUALENVS_IN_PROJECT: "true"
+  # Force nox to produce colorful logs:
+  FORCE_COLOR: "true"
+
+.base:
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  before_script:
+    - java -version
+    - python --version
+    - poetry self show
+    # Fail if the Poetry lock file is out of date.
+    - poetry lock --check
+    # TODO(#2140): This could be done more cleanly using Poetry 1.2 dependency
+    #              groups with `--only` instead of using --constraint.
+    - pip install nox nox-poetry --constraint=<(poetry export --dev -f constraints.txt --without-hashes)
+  artifacts:
+    expire_in: 1 week
+  cache:
+    # Cache the pip cache. While the cache could be persisted across changes to
+    # the Poetry lock file, clearing it when that changes provides a good way to
+    # keep the cache from growing too large due to old packages.
+    - key:
+        files: ["poetry.lock"]
+      paths: [".cache/pip"]
+  tags: [aws-small]
+  interruptible: true
+
+# "Fake" job to prevent dev pipelines from being interrupted on new commits.
+# See gitlab-org/gitlab#34221
+prevent_dev_interrupt:
+  stage: setup
+  script:
+    - echo "No-op job to prevent dev pipelines from being interrupted"
+  variables:
+    GIT_STRATEGY: none
+  timeout: 1m
+  rules:
+    - if: "$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH"
+
+package_linux:
+  extends: .base
+  stage: setup
+  needs: []
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  # make a docker daemon available for cibuildwheel to use
+  services:
+    - name: docker:dind
+      entrypoint: ["env", "-u", "DOCKER_HOST"]
+      command: ["dockerd-entrypoint.sh"]
+  variables:
+    DOCKER_HOST: tcp://docker:2375/
+    DOCKER_DRIVER: overlay2
+    # See https://github.com/docker-library/docker/pull/166
+    DOCKER_TLS_CERTDIR: ""
+  script:
+    - curl -sSL https://get.docker.com/ | sh
+    - nox -s build
+  artifacts:
+    paths: ["dist/"]
+  timeout: 15m
+  interruptible: true
+  tags: [saas-linux-large-amd64]
+
+package_mac:
+  extends: .base
+  stage: setup
+  needs: []
+  image: macos-11-xcode-12
+  before_script:
+    - curl -sSL https://install.python-poetry.org | python3 - --version 1.2.1
+    - export PATH="/Users/gitlab/.local/bin:$PATH"
+    - poetry self add "poetry-dynamic-versioning[plugin]"
+    - poetry self show
+    - pip install --user nox nox-poetry cibuildwheel --constraint=<(poetry export --dev -f constraints.txt --without-hashes)
+  script:
+    - nox --no-venv -s build
+    # The sdist is generated on every platform, but only one copy is needed, so
+    # delete it.
+    - rm -f dist/*.tar.gz
+  artifacts:
+    paths: ["dist/"]
+  timeout: 45m
+  rules:
+    - if: "$CI_COMMIT_TAG"
+    - if: '$CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "trigger"'
+    - when: manual
+      allow_failure: true
+  interruptible: true
+  tags: [shared-macos-amd64]
+
+lint:
+  extends: .base
+  stage: lint
+  needs: ["package_linux"]
+  script:
+    - nox -t lint -- --check
+  timeout: 12m
+  rules:
+    - if: "$CI_COMMIT_TAG"
+      when: never
+    - if: '$CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "trigger"'
+      when: never
+    - when: on_success
+
+test:
+  extends: .base
+  stage: test
+  needs: ["package_linux"]
+  script:
+    - nox -s test_doctest test_fast
+  coverage: '/^TOTAL.+?(\d+\%)$/'
+  artifacts:
+    paths: ["coverage/"]
+    reports:
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage.xml
+      junit: junit.xml
+    when: always
+    expose_as: "Coverage"
+  timeout: 1h
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule" || $CI_COMMIT_TAG'
+      when: never
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+    - when: manual
+      allow_failure: true
+  tags: [aws-large]
+
+test_nightly:
+  extends: test
+  script:
+    - nox -s test_slow
+  timeout: 23h
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_COMMIT_TAG'
+      when: never
+    - when: manual
+      allow_failure: true
+
+benchmark_nightly:
+  extends: .base
+  stage: benchmark
+  needs: ["package_linux"]
+  script:
+    - nox -s benchmark
+  artifacts:
+    paths:
+      - benchmark_output/
+    expose_as: "Benchmarks"
+  timeout: 3h
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: "$CI_COMMIT_TAG"
+      when: never
+    - when: manual
+      allow_failure: true
+  tags: [aws-large]
+
+trigger_analytics_with_core_commit_hash_nightly:
+  stage: test
+  needs:
+    - job: test_nightly
+      artifacts: false
+  trigger:
+    project: tumult-labs/analytics
+    branch: dev
+    strategy: depend
+  variables:
+    CORE_COMMIT_HASH: "$CI_COMMIT_SHA"
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+      allow_failure: true
+
+# Requires the following CI variables to be set:
+# * NIGHTLY_HANDLER_TOKEN, a GitLab project access token with the read_api permission
+# * NIGHTLY_SLACK_WEBHOOK_URL, a Slack incoming webhook for posting to the appropriate
+#   channel
+nightly_handler:
+  stage: handler
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  script:
+    - source .pipeline_handlers
+    - nightly_handler
+  variables:
+    GIT_DEPTH: 1
+  timeout: 2m
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+      when: always
+  interruptible: false
+
+docs:
+  extends: .base
+  stage: docs
+  needs: ["package_linux"]
+  script:
+    - nox -t docs
+  artifacts:
+    paths:
+      - public/
+    expose_as: "Documentation"
+  timeout: 15m
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "trigger"'
+      when: never
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_TAG'
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+    - when: manual
+      allow_failure: true
+
+test_release_linux:
+  extends: .base
+  stage: test-release
+  needs: ["package_linux"]
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  script:
+    - nox -s release_smoketest release_test
+  coverage: '/^TOTAL.+?(\d+\%)$/'
+  artifacts:
+    reports:
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage.xml
+      junit: junit.xml
+  timeout: 1h
+  rules:
+    - if: '$CI_COMMIT_TAG'
+    - if: '$CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "trigger"'
+      when: never
+    - when: manual
+      allow_failure: true
+  tags: [aws-large]
+
+publish:
+  stage: release
+  dependencies: [package_mac, package_linux]
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  script:
+    - poetry publish -u __token__ -p "${RELEASE_PYPI_TOKEN}"
+  timeout: 3m
+  rules:
+    - if: '$CI_COMMIT_TAG'
+  interruptible: false
+
+# This job requires the DOCS_TOKEN_USER and DOCS_TOKEN variables to be set. They
+# should be the name and token of a project access token from the
+# tumult-labs/ops/docs.tmlt.dev project with the read_repository and
+# write_repository permissions. The bot user for this token must have permission
+# to push the protected `prod` branch.
+publish_docs:
+  stage: release
+  image: registry.gitlab.com/tumult-labs/ops/ci/ci-full:latest
+  dependencies: [docs]
+  variables:
+    GIT_STRATEGY: none
+  before_script:
+    - |
+      if [[ -z "$DOCS_TOKEN_USER" || -z "$DOCS_TOKEN" ]]; then
+        echo "Credentials for publishing to docs repo are not set"
+        exit 1
+      fi
+    - |
+      if [[ -z "$CI_COMMIT_TAG" ]]; then
+        version="$CI_COMMIT_BRANCH"
+        docs_version="$version"
+      else
+        version="$CI_COMMIT_TAG"
+        # Check if this tag is a pre-release.
+        if [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+-(alpha|beta|rc)\.[0-9]+$ ]]; then
+          echo "Version $version is a pre-release, skipping docs publication."
+          exit 0
+        fi
+        # Convert X.Y.Z semantic version to vX.Y for docs.
+        docs_version="v$(echo $version | sed -E 's/^([[:digit:]]+\.[[:digit:]]+).*/\1/')"
+      fi
+    - echo "Publishing version $version as $docs_version..."
+  script:
+    - git clone https://$DOCS_TOKEN_USER:$DOCS_TOKEN@gitlab.com/tumult-labs/ops/docs.tmlt.dev.git
+    # Remove old docs published as this version, if any
+    - rm -rf docs.tmlt.dev/public/core/$docs_version
+    - mv public/ docs.tmlt.dev/public/core/$docs_version
+    - cd docs.tmlt.dev
+    - git config user.name "gitlab"
+    - git config user.email "gitlab@tmlt.io"
+    - git add public
+    - git diff --staged --stat
+    - git commit -m "[auto] Publish docs for $version ($CI_COMMIT_SHORT_SHA)" --author "$CI_COMMIT_AUTHOR"
+    - git push
+  timeout: 3m
+  interruptible: false
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+    - if: '$CI_COMMIT_TAG'
+
+# Requires the following CI variables to be set:
+# * VERSION, the semantic version number to be given to the release. This would
+#   typically be specified when launching the manual job.
+# * RELEASER_TOKEN_USERNAME and RELEASER_TOKEN, a GitLab project access token
+#   (and an associated username) with the api permission and the ability to push
+#   tags.
+trigger_release:
+  extends: .base
+  stage: handler
+  script:
+    - |
+      if [[ -z "$RELEASER_TOKEN_USERNAME" || -z "$RELEASER_TOKEN" ]]; then
+        echo "RELEASER_TOKEN and/or RELEASER_TOKEN_USERNAME is unset, exiting..."
+        exit 1
+      fi
+    - nox -s prepare_release
+    - git config user.name "gitlab"
+    - git config user.email "gitlab@tmlt.io"
+    - git checkout -B "release/$VERSION"
+    - git add -u
+    - git diff --staged --stat
+    - git commit -m "[auto] Prepare release $VERSION" --author "$CI_COMMIT_AUTHOR"
+    - git tag "$VERSION"
+    - |
+      git remote add origin-https \
+          "https://$RELEASER_TOKEN_USERNAME:$RELEASER_TOKEN@gitlab.com/$CI_PROJECT_PATH.git"
+    - git push origin-https "release/$VERSION" --push-option ci.skip
+    - git push origin-https "$VERSION"
+    - |
+      cat > body.json <<EOF
+      {
+        "source_branch": "release/$VERSION",
+        "target_branch": "dev",
+        "title": "Merge release $VERSION",
+        "assignee_id": $GITLAB_USER_ID,
+        "remove_source_branch": true,
+        "squash": false,
+        "approvals_before_merge": 1
+      }
+      EOF
+    - cat body.json
+    - |
+      http_status=$(
+        curl -XPOST -s -o response.json -w "%{http_code}" \
+            "$CI_API_V4_URL/projects/$CI_PROJECT_ID/merge_requests" \
+            --header "PRIVATE-TOKEN: $RELEASER_TOKEN" \
+            -H "Content-Type: application/json" -d "@body.json"
+      )
+      echo "Response body:"
+      cat response.json | jq
+      if [[ $http_status -ne 201 ]]; then
+        echo "Got unexpected HTTP status $http_status, exiting..."
+        exit 1
+      fi
+  timeout: 5m
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule" && $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: manual
+  interruptible: false
+
+# Requires the following CI variables to be set:
+# * RELEASE_SLACK_WEBHOOK_URL, a Slack incoming webhook for posting to the appropriate
+#   channel
+release_handler:
+  stage: handler
+  script:
+    - source .pipeline_handlers
+    - release_handler
+  timeout: 2m
+  rules:
+    - if: '$CI_COMMIT_TAG'
+  interruptible: false

@@ -1,0 +1,39 @@
+ITERATION_CODE|ITERATION_NAME|LEVEL|DETAILED_ONLY|COARSE_ONLY
+4013|Not Hispanic or Latino (of any race)|0|Null|Null
+4014|Hispanic or Latino (of any race)|0|Null|Null
+4015|Mexican|2|False|False
+4016|Central American|1|False|False
+4017|Costa Rican|2|False|False
+4018|Guatemalan|2|False|False
+4019|Honduran|2|False|False
+4020|Nicaraguan|2|False|False
+4021|Panamanian|2|False|False
+4022|Salvadoran|2|False|False
+4023|Other Central American|2|False|False
+4024|South American|1|False|False
+4025|Argentinean|2|False|False
+4026|Bolivian|2|False|False
+4027|Chilean|2|False|False
+4028|Colombian|2|False|False
+4029|Ecuadorian|2|False|False
+4030|Paraguayan|2|False|False
+4031|Peruvian|2|False|False
+4032|Uruguayan|2|False|False
+4033|Venezuelan|2|False|False
+4034|Other South American|2|False|False
+4035|Caribbean Hispanic|1|False|False
+4036|Cuban|2|False|False
+4037|Dominican|2|False|False
+4038|Puerto Rican|2|False|False
+4039|Other Caribbean Hispanic|2|False|False
+4040|Other Hispanic, Latino, or Spanish|1|False|False
+4041|Spaniard|2|False|False
+4042|Spanish|2|False|False
+4043|Spanish American |2|False|False
+4044|All other Hispanic or Latino, specified (Sub-state and AIANNH geographies)|0|Null|Null
+4045|All other Hispanic or Latino, not specified|2|True|False
+4046|All other Hispanic or Latino, not specified (Sub-state and AIANNH geographies)|0|Null|Null
+4047|Hispanic|2|True|False
+4048|Latino(a)|2|True|False
+4049|Afro Latino(a)|2|False|False
+4050|Garifuna|2|False|False

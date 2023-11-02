@@ -1,0 +1,55 @@
+{
+    "marshalled": true,
+    "class": "tmlt.common.configuration.Config",
+    "init_params": {
+        "attributes": [
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "ITERATION_CODE",
+                    "pattern": "\\d{4}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "ITERATION_NAME"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "LEVEL",
+                    "pattern": "\\d$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.CategoricalStr",
+                "init_params": {
+                    "column": "DETAILED_ONLY",
+                    "values": [
+                        "True",
+                        "False",
+                        "Null"
+                    ]
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.CategoricalStr",
+                "init_params": {
+                    "column": "COARSE_ONLY",
+                    "values": [
+                        "True",
+                        "False",
+                        "Null"
+                    ]
+                }
+            }
+        ]
+    }
+}

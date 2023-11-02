@@ -1,0 +1,24 @@
+{
+    "marshalled": true,
+    "class": "tmlt.common.configuration.Config",
+    "init_params": {
+        "attributes": [
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "ITERATION_CODE",
+                    "pattern": "\\d{4}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "RACE_ETH_CODE",
+                    "pattern": "[1-9]\\d{3}$"
+                }
+            }
+        ]
+    }
+}

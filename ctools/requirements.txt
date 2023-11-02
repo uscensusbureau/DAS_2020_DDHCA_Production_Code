@@ -1,0 +1,9 @@
+#NOTE: We do not pin specific versions of dependencies
+#because they differ between versions of python.  ctools
+#uses the latest available in Nexus
+
+botocore
+boto3
+pandas
+numpy
+matplotlib

@@ -1,0 +1,1756 @@
+RACE_ETH_CODE|RACE_ETH_NAME
+1000|White (Checkbox)
+1001|White
+1002|White American (By Checkbox)
+1003|White American (By Write-in)
+1004|White (Edit Generated)
+1010|Albanian
+1015|Alsatian
+1020|Andorran
+1025|Armenian
+1030|Austrian
+1031|Tyrolean
+1035|Azerbaijani
+1040|Basque
+1041|French Basque
+1045|Belarusian
+1050|Belgian
+1051|Fleming
+1055|Bosnian and Herzegovinian
+1060|Bulgarian
+1065|British
+1070|British Islander
+1071|Channel Islander
+1072|Gibraltarian
+1075|Carpatho Rusyn
+1076|Rusnak
+1077|Ruthenian
+1080|Celtic
+1085|Cornish
+1090|Croatian
+1095|Cypriot
+1096|Turkish Cypriote
+1100|Czech
+1101|Bohemian
+1102|Moravian
+1105|Czechoslovakian
+1110|Danish
+1115|Dutch
+1121|English
+1125|Estonian
+1130|European
+1131|Central European
+1132|Eastern European
+1133|Mediterranean
+1134|Northern European
+1135|Western European
+1139|European, Not Elsewhere Classified
+1140|Faroe Islander
+1145|Finnish
+1150|Finno Ugrian
+1156|French
+1157|Corsican
+1160|Frisian
+1165|Georgian CIS
+1171|German
+1172|Bavarian
+1173|Prussian
+1174|Saxon
+1175|German from Russia
+1180|Germanic
+1185|Greek
+1190|Hungarian
+1195|Icelandic
+1201|Irish
+1206|Italian
+1207|Sardinian
+1208|Sicilian
+1210|Kosovan
+1215|Lapp
+1220|Latvian
+1225|Liechtensteiner
+1230|Lithuanian
+1235|Luxembourger
+1240|Macedonian
+1245|Maltese
+1250|Manx
+1255|Moldovan
+1260|Monegasque
+1265|Montenegrin
+1270|North Caucasian
+1275|Northern Irelander
+1280|Norwegian
+1286|Polish
+1290|Portuguese
+1291|Azores Islander
+1292|Madeiran
+1295|Roma
+1300|Romanian
+1301|Vlach
+1305|Russian
+1310|Scandinavian
+1311|Nordic
+1312|Viking
+1315|Scots-Irish
+1320|Scottish
+1325|Serbian
+1330|Siberian
+1335|Slavic
+1336|Sorb
+1340|Slovak
+1345|Slovenian
+1350|Soviet Union
+1355|Swedish
+1360|Swiss
+1365|Tatar
+1370|Turkish
+1375|Ukrainian
+1385|Welsh
+1390|Yugoslavian
+1750|Afrikaner
+1755|Australian
+1760|Cajun
+1765|Canadian
+1770|Caucasian
+1775|French Canadian
+1780|Greenlandic
+1785|New Zealander
+1790|Pennsylvania German
+1795|Turkic (White Turkic - edit generated)
+1840|Anglo
+1849|White Responses, Not Elsewhere Classified
+2000|Hispanic, Latino, or Spanish (Checkbox)
+2001|Hispanic, Latino, or Spanish (Write-in)
+2002|Hispanic
+2003|Hispanic American (By Checkbox)
+2004|Hispanic American (By Write-in)
+2005|Hispanic (Edit Generated)
+2010|Yes, Mexican, Mexican Am., Chicano (Detailed Checkbox)
+2011|Mexican
+2020|Mexican American
+2030|Chicano(a)
+2040|La Raza
+2050|Mexican Geography
+2055|Mexican Indian (Edit Generated)
+2056|Amuzgo (Edit Generated)
+2058|Aztec (Edit Generated)
+2059|Chatino (Edit Generated)
+2060|Chinantec (Edit Generated)
+2061|Chocho (Edit Generated)
+2062|Concho (Edit Generated)
+2063|Cora (Edit Generated)
+2064|Cochimi (Edit Generated)
+2065|Cuicatec (Edit Generated)
+2066|Huastec (Edit Generated)
+2067|Huave (Edit Generated)
+2068|Huichol (Edit Generated)
+2069|Ixcatec (Edit Generated)
+2070|Lacandon (Edit Generated)
+2071|Lagunero (Edit Generated)
+2072|Mazahua (Edit Generated)
+2073|Mazatec (Edit Generated)
+2074|Mixe (Edit Generated)
+2075|Mixtec (Edit Generated)
+2076|Nahuatl (Edit Generated)
+2077|Olmec (Edit Generated)
+2078|Opata (Edit Generated)
+2079|Otomi (Edit Generated)
+2080|Popoluca (Edit Generated)
+2081|Seri (Edit Generated)
+2082|Tarahumara (Raramuri) (Edit Generated)
+2083|Tarasco (Purepecha) (Edit Generated)
+2084|Tepehua (Edit Generated)
+2085|Tequistlatec (Edit Generated)
+2086|Tlapanec (Edit Generated)
+2087|Tojolabal (Edit Generated)
+2088|Toltec (Edit Generated)
+2089|Triqui (Trique) (Edit Generated)
+2090|Tzeltal (Edit Generated)
+2091|Tzotzil (Edit Generated)
+2092|Zapotec (Edit Generated)
+2093|Zoque (Edit Generated)
+2094|Mexican American Indian (Edit Generated)
+2095|Mexican Indian, Not Elsewhere Classified (Edit Generated)
+2096|Chichimeca (Edit Generated)
+2100|Costa Rican
+2101|Costa Rican Indian (Edit Generated)
+2110|Guatemalan
+2111|Guatemalan Indian (Edit Generated)
+2112|Guatemalan Mayan (Edit Generated)
+2120|Honduran
+2121|Honduran Indian (Edit Generated)
+2130|Nicaraguan
+2131|Nicaraguan Indian (Edit Generated)
+2140|Panamanian
+2141|Canal Zone
+2142|Panamanian Indian (Edit Generated)
+2151|Salvadoran
+2152|Salvadoran Indian (Edit Generated)
+2160|Central American
+2161|Central American Indian (Edit Generated)
+2162|Cakchiquel (Edit Generated)
+2163|Choco (Edit Generated)
+2164|Guaymi (Edit Generated)
+2169|Kanjobal (Edit Generated)
+2170|Kekchi (Edit Generated)
+2171|Kuna Indian (Edit Generated)
+2172|Lenca (Edit Generated)
+2173|Maya Central American (Edit Generated)
+2174|Miskito (Edit Generated)
+2176|Pipil (Edit Generated)
+2177|Quiche (Edit Generated)
+2178|Rama (Edit Generated)
+2179|Sumo (Edit Generated)
+2180|Nahua (Edit Generated)
+2181|Central American Indian, Not Elsewhere Classified (Edit Generated)
+2200|Argentinean
+2201|Argentinean Indian (Edit Generated)
+2210|Bolivian
+2211|Bolivian Indian (Edit Generated)
+2220|Chilean
+2221|Chilean Indian (Edit Generated)
+2231|Colombian
+2232|Colombian Indian (Edit Generated)
+2240|Ecuadorian
+2241|Ecuadorian Indian (Edit Generated)
+2250|Paraguayan
+2251|Paraguayan Indian (Edit Generated)
+2260|Peruvian
+2261|Peruvian Indian (Edit Generated)
+2270|Uruguayan
+2271|Uruguayan Indian (Edit Generated)
+2275|Venezuelan
+2276|Venezuelan Indian (Edit Generated)
+2280|South American
+2281|South American Indian (Edit Generated)
+2282|Ache Indian (Edit Generated)
+2283|Amazon Indian (Edit Generated)
+2284|Andean Indian (Edit Generated)
+2285|Arawak (Edit Generated)
+2286|Aymara (Edit Generated)
+2287|Guarani (Edit Generated)
+2288|Inca (Edit Generated)
+2289|Mapuche (Araucanian) (Edit Generated)
+2290|Maya South American (Edit Generated)
+2291|Quechua (Edit Generated)
+2292|Quichua (Edit Generated)
+2293|Tehuelche (Edit Generated)
+2294|Tupi (Edit Generated)
+2295|Zaparo (Edit Generated)
+2296|South American Indian, Not Elsewhere Classified (Edit Generated)
+2300|Caribbean Hispanic
+2301|Caribbean Indian (Edit Generated)
+2302|Carib (Edit Generated)
+2303|Taino (Edit Generated)
+2304|Caribbean Indian, Not Elsewhere Classified (Edit Generated)
+2310|Yes, Cuban (Detailed Checkbox)
+2311|Cuban
+2312|Cuban Indian (Edit Generated)
+2321|Dominican
+2322|Dominican Indian (Edit Generated)
+2330|Yes, Puerto Rican (Detailed Checkbox)
+2331|Puerto Rican
+2332|Puerto Rican Indian (Edit Generated)
+2400|Spaniard
+2410|Andalusian
+2420|Asturian
+2430|Castillian
+2440|Catalan(a)
+2450|Balearic Islander
+2460|Gallego(a)
+2470|Valencian
+2480|Canarian
+2490|Spanish Basque
+2500|Afro Latino(a)
+2510|Garifuna
+2600|Latin American
+2610|Latin
+2620|Latino(a)
+2621|Latinx
+2630|Spanish
+2640|Californio
+2650|Tejano(a)
+2660|Nuevo Mexicano(a)
+2670|Spanish American
+2671|Spanish American Indian (Edit Generated)
+2672|Spanish American Indian, Not Elsewhere Classified (Edit Generated)
+2690|Mesoamerican Indian (Hispanic)
+2691|Mayo (Edit Generated)
+2692|Maya (Edit Generated)
+2693|Mesoamerican Indian, Not Elsewhere Classified (Edit Generated)
+2790|Yes, another Hispanic, Latino, or Spanish origin (Checkbox)
+2791|Mestizo(a)
+2799|Hispanic Responses, Not Elsewhere Classified
+3000|Black or African Am. (Checkbox)
+3001|Black or African American (Write-in)
+3002|Black American (By Checkbox)
+3003|Black American (By Write-in)
+3004|Black (Edit Generated)
+3011|African American
+3015|Afro-American
+3016|Afro
+3020|Black
+3025|Negro
+3030|Nigritian
+3100|African
+3105|Angolan
+3110|Beninese (formerly Dahomey)
+3115|Bisseau-Guinean
+3120|Burkinabe (Burkina Faso; formerly the Republic of Upper Volta)
+3125|Burundian
+3130|Cameroonian
+3135|Central African (Central African Republic)
+3140|Chadian
+3145|Congolese (Democratic Republic of the Congo [formerly Zaire])
+3150|Djiboutian
+3155|Equatorial Guinean
+3160|Eritrean
+3166|Ethiopian
+3170|Gabonese
+3175|Gambian
+3180|Ghanaian
+3185|Guinean
+3190|Ivoirian
+3195|Kenyan
+3200|Liberian
+3205|Malagasy
+3210|Malawian
+3215|Malian
+3220|Motswana (Botswana)
+3225|Mozambican
+3230|Namibian
+3236|Nigerian (Nigeria)
+3237|Yoruba
+3238|Igbo
+3245|Nigerien (Niger)
+3250|Rwandan
+3255|Senegalese
+3260|Sierra Leonean
+3266|Somali
+3270|South African
+3275|South Sudanese
+3280|Sudanese
+3285|Swazi
+3290|Tanzanian
+3295|Togolese
+3300|Ugandan
+3305|Zambian
+3310|Zimbabwean
+3400|Fulani
+3404|Sub-Saharan African Responses, Not Elsewhere Classified
+3405|Anguillan
+3410|Antiguan and Barbudan
+3415|Bahamian
+3420|Barbadian
+3425|British Virgin Islander
+3430|Dominica Islander
+3435|Grenadian
+3441|Haitian
+3446|Jamaican
+3450|Kittian and Nevisian
+3455|Montserratian
+3460|St. Lucian
+3465|Trinidadian and Tobagonian
+3470|U.S. Virgin Islander
+3471|St. Thomas Islander
+3472|St. Croix Islander
+3475|Vincentian
+3480|West Indian
+3700|Black Caribbean (Edit Generated)
+3704|Caribbean Responses, Not Elsewhere Classified
+3709|Black ethnic group, Not Elsewhere Classified
+4000|Asian (Checkbox)
+4001|Asian
+4002|Asian American (By checkbox)
+4003|Asian American (By Write-In)
+4004|Asian (Edit Generated)
+4010|East Asian
+4020|Chinese (Detailed Checkbox)
+4021|Chinese
+4022|Hakka
+4023|Han
+4024|Hong Kong
+4025|Macanese
+4026|Tibetan
+4040|Japanese (Detailed Checkbox)
+4041|Japanese
+4042|Okinawan
+4043|Iwo Jiman
+4050|Korean (Detailed Checkbox)
+4051|Korean
+4060|Mongolian
+4070|Taiwanese
+4080|Hmong
+4100|Central Asian
+4110|Kazakh
+4120|Kyrgyz
+4130|Tajik
+4140|Turkmen
+4150|Uzbek
+4160|Afghan
+4200|South Asian
+4220|Asian Indian (Detailed Checkbox)
+4221|Asian Indian
+4223|Bengali
+4224|Punjabi
+4240|Bangladeshi
+4260|Bhutanese
+4270|Maldivian
+4280|Nepalese
+4290|Pakistani
+4305|Sikh
+4310|Sindhi
+4320|Sri Lankan
+4400|Southeast Asian
+4410|Bruneian
+4420|Burmese
+4440|Cambodian
+4441|Khmer
+4450|Filipino (Detailed Checkbox)
+4451|Filipino
+4460|Indonesian
+4470|Laotian
+4480|Malaysian
+4490|Mien
+4500|Singaporean
+4510|Thai
+4520|Vietnamese (Detailed Checkbox)
+4521|Vietnamese
+4522|Montagnard
+4523|Cham
+4620|Buryat
+4630|Indo
+4640|Indo-Chinese
+4650|Kalmyk
+4670|Kuki
+4680|Lahu
+4690|Malay
+4700|Mizo
+4720|Pashtun
+4730|Tai Dam
+4750|Urdu
+4760|Timorese
+4790|Other Asian (Checkbox)
+4791|Turkic (Asian Turkic - edit generated)
+4799|Asian Responses, Not Elsewhere Classified
+5000|American Indian or Alaska Native (Checkbox)
+5001|American Indian or Alaska Native (Write-in)
+5002|AIAN American (By Checkbox)
+5003|AIAN American (By Write-in)
+5004|American Indian or Alaska Native (Edit Generated)
+5010|Alaska Indian
+5011|Alaska Native
+5020|Alaskan Athabascan
+5021|Ahtna, Inc. Corporation
+5022|Alanvik
+5023|Alatna Village
+5024|Alexander
+5025|Allakaket Village
+5026|Anvik Village
+5027|Arctic Village
+5028|Beaver Village
+5029|Birch Creek Tribe
+5030|Chalkyitsik Village
+5031|Cheesh-Na Tribe (Chistochina)
+5032|Chickaloon Native Village
+5033|Circle Native Community
+5034|Cook Inlet
+5035|Copper River
+5036|Doyon
+5037|Eklutna Native Village
+5038|Evansville Village (Bettles Field)
+5039|Galena Village (Louden Village)
+5040|Gulkana Village Council
+5041|Healy Lake Village
+5042|Holy Cross Tribe
+5043|Hughes Village
+5044|Huslia Village
+5045|Knik Tribe
+5046|Koyukuk Native Village
+5047|Lake Minchumina
+5048|Lime Village
+5049|Manley Hot Springs Village
+5050|McGrath Native Village
+5051|Mentasta Traditional Council
+5052|Native Village of Cantwell
+5053|Native Village of Chitina
+5054|Native Village of Eagle
+5055|Native Village of Fort Yukon
+5056|Native Village of Gakona
+5057|Native Village of Kluti Kaah (Copper Center)
+5058|Native Village of Minto
+5059|Native Village of Ruby
+5060|Native Village of Stevens
+5061|Native Village of Tanacross
+5062|Native Village of Tanana
+5063|Native Village of Tazlina
+5064|Native Village of Tetlin
+5065|Native Village of Tyonek
+5066|Nenana Native Association
+5067|Nikolai Village
+5068|Ninilchik Village
+5069|Nondalton Village
+5070|Northway Village
+5071|Nulato Village
+5072|Organized Village of Grayling (Holikachuk)
+5073|Pedro Bay Village
+5074|Rampart Village
+5075|Seldovia Village Tribe
+5076|Shageluk Native Village
+5077|Slana
+5078|Takotna Village
+5079|Tanana Chiefs
+5080|Telida Village
+5081|Tok
+5082|Village of Dot Lake
+5083|Village of Iliamna
+5084|Village of Kaltag
+5085|Salamatof Tribe
+5086|Village of Stony River
+5087|Village of Venetie
+5088|Wiseman
+5089|Kenaitze Indian Tribe
+5120|Aleut
+5121|Agdaagux Tribe of King Cove
+5122|Aleut Corporation
+5123|Alutiiq
+5124|Bristol Bay Aleut
+5125|Chignik Bay Tribal Council (Native Village of Chignik)
+5126|Chignik Lake Village
+5127|Chugach Aleut
+5128|Chugach Corporation
+5129|Egegik Village
+5130|Igiugig Village
+5131|Ivanof Bay Village
+5132|Kaguyak Village
+5134|King Cove
+5135|King Salmon Tribe
+5136|Kodiak
+5137|Kokhanok Village
+5138|Koniag Aleut
+5139|Tangirnaq Native Village
+5140|Native Village of Afognak
+5141|Native Village of Akhiok
+5142|Native Village of Akutan
+5143|Native Village of Atka
+5144|Native Village of Belkofski
+5145|Native Village of Chanega (Chenega)
+5146|Native Village of Chignik Lagoon
+5147|Native Village of Eyak (Cordova)
+5148|Native Village of False Pass
+5149|Native Village of Kanatak
+5150|Native Village of Karluk
+5151|Native Village of Larsen Bay
+5152|Native Village of Nanwalek (English Bay)
+5153|Native Village of Nelson Lagoon
+5154|Native Village of Nikolski
+5155|Native Village of Ouzinkie
+5156|Native Village of Perryville
+5157|Native Village of Pilot Point
+5158|Native Village of Port Graham
+5159|Native Village of Port Heiden
+5160|Native Village of Port Lions
+5161|Native Village of Tatitlek
+5162|Native Village of Unga
+5163|Pauloff Harbor Village
+5164|Qagan Tayagungin Tribe of Sand Point Village
+5165|Qawalangin Tribe of Unalaska
+5166|Saint George Island
+5167|Saint Paul Island
+5168|South Naknek Village
+5169|Sugpiaq
+5170|Sun?aq Tribe of Kodiak
+5171|Ugashik Village
+5172|Unangan (Unalaska)
+5173|Alutiiq Tribe of Old Harbor
+5220|Eskimo
+5221|Inupiat (Inupiaq)
+5222|American Eskimo
+5223|Arctic Slope Corporation
+5224|Atqasuk Village (Atkasook)
+5225|Bering Straits Inupiat
+5226|Chevak Native Village
+5227|Chinik Eskimo Community (Golovin)
+5228|Greenland Inuit
+5229|Inuit
+5230|Inupiat Community of the Arctic Slope
+5231|Kaktovik Village (Barter Island)
+5232|Kawerak
+5233|King Island Native Community
+5234|Nana Inupiat
+5235|Native Village of Ambler
+5236|Native Village of Barrow Inupiat Traditional Government
+5237|Native Village of Brevig Mission
+5238|Native Village of Buckland
+5239|Native Village of Council
+5240|Native Village of Deering
+5241|Native Village of Diomede (Inalik)
+5242|Native Village of Elim
+5243|Native Village of Kiana
+5244|Native Village of Kivalina
+5245|Native Village of Kobuk
+5246|Native Village of Kotzebue
+5247|Native Village of Koyuk
+5248|Native Village of Mary?s Igloo
+5249|Native Village of Mekoryuk
+5250|Native Village of Noatak
+5251|Native Village of Nuiqsut (Nooiksut)
+5252|Native Village of Point Hope
+5253|Native Village of Point Lay
+5254|Native Village of Selawik
+5255|Native Village of Shaktoolik
+5256|Native Village of Shishmaref
+5257|Native Village of Shungnak
+5258|Native Village of Teller
+5259|Native Village of Unalakleet
+5260|Native Village of Wales
+5261|Native Village of White Mountain
+5262|Nome Eskimo Community
+5263|Noorvik Native Community
+5264|Village of Anaktuvuk Pass
+5265|Village of Solomon
+5266|Village of Wainwright
+5320|Tlingit
+5321|Central Council of the Tlingit and Haida Indian Tribes
+5322|Chilkat Indian Village (Klukwan)
+5323|Chilkoot Indian Association (Haines)
+5324|Craig Tribal Association
+5325|Douglas Indian Association
+5326|Haida
+5327|Hoonah Indian Association
+5328|Hydaburg Cooperative Association
+5329|Ketchikan Indian Corporation
+5330|Klawock Cooperative Association
+5331|Organized Village of Kake
+5332|Organized Village of Kasaan
+5333|Organized Village of Saxman
+5334|Pelican
+5335|Petersburg Indian Association
+5336|Sealaska Corporation (Southeast Alaska)
+5337|Sitka Tribe of Alaska
+5338|Skagway Village
+5339|Tenakee Springs
+5340|Angoon Community Association
+5341|Wrangell Cooperative Association
+5342|Yakutat Tlingit Tribe
+5395|Tsimshian
+5396|Metlakatla Indian Community, Annette Island Reserve
+5410|Yup?ik (Yup?ik Eskimo)
+5411|Akiachak Native Community
+5412|Akiak Native Community
+5413|Algaaciq Native Village (St. Mary?s)
+5414|Asa?carsarmiut Tribe
+5415|Bristol Bay
+5416|Calista
+5417|Chuloonawick Native Village
+5418|Curyung Tribal Council (Native Village of Dillingham)
+5419|Native Village of Ekwok
+5420|Emmonak Village
+5421|Iqugmuit Traditional Council
+5422|Levelock Village
+5423|Manokotak Village
+5424|Naknek Native Village
+5425|Native Village of Aleknagik
+5426|Native Village of Chuathbaluk
+5427|Native Village of Eek
+5428|Native Village of Ekuk
+5429|Native Village of Gambell
+5430|Native Village of Georgetown
+5431|Native Village of Goodnews Bay
+5432|Native Village of Hamilton
+5433|Native Village of Hooper Bay (Naparyarmiut)
+5434|Kasigluk Traditional Elders Council
+5435|Native Village of Kipnuk
+5436|Native Village of Kongiganak
+5437|Native Village of Kwigillingok
+5438|Native Village of Kwinhagak (Quinhagak)
+5439|Native Village of Marshall (Fortuna Ledge)
+5440|Native Village of Napaimute
+5441|Native Village of Napakiak
+5442|Native Village of Napaskiak
+5443|Native Village of Nightmute
+5444|Native Village of Nunam Iqua
+5445|Native Village of Nunapitchuk
+5446|Pitka's Point Traditional Council
+5447|Native Village of Saint Michael
+5448|Native Village of Savoonga
+5449|Native Village of Scammon Bay
+5450|Native Village of Tuntutuliak
+5451|Native Village of Tununak
+5452|New Koliganek Village Council
+5453|New Stuyahok Village
+5454|Newhalen Village
+5455|Newtok Village
+5456|Nunakauyarmiut Tribe (Toksook Bay)
+5457|Organized Village of Kwethluk
+5458|Orutsararmiut Traditional Native Council
+5459|Oscarville Traditional Village
+5460|Pilot Station Traditional Village
+5461|Platinum Traditional Village
+5462|Portage Creek Village (Ohgsenakale)
+5463|Siberian Yupik
+5464|Stebbins Community Association
+5465|Traditional Village of Togiak
+5466|Tuluksak Native Community
+5467|Twin Hills Village
+5468|Umkumiut Native Village
+5469|Village of Alakanuk
+5470|Village of Aniak
+5471|Village of Atmautluak
+5472|Village of Bill Moore?s Slough
+5473|Village of Chefornak
+5474|Village of Clark?s Point
+5475|Village of Crooked Creek
+5476|Village of Kalskag
+5477|Village of Kotlik
+5478|Village of Lower Kalskag
+5479|Village of Ohogamiut
+5480|Village of Red Devil
+5481|Village of Sleetmute
+5482|Yupiit of Andreafski
+5483|Native Village of Paimiut
+5500|American Indian
+5505|Abenaki Nation of Missisquoi
+5506|Elnu Abenaki Tribe
+5507|Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation
+5508|Nulhegan Band of the Coosuk Abenaki Nation
+5510|Ak-Chin Indian Community
+5512|Algonquian
+5514|Apache
+5515|Apache Tribe of Oklahoma
+5516|Fort Sill Apache Tribe of Oklahoma
+5517|Jicarilla Apache Nation
+5518|Lipan Apache
+5519|Mescalero Apache Tribe of the Mescalero Reservation, New Mexico
+5520|San Carlos Apache Tribe of the San Carlos Reservation
+5521|Tonto Apache Tribe of Arizona
+5522|White Mountain Apache Tribe of the Fort Apache Reservation, Arizona
+5524|Arapaho
+5525|Arapaho Tribe of the Wind River Reservation, Wyoming
+5526|Northern Arapaho Tribe
+5527|Southern Arapaho
+5529|Assiniboine
+5531|Assiniboine and Sioux Tribes of The Fort Peck Indian Reservation, Montana
+5536|Blackfeet Tribe of the Blackfeet Indian Reservation of Montana
+5541|Brotherton
+5546|Burt Lake Band of Ottawa and Chippewa Indians
+5551|Caddo
+5552|Caddo Adais Indians
+5553|Caddo Nation of Oklahoma
+5554|Natchitoches Tribe of Louisiana
+5556|Cahuilla
+5557|Agua Caliente Band of Cahuilla Indians
+5558|Augustine Band of Cahuilla Indians, California
+5559|Cabazon Band of Mission Indians
+5560|Los Coyotes Band of Cahuilla and Cupeno Indians
+5561|Morongo Band of Mission Indians, California
+5562|Ramona Band of Cahuilla, California
+5563|Santa Rosa Band of Cahuilla Indians
+5564|Torres Martinez Desert Cahuilla Indians
+5566|Bear River Band of Rohnerville Rancheria
+5567|Cahto Indian Tribe of the Laytonville Rancheria
+5568|California Valley Miwok Tribe
+5569|Cher-Ae Heights Indian Community of the Trinidad Rancheria
+5570|Chimariko
+5572|Kern Valley Indian Community
+5574|Red Wood
+5575|Redding Rancheria, California
+5576|Santa Rosa Indian Community
+5577|Takelma
+5578|Wappo
+5579|Yana
+5580|Yuki
+5586|Catawba Indian Nation
+5588|Cayuse
+5590|Confederated Tribes of the Chehalis Reservation
+5592|Chemakuan
+5593|Hoh Indian Tribe
+5594|Quileute Tribe of the Quileute Reservation, Washington
+5597|Chemehuevi Indian Tribe
+5599|Cherokee
+5600|Cher-O-Creek Intratribal Indians
+5601|Cherokee Alabama
+5602|Cherokee Bear Clan of South Carolina
+5603|Cherokee Nation
+5604|Cherokee of Georgia
+5605|Cherokee Tribe of Northeast Alabama
+5606|Eastern Band of Cherokee Indians
+5607|Echota Cherokee Tribe of Alabama
+5608|Four Winds Cherokee
+5609|Georgia Eastern Cherokee
+5610|Northern Cherokee Nation of Missouri and Arkansas
+5611|Piedmont American Indian Association-Lower Eastern Cherokee Nation SC (PAIA)
+5612|Sac River Band of the Chickamauga-Cherokee
+5613|Southeastern Cherokee Council
+5614|Tuscola
+5615|United Cherokee Ani-Yun-Wiya Nation
+5616|United Keetoowah Band of Cherokee Indians in Oklahoma
+5617|White River Band of the Chickamauga-Cherokee
+5619|Cheyenne
+5620|Northern Cheyenne Tribe of the Northern Cheyenne Reservation, Montana
+5621|Southern Cheyenne
+5624|Cheyenne and Arapaho Tribes, Oklahoma
+5629|Chickahominy Indian Tribe - Eastern Division
+5630|Chickahominy Indian Tribe
+5634|Chaloklowa Chickasaw
+5635|The Chickasaw Nation
+5639|Chinook
+5640|Clatsop
+5641|Columbia River Chinook
+5642|Kathlamet
+5643|Upper Chinook
+5644|Wakiakum Chinook
+5645|Willapa Chinook
+5646|Wishram
+5649|Chippewa
+5650|Bad River Band of the Lake Superior Tribe
+5651|Bay Mills Indian Community
+5652|Bois Forte Band (Nett Lake)
+5653|Fond du Lac Band
+5654|Grand Portage Band
+5655|Grand Traverse Band of Ottawa and Chippewa Indians
+5656|Keweenaw Bay Indian Community
+5657|Lac Courte Oreilles Band of Lake Superior Chippewa
+5658|Lac du Flambeau Band of Lake Superior Chippewa Indian
+5659|Lac Vieux Desert Band of Lake Superior Chippewa Indians
+5660|Lake Superior Chippewa
+5661|Leech Lake Band
+5662|Little Shell Tribe of Chippewa Indians of Montana
+5663|Mille Lacs Band
+5664|Minnesota Chippewa
+5665|Red Cliff Band of Lake Superior Chippewa
+5666|Red Lake Band of Chippewa Indians
+5667|Saginaw Chippewa Indian Tribe
+5668|Sault Ste. Marie Tribe of Chippewa Indians
+5669|Sokaogon Chippewa Community
+5670|St. Croix Chippewa Indians of Wisconsin
+5671|Swan Creek Black River Confederate Tribe
+5672|Turtle Mountain Band of Chippewa Indians of North Dakota
+5673|White Earth Band
+5679|Chippewa Cree Indians of the Rocky Boy's Reservation, Montana
+5684|Chitimacha Tribe of Louisiana
+5685|Pointe Au-Chien Indian Tribe
+5689|Choctaw
+5690|The Choctaw Nation of Oklahoma
+5691|Clifton Choctaw Tribe of Louisiana
+5692|Jena Band of Choctaw Indians
+5693|Louisiana Choctaw Tribe
+5694|Mississippi Band of Choctaw Indians
+5695|MOWA Band of Choctaw Indians
+5699|Choctaw-Apache Community of Ebarb
+5701|Chumash
+5702|San Luis Rey Mission Indian
+5703|Santa Ynez Band of Chumash Mission Indians
+5706|Clear Lake
+5708|Coeur D?Alene Tribe
+5710|Coharie Indian Tribe
+5712|Colorado River Indian Tribes
+5714|Confederated Tribes of the Colville Reservation
+5716|Comanche Nation, Oklahoma
+5718|Coos
+5720|Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians
+5722|Coquille Indian Tribe
+5724|Costanoan
+5726|Coushatta
+5727|Alabama-Coushatta Tribe of Texas
+5728|Coushatta Tribe of Louisiana
+5731|Cowlitz Indian Tribe
+5733|Cree
+5735|The Muscogee (Creek) Nation
+5736|Alabama Quassarte Tribal Town
+5737|Eastern Creek
+5738|Eastern Muscogee
+5739|Kialegee Tribal Town
+5740|The Southeastern Mvskoke Nation, Inc.
+5741|Lower Muskogee Creek Tribe
+5742|Ma-Chis Lower Creek Indian Tribe of Alabama
+5743|Alabama Creek
+5744|Poarch Band of Creeks
+5745|Principal Creek Indian Nation
+5746|Thlopthlocco Tribal Town
+5747|Tuckabachee
+5750|Croatan
+5752|Crow Tribe of Montana
+5754|Cumberland County Association for Indian People
+5756|Cupeno
+5757|Agua Caliente
+5761|Delaware (Lenni-Lenape)
+5762|Allegheny Lenape
+5763|Delaware Nation
+5764|Delaware Tribe of Indians, Oklahoma
+5765|Munsee
+5766|New Jersey Sand Hill Band of Indians, Inc
+5767|Ramapough Lenape Nation (Ramapough Mountain)
+5771|Kumeyaay (Diegueno)
+5772|Barona Group of Capitan Grande Band
+5773|Campo Band of Diegueno Mission Indians
+5774|Capitan Grande Band of Diegueno Mission Indians
+5775|Ewiiaapaayp Band of Kumeyaay Indians
+5776|Iipay Nation of Santa Ysabel
+5777|Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation
+5778|Jamul Indian Village
+5779|La Posta Band of Diegueno Mission Indians
+5780|Manzanita Band of Diegueno Mission Indians
+5781|Mesa Grande Band of Diegueno Mission Indians
+5782|San Pasqual Band of Diegueno Mission Indians
+5783|Sycuan Band of the Kumeyaay Nation
+5784|Viejas (Baron Long) Group of Capitan Grande Band
+5786|Atakapa
+5787|Beaver Creek Indians
+5788|Biloxi
+5789|Biloxi-Chitimacha Confederation
+5790|Cheroenhaka (Nottoway)
+5791|Georgetown
+5792|Golden Hill Paugussett
+5793|Meherrin Indian Tribe
+5794|Moor Indian
+5795|Nansemond Indian Nation
+5796|Edisto Natchez-Kusso Tribe of South Carolina (Natchez Indian Tribe)
+5797|Nausu Waiwash
+5798|Nottoway Indian Tribe of Virginia
+5799|Patawomeck Indian Tribe of Virginia
+5800|Pee Dee Indian Nation of Upper South Carolina
+5801|Pee Dee Indian Tribe of South Carolina
+5802|Pocomoke Acohonock
+5803|Santee Indian Nation of South Carolina
+5804|Santee Indian Organization
+5805|Southeastern Indians
+5806|Susquehanock
+5807|The Waccamaw Indian People
+5808|Tunica Biloxi Indian Tribe of Louisiana
+5809|Waccamaw Siouan Indian Tribe
+5810|Wassamasaw Tribe of Varnertown Indians
+5811|Wicomico
+5816|Esselen
+5818|Fernandeno Tataviam Band of Mission Indians
+5820|Fort Belknap Indian Community of the Fort Belknap Reservation
+5822|Bannock
+5823|Lemhi-Shoshone
+5824|Shoshone-Bannock Tribes of the Fort Hall Reservation
+5827|Fort McDowell Yavapai Nation
+5829|Gabrieleno
+5831|Confederated Tribes of the Grand Ronde Community of Oregon
+5833|Gros Ventres
+5834|Atsina
+5838|Guilford Native American Association
+5840|Haliwa-Saponi Indian Tribe
+5842|Ho-Chunk Nation
+5844|Hoopa Valley Tribe
+5845|Trinity
+5846|Whilkut
+5849|Hoopa Extension
+5851|Hopi Tribe of Arizona
+5856|United Houma Nation
+5858|Iowa (Tribe)
+5859|Iowa Tribe of Kansas and Nebraska
+5860|Iowa Tribe of Oklahoma
+5863|Iroquois
+5864|Cayuga Nation
+5865|Mohawk
+5866|Oneida
+5867|Oneida Indian Nation
+5868|Onondaga Nation
+5869|Saint Regis Mohawk Tribe
+5870|Seneca Nation of Indians
+5872|Seneca-Cayuga Nation
+5873|Tonawanda Band of Seneca
+5874|Tuscarora Nation
+5875|Wyandotte Nation
+5878|Juaneno (Acjachemem)
+5880|Kalispel Indian Community
+5882|Karuk Tribe
+5884|Kaw Nation
+5886|Kickapoo
+5887|Kickapoo Traditional Tribe of Texas
+5888|Kickapoo Tribe of Indians of The Kickapoo Reservation in Kansas
+5889|Kickapoo Tribe of Oklahoma
+5891|Kiowa
+5892|Kiowa Indian Tribe of Oklahoma
+5896|Klamath Tribes
+5898|Konkow
+5900|Kootenai Tribe of Idaho
+5905|Lassik
+5907|Matinecock
+5908|Montauk
+5909|Poospatuck
+5910|Setalcott Indians
+5912|Luiseno
+5913|La Jolla Band of Luiseno Indians, California
+5914|Pala Band of Mission Indians
+5915|Pauma Band of Luiseno Mission Indians
+5916|Pechanga Band of Luiseno Mission Indians
+5917|Rincon Band of Luiseno Mission Indians
+5918|Soboba Band of Luiseno Indians
+5919|Temecula
+5920|Twenty-Nine Palms Band of Luiseno Mission Indians
+5922|Lumbee Tribe of North Carolina
+5924|Lummi Tribe
+5926|Maidu
+5927|Berry Creek Rancheria of Maidu Indians
+5928|Enterprise Rancheria of Maidu Indians
+5929|Greenville Rancheria
+5930|Mechoopda Indian Tribe of Chico Rancheria
+5931|Mooretown Rancheria of Maidu Indians
+5932|Mountain Maidu
+5933|Nisenen (Nishinam)
+5934|United Auburn Indian Community of the Auburn Rancheria of California
+5936|Makah Indian Tribe
+5938|Maliseet
+5939|Houlton Band of Maliseet Indians
+5943|Mattaponi Indian Tribe
+5944|Upper Mattaponi Tribe
+5948|Menominee Indian Tribe
+5950|Metrolina Native American Association
+5952|Miami (Tribe)
+5953|Illinois Miami
+5954|Indiana Miami
+5955|Miami Tribe of Oklahoma
+5957|Miccosukee Tribe of Indians of Florida
+5959|Micmac
+5960|Aroostook Band of Micmacs
+5964|Mission Indians
+5965|Cahuilla Band of Indians
+5969|Miwok/Me-Wuk
+5970|Buena Vista Rancheria of Me-Wuk Indians of California
+5971|Chicken Ranch Rancheria of Me-Wuk Indians
+5972|Ione Band of Miwok Indians
+5973|Jackson Band of Miwuk Indians
+5974|Shingle Springs Band of Miwok Indians
+5975|Tuolumne Band of Me-Wuk Indians of California
+5976|Wilton Rancheria
+5979|Modoc
+5980|The Modoc Tribe of Oklahoma
+5984|Mohegan Tribe of Indians of Connecticut
+5986|Monacan Indian Nation
+5988|Mono
+5989|Big Sandy Rancheria of Western Mono Indians of California
+5990|Cold Springs Rancheria of Mono Indians
+5991|North Fork Rancheria of Mono Indians
+5993|Nanticoke
+5995|Nanticoke Lenni-Lenape
+5997|Narragansett Indian Tribe
+5999|Navajo Nation
+6001|Nez Perce Tribe
+6003|Nipmuc
+6004|Chaubunagungamaug Nipmuck
+6005|Hassanamisco Band of the Nipmuc Nation
+6008|Nomlaki
+6009|Paskenta Band of Nomlaki Indians
+6013|Alsea
+6014|Celilo
+6015|Columbia
+6016|Kalapuya
+6017|Molalla
+6018|Talakamish
+6019|Tenino
+6020|Tillamook
+6021|Wenatchee
+6023|Omaha Tribe of Nebraska
+6025|Oneida Nation
+6027|Oregon Athabascan
+6029|The Osage Nation
+6031|Otoe-Missouria Tribe of Indians
+6033|Ottawa
+6034|Grand River Band of Ottawa Indians
+6035|Little River Band of Ottawa Indians of Michigan
+6036|Little Traverse Bay Bands of Odawa Indians
+6037|Ottawa Tribe of Oklahoma
+6043|Paiute
+6044|Big Pine Paiute Tribe of the Owens Valley
+6045|Bridgeport Paiute Indian Colony
+6046|Burns Paiute Tribe
+6047|Cedarville Rancheria
+6048|Fort Bidwell Indian Community
+6049|Fort Independence Indian Community
+6050|Kaibab Band of Paiute Indians of the Kaibab Indian Reservation
+6051|Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony
+6052|Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada
+6053|Malheur Paiute
+6054|Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada
+6055|Northern Paiute
+6056|Paiute Indian Tribe of Utah (Southern Paiute)
+6057|Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada
+6058|San Juan Southern Paiute Tribe of Arizona
+6059|Summit Lake Paiute Tribe of Nevada
+6060|Susanville Indian Rancheria, California
+6061|Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California
+6062|Walker River Paiute Tribe of the Walker River Reservation, Nevada
+6063|Winnemucca Indian Colony of Nevada
+6065|Yerington Paiute Tribe of the Yerington Colony and Campbell Ranch, Nevada
+6068|Shoshone Paiute
+6069|Fort McDermitt Paiute and Shoshone Tribe of Nevada and Oregon
+6070|Lone Pine Paiute-Shoshone Tribe
+6071|Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada
+6072|Bishop Paiute Tribe
+6073|Shoshone-Paiute Tribes of the Duck Valley Reservation
+6078|Pamunkey Indian Tribe
+6080|Indian Township
+6081|Passamaquoddy Tribe
+6082|Pleasant Point Passamaquoddy
+6085|Pawnee
+6086|Pawnee Nation of Oklahoma
+6090|Penobscot Nation
+6093|Peoria Tribe of Indians of Oklahoma
+6097|Pequot
+6098|Eastern Pequot
+6099|Mashantucket Pequot Indian Tribe
+6100|Paucatuck Eastern Pequot
+6102|Pima
+6103|Gila River Indian Community of the Gila River Indian Reservation
+6104|Maricopa
+6105|Salt River Pima-Maricopa Indian Community
+6107|Piscataway
+6108|Piscataway Conoy Tribe
+6109|Piscataway Indian Nation
+6112|Alturas Indian Rancheria
+6113|Pit River Tribe of California
+6117|Pomo
+6118|Big Valley Band of Pomo Indians of the Big Valley Rancheria
+6119|Central Pomo
+6120|Cloverdale Rancheria of Pomo Indians of California
+6121|Coyote Valley Band of Pomo Indians of California
+6122|Dry Creek Rancheria Band of Pomo Indians, California
+6123|Eastern Pomo
+6124|Elem Indian Colony of the Sulphur Bank Rancheria
+6125|Federated Indians of Graton Rancheria
+6126|Guidiville Rancheria of California
+6127|Habematolel Pomo of Upper Lake
+6128|Hopland Band of Pomo Indians
+6129|Kashia Band of Pomo Indians of the Stewarts Point Rancheria
+6130|Koi Nation of Northern California
+6131|Lytton Rancheria of California
+6132|Manchester Band of Pomo Indians of the Manchester Rancheria, California
+6133|Middletown Rancheria of Pomo Indians
+6134|Northern Pomo
+6135|Pinoleville Pomo Nation
+6136|Potter Valley Tribe
+6137|Redwood Valley or Little River Band of Pomo Indians of the Redwood Valley Rancheria California
+6138|Robinson Rancheria
+6139|Scotts Valley Band of Pomo Indians of California
+6140|Sherwood Valley Rancheria of Pomo Indians of California
+6141|Stonyford
+6147|Ponca
+6148|Ponca Tribe of Indians of Oklahoma
+6149|Ponca Tribe of Nebraska
+6152|Potawatomi
+6153|Citizen Potawatomi Nation, Oklahoma
+6154|Forest County Potawatomi Community, Wisconsin
+6155|Hannahville Potawatomi Indian Tribe, Michigan
+6156|Match-e-be-nash-she-wish Band of Pottawatomi Indians
+6157|Nottawaseppi Huron Band of the Potawatomi, Michigan
+6158|Pokagon Band of Potawatomi Indians
+6159|Prairie Band Potawatomi Nation
+6162|Powhatan
+6164|Pueblo
+6165|Ohkay Owingeh, New Mexico
+6166|Piro Manso Tiwa Tribe
+6167|Pueblo of Acoma
+6168|Pueblo of Cochiti
+6169|Pueblo of Isleta
+6170|Pueblo of Jemez
+6171|Pueblo of Laguna
+6172|Pueblo of Nambe
+6173|Pueblo of Picuris
+6174|Pueblo of Pojoaque
+6175|Pueblo of San Felipe
+6176|Pueblo of San Ildefonso
+6177|Pueblo of Sandia
+6178|Pueblo of Santa Ana
+6179|Pueblo of Santa Clara
+6180|Kewa Pueblo, New Mexico
+6181|Pueblo of Taos
+6182|Pueblo of Tesuque
+6183|Pueblo of Zia
+6184|San Juan
+6185|Ysleta Del Sur Pueblo of Texas
+6186|Zuni Tribe of the Zuni Reservation
+6189|Puget Sound Salish
+6190|Duwamish
+6191|Kikiallus
+6192|Lower Skagit
+6193|Marietta Band of Nooksack
+6194|Muckleshoot Indian Tribe
+6195|Nisqually Indian Tribe
+6196|Nooksack Indian Tribe
+6197|Puyallup Tribe of The Puyallup Reservation
+6198|Samish Indian Nation
+6199|Sauk-Suiattle Indian Tribe
+6200|Skokomish Indian Tribe
+6201|Skykomish
+6202|Snohomish
+6203|Snoqualmie Indian Tribe
+6204|Squaxin Island Tribe of the Squaxin Island Reservation, Washington
+6205|Steilacoom
+6206|Stillaguamish Tribe of Indians of Washington
+6207|Swinomish Indian Tribal Community
+6208|The Suquamish Tribe
+6209|Tulalip Tribes of Washington
+6210|Upper Skagit Indian Tribe
+6214|Quapaw Nation
+6216|Quinault Indian Nation
+6218|Rappahannock Tribe, Inc.
+6220|Reno-Sparks Indian Colony, Nevada
+6222|Round Valley Indian Tribes
+6224|Klallam
+6225|Jamestown S?Klallam Tribe
+6226|Lower Elwha Tribal Community
+6227|Port Gamble S'Klallam Tribe
+6229|Sac and Fox
+6230|Sac and Fox Nation of Missouri in Kansas and Nebraska
+6231|Sac and Fox Nation, Oklahoma
+6232|Sac and Fox Tribe of the Mississippi in Iowa
+6234|Salinan
+6236|Salish
+6238|Confederated Salish and Kootenai Tribes of the Flathead Nation
+6240|Saponi
+6241|Occaneechi Band of the Saponi Nation
+6245|Sappony
+6247|Schaghticoke
+6249|Seminole
+6250|Seminole Tribe of Florida
+6251|The Seminole Nation of Oklahoma
+6259|Serrano
+6260|San Manuel Band of Mission Indians, California
+6264|Shasta
+6265|Quartz Valley Indian Reservation
+6269|Shawnee
+6270|Absentee Shawnee Tribe of Indians of Oklahoma
+6271|East of the River Shawnee
+6272|Eastern Shawnee Tribe of Oklahoma
+6273|Piqua Shawnee Tribe
+6274|Shawnee Nation United Remnant Band
+6275|Shawnee Tribe
+6279|Shinnecock Indian Nation
+6281|Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation
+6283|Shoshone
+6284|Confederated Tribes of the Goshute Reservation
+6285|Timbisha Shoshone Tribe
+6286|Duckwater Shoshone Tribe
+6287|Eastern Shoshone Tribe of the Wind River Reservation, Wyoming
+6288|Ely Shoshone Tribe
+6289|Northwestern Band of the Shoshone Nation
+6290|Skull Valley Band of Goshute Indians of Utah
+6291|Yomba Shoshone Tribe of the Yomba Reservation, Nevada
+6293|Confederated Tribes of Siletz Indians of Oregon
+6295|Sioux
+6296|Brule Sioux
+6297|Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota
+6298|Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota
+6300|Flandreau Santee Sioux Tribe of South Dakota
+6301|Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota
+6302|Lower Sioux Indian Community in the State of Minnesota
+6303|Mdewakanton Sioux
+6304|Oglala Sioux Tribe
+6305|Pipestone Sioux
+6306|Prairie Island Indian Community
+6307|Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota
+6308|Santee Sioux Nation, Nebraska
+6309|Shakopee Mdewakanton Sioux Community of Minnesota
+6310|Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota
+6311|Spirit Lake Tribe
+6312|Standing Rock Sioux Tribe of North & South Dakota
+6313|Teton Sioux
+6314|Upper Sioux Community
+6315|Wahpekute Sioux
+6316|Wazhaza Sioux
+6317|Yankton Sioux Tribe of South Dakota
+6318|Yanktonai Sioux
+6320|Siuslaw
+6322|Spokane Tribe of The Spokane Reservation
+6324|Stockbridge-Munsee Community
+6326|Te-Moak Tribes of Western Shoshone Indians of Nevada
+6336|Arikara (Sahnish)
+6337|Hidatsa
+6338|Mandan
+6339|Three Affiliated Tribes of Ft. Berthold Reservation, North Dakota
+6341|Tohono O?odham Nation of Arizona
+6346|Tolowa
+6347|Big Lagoon Rancheria
+6348|Elk Valley Rancheria
+6349|Tolowa Dee-Ni' Nation
+6351|Tonkawa Tribe of Indians of Oklahoma
+6353|Tygh
+6355|Confederated Tribes of the Umatilla Indian Reservation
+6357|Umpqua
+6358|Cow Creek Band of Umpqua Tribe of Indians
+6362|Ute
+6363|Southern Ute Indian Tribe of the Southern Ute Reservation
+6364|Ute Indian Tribe of the Uintah and Ouray Reservation, Utah
+6365|Ute Mountain Ute Tribe
+6367|Wailaki
+6369|Walla Walla
+6371|Wampanoag
+6372|Assonet Band of the Wampanoag Nation
+6373|Chappaquiddick Tribe of the Wampanoag Indian Nation
+6374|Herring Pond Wampanoag Tribe
+6375|Mashpee Wampanoag Tribe
+6376|Pocasset Wampanoag
+6377|Pokanoket (Royal House of Pokanoket)
+6378|Ponkapoag
+6379|Seaconke Wampanoag
+6380|Wampanoag Tribe of Gay Head (Aquinnah)
+6386|Confederated Tribes of Warm Springs
+6388|Wasco
+6390|Alpine
+6391|Washoe Tribe of Nevada and California
+6395|Wichita and Affiliated Tribes, Oklahoma
+6400|Wind River
+6402|Winnebago
+6403|Winnebago Tribe of Nebraska
+6407|Wintun
+6408|Cachil Dehe Band of Wintun Indians of the Colusa Rancheria
+6409|Kletsel Dehe Band of Wintun Indians
+6410|Yocha Dehe Wintun Nation, California
+6412|Grindstone Indian Rancheria of Wintun-Wailaki Indians
+6414|Blue Lake Rancheria
+6415|Wiyot Tribe, California
+6419|Confederated Tribes and Bands of the Yakama Nation
+6421|Yakama Cowlitz
+6423|Yaqui
+6424|Pascua Yaqui Tribe of Arizona
+6428|Yavapai Apache Nation of the Camp Verde Indian Reservation
+6430|Yokuts
+6431|Picayune Rancheria of Chukchansi Indians
+6432|Table Mountain Rancheria
+6433|Tachi
+6434|Tejon Indian Tribe
+6435|Tule River Indian Tribe
+6440|Yuchi
+6441|Ani-stohini/Unami
+6445|Cocopah Tribe of Arizona
+6446|Fort Mojave Indian Tribe of Arizona, California, and Nevada
+6447|Havasupai Tribe of the Havasupai Reservation
+6448|Hualapai Indian Tribe of the Hualapai Indian Reservation
+6450|Quechan Tribe of the Fort Yuma Indian Reservation, California and Arizona
+6451|Yavapai-Prescott Tribe of the Yavapai Reservation
+6455|Yurok Tribe
+6456|Resighini Rancheria
+6460|Tribal responses, Not Elsewhere Classified
+6500|Canadian Indian
+6501|French Canadian/French American Indian
+6502|Abenaki Canadian
+6503|Acadia Band
+6504|Ache Dene Koe
+6505|Ahousaht
+6506|Alderville First Nation
+6507|Alexandria Band
+6508|Algonquins of Barriere Lake
+6509|Batchewana First Nation
+6510|Beardys and Okemasis Band
+6511|Beausoleil
+6512|Beecher Bay
+6513|Bella Coola (Nuxalk Nation)
+6514|Beothuk
+6515|Big Cove
+6516|Big Grassy
+6517|Bigstone Cree Nation
+6518|Bonaparte Band
+6519|Boston Bar First Nation
+6520|Bridge River
+6521|Brokenhead Ojibway Nation
+6522|Buffalo Point Band
+6523|Caldwell
+6524|Campbell River Band
+6525|Cape Mudge Band
+6526|Carcross/Tagish First Nation
+6527|Caribou
+6528|Carrier Nation
+6529|Carry the Kettle Band
+6530|Cheam Band
+6531|Chemainus First Nation
+6532|Chilcotin Nation
+6533|Chippewa of Sarnia
+6534|Chippewa of the Thames
+6535|Chippewa/Ojibwe Canadian
+6536|Clayoquot
+6537|Cold Lake First Nations
+6538|Coldwater Band
+6539|Comox Band
+6540|Coquitlam Band (Kwikwetlem First Nation)
+6541|Cote First Nation
+6542|Couchiching First Nation
+6543|Cowessess Band
+6544|Cowichan
+6545|Cree Canadian
+6546|Cross Lake First Nation
+6547|Curve Lake Band
+6548|Dene Band Nwt (NW Territory)
+6549|Dene Canadian
+6550|Ditidaht Band
+6551|Dogrib
+6552|Eagle Lake Band
+6553|Eastern Cree
+6554|Ebb and Flow Band
+6555|English River First Nation
+6556|Eskasoni
+6557|Esquimalt
+6558|Fisher River
+6559|Five Nations
+6560|Fort Alexander Band
+6561|Garden River Nation
+6562|Gibson Band (Wahta Mohawk)
+6563|Gitksan
+6565|Grassy Narrows First Nation
+6566|Gull Bay Band
+6567|Gwichya Gwich'in
+6568|Heiltsuk Band
+6569|Hesquiaht Band
+6570|Hiawatha First Nation
+6571|Hope Band (Chawathil Nation)
+6572|Huron
+6573|Huron of Lorretteville
+6574|Innu (Montagnais)
+6575|Interior Salish
+6576|James Bay Cree
+6577|James Smith Cree Nation
+6578|Kahkewistahaw First Nation
+6579|Kamloops Band
+6580|Kanaka Bar
+6581|Mohawks of Kanesatake
+6582|Kaska Dena
+6583|Keeseekoose Band
+6584|Nisga'a Nation
+6585|Kingsclear Band
+6586|Kitamaat
+6587|Kitigan Zibi Anishinabeg
+6588|Klahoose First Nation
+6589|Kwakiutl
+6590|Kyuquot Band
+6591|Lakahahmen Band
+6592|Lake Manitoba Band
+6593|Lake St. Martin Band
+6594|Lennox Island Band
+6595|Liard River First Nation
+6596|Lillooet
+6597|Little Shuswap Band
+6598|Long Plain First Nation
+6599|Lower Nicola Indian Band
+6600|Malahat First Nation
+6601|Matachewan Band
+6602|Mcleod Lake
+6603|Metis
+6604|Millbrook First Nation
+6605|Mississaugas of the Credit
+6606|Mohawks of the Bay of Quinte
+6607|Mohawk Canadian
+6608|Mohawk Kahnawake
+6609|Mohican Canadian
+6610|Musqueam Band
+6611|N?Quatqua (Anderson Lake)
+6612|Namgis First Nation (Nimpkish)
+6613|Nanaimo (Snuneymuxw)
+6614|Nanoose First Nation
+6615|Naskapi
+6616|Nation Huronne Wendat
+6617|Nipissing First Nation
+6618|North Thompson Band (Simpcw First Nation)
+6619|Nuu-chah-nulth (Nootka)
+6620|Odanak
+6621|Ohiaht Band (Huu-ay-aht First Nation)
+6622|Oneida Nation of the Thames
+6623|Opaskwayak Cree Nation
+6624|Osoyoos Band
+6625|Pacheedaht First Nation
+6626|Pauquachin
+6627|Peepeekisis
+6628|Peguis
+6629|Penelakut
+6630|Penticton
+6631|Pine Creek
+6632|Plains Cree
+6633|Rainy River First Nations
+6634|Red Earth Band
+6635|Listuguj Mi'Gmaq First Nation
+6636|Roseau River
+6637|Saddle Lake
+6638|Sakimay First Nations
+6639|Sandy Bay Band
+6640|Sarcee (Tsuut'Ina Nation)
+6641|Saugeen
+6642|Saulteau First Nations
+6643|Saulteaux
+6644|Seabird Island
+6645|Sechelt
+6646|Seine River First Nation
+6647|Serpent River
+6648|Seton Lake
+6649|Shoal Lake Cree Nation
+6650|Shuswap
+6651|Siksika Canadian
+6652|Similkameen
+6653|Six Nations Canada
+6654|Six Nations of the Grand River
+6655|Skawahlook First Nation
+6656|Skeetchestn Indian Band
+6657|Skookum Chuck Band
+6658|Skowkale
+6659|Skuppah
+6660|Skwah First Nation
+6661|Skway First Nation
+6662|Songhees First Nation
+6663|Soowahlie First Nation
+6664|Spuzzum First Nation
+6665|Squamish Nation
+6666|Stanjikoming First Nation
+6667|Sto:lo Nation
+6668|Stone
+6669|Sucker Creek First Nation
+6670|Swampy Cree
+6671|Tahltan
+6672|Taku River Tlingit
+6673|Tete De Boule (Attikamek)
+6674|Thompson
+6675|Tobacco Plains Band
+6676|Tobique First Nation
+6677|Toquaht
+6678|Tsartlip
+6679|Tsawout First Nation
+6680|Tseycum
+6681|Uchucklesaht
+6682|Ucluelet First Nation
+6683|Vuntut Gwitchin First Nation
+6684|Wabauskang First Nation
+6685|Walpole Island
+6686|Wasauksing First Nation
+6687|Waywayseecappo First Nation
+6688|West Bay Band
+6689|White Bear Band
+6690|Whitefish Lake Band
+6691|Wikwemikong
+6692|Wolf Lake Band
+6693|Woodland Cree First Nation
+6694|Woodstock First Nation
+6695|Xaxli'p First Nation (Fountain Band)
+6696|Canadian Indian, Not Elsewhere Classified
+6800|Central American Indian
+6801|Belizean Indian
+6802|Cakchiquel
+6803|Choco
+6804|Costa Rican Indian
+6805|Salvadoran Indian
+6806|Guatemalan Indian
+6807|Guatemalan Mayan
+6808|Guaymi
+6809|Honduran Indian
+6810|Kanjobal
+6811|Kekchi
+6812|Kuna Indian
+6813|Lenca
+6814|Maya Central American
+6815|Miskito
+6816|Nicaraguan Indian
+6817|Panamanian Indian
+6818|Pipil
+6819|Quiche
+6820|Rama
+6821|Sumo
+6822|Nahua
+6839|Central American Indian, Not Elsewhere Classified
+6840|Mexican Indian
+6841|Amuzgo
+6843|Aztec
+6844|Chatino
+6845|Chinantec
+6846|Chocho
+6847|Concho
+6848|Cora
+6849|Cochimi
+6850|Cuicatec
+6851|Huastec
+6852|Huave
+6853|Huichol
+6854|Ixcatec
+6855|Lacandon
+6856|Lagunero
+6857|Mazahua
+6858|Mazatec
+6859|Mixe
+6860|Mixtec
+6861|Nahuatl
+6862|Olmec
+6863|Opata
+6864|Otomi
+6865|Popoluca
+6866|Seri
+6867|Tarahumara (Raramuri)
+6868|Tarasco (Purepecha)
+6869|Tepehua
+6870|Tequistlatec
+6871|Tlapanec
+6872|Tojolabal
+6873|Toltec
+6874|Triqui (Trique)
+6875|Tzeltal
+6876|Tzotzil
+6877|Zapotec
+6878|Zoque
+6879|Mexican American Indian
+6880|Chichimeca
+6914|Mexican Indian, Not Elsewhere Classified
+6915|South American Indian
+6916|Ache Indian
+6917|Amazon Indian
+6918|Andean Indian
+6919|Arawak
+6920|Argentinean Indian
+6921|Aymara
+6922|Bolivian Indian
+6923|Brazilian Indian
+6924|Canela
+6925|Chilean Indian
+6926|Colombian Indian
+6927|Ecuadorian Indian
+6928|Guarani
+6929|Guyanese South American Indian
+6930|Inca
+6931|Mapuche (Araucanian)
+6932|Maya South American
+6933|Paraguayan Indian
+6934|Peruvian Indian
+6935|Quechua
+6936|Quichua
+6937|Tehuelche
+6938|Tupi
+6939|Uruguayan Indian
+6940|Venezuelan Indian
+6941|Zaparo
+6959|South American Indian, Not Elsewhere Classified
+6960|Caribbean Indian
+6961|Carib
+6962|Taino
+6963|Dominican Indian
+6964|Puerto Rican Indian
+6965|Cuban Indian
+6974|Caribbean Indian, Not Elsewhere Classified
+6975|Spanish American Indian
+6979|Spanish American Indian, Not Elsewhere Classified
+6980|Mesoamerican Indian
+6981|Mayo
+6982|Maya
+6989|Mesoamerican Indian, Not Elsewhere Classified
+7001|Middle Eastern or North African (Write-in)
+7004|Middle Eastern or North African (Edit Generated)
+7010|Algerian
+7020|Arab
+7030|Assyrian
+7040|Bahraini
+7050|Berber
+7060|Chaldean
+7071|Egyptian
+7072|Copt
+7080|Emirati
+7091|Iranian
+7100|Iraqi
+7111|Israeli
+7120|Jordanian
+7130|Kurdish
+7140|Kuwaiti
+7151|Lebanese
+7160|Libyan
+7170|Middle Eastern
+7181|Moroccan
+7190|North African
+7200|Omani
+7210|Palestinian
+7220|Qatari
+7230|Saudi
+7240|Syriac
+7251|Syrian
+7260|Tunisian
+7270|Yazidi
+7280|Yemeni
+7399|Middle Eastern or North African Responses, Not Elsewhere Classified
+7500|Native Hawaiian and Other Pacific Islander (Checkbox)
+7501|Native Hawaiian and Other Pacific Islander (Write-in)
+7502|Pacific Islander American (By Checkbox)
+7503|Pacific Islander American (By Write-in)
+7504|NHPI (Edit Generated)
+7505|Polynesian
+7510|Cook Islander
+7515|Easter Islander
+7520|French Polynesian
+7525|Maori
+7530|Native Hawaiian (Detailed Checkbox)
+7531|Native Hawaiian
+7532|Hawaiian
+7535|Part Hawaiian
+7540|Niuean
+7545|Rotuman
+7550|Samoan (Detailed Checkbox)
+7551|Samoan
+7555|Tahitian
+7561|Tongan
+7565|Tokelauan
+7570|Tuvaluan
+7575|Wallisian and Futunan
+7604|Polynesian Responses, Not Elsewhere Classified
+7605|Micronesian
+7610|Carolinian
+7615|Chamorro (Detailed Checkbox)
+7616|Chamorro
+7620|Chuukese
+7625|Guamanian
+7630|I-Kiribati
+7635|Kosraean
+7641|Marshallese
+7642|Bikinian
+7643|Ejit
+7644|Kili
+7645|Mili
+7646|Enewetak Islander
+7647|Ujelang
+7648|Ebeye
+7649|Kwajalein Islander
+7655|Nauruan
+7660|Northern Mariana Islander
+7665|Palauan
+7670|Pohnpeian
+7675|Saipanese
+7680|Yapese
+7704|Micronesian Responses, Not Elsewhere Classified
+7705|Melanesian
+7711|Fijian
+7712|Indo Fijian
+7715|Papua New Guinean
+7720|Solomon Islander
+7725|Ni-Vanuatu
+7730|New Caledonian
+7804|Melanesian Responses, Not Elsewhere Classified
+7805|Other Pacific Islander (Checkbox)
+7806|Pacific Islander
+8000|Some Other Race (Checkbox)
+8001|Some Other Race (Write-in)
+8002|Other Race
+8003|Some Other Race American (By Checkbox)
+8004|Some Other Race American (By Write-In)
+8005|SOR (Edit Generated)
+8010|Aborigines
+8020|Aruban
+8030|Aryan
+8040|Belizean
+8050|Bermudan
+8060|Brazilian
+8080|Cabo Verdean
+8090|Caribbean
+8100|Cayman Islander
+8120|Comorian
+8130|Creole
+8140|Guyanese
+8141|Guyanese Indian
+8170|Indian
+8180|Indigenous
+8190|Mauritanian
+8200|North American
+8210|Other Caribbean or South American Responses, Not Elsewhere Classified
+8220|Surinamese
+8230|Turkic
+8500|Amerasian
+8510|Biracial
+8520|Eurasian
+8530|Interracial
+8540|Mixed
+8549|Mixed Responses, Not Elsewhere Classified
+8550|Mulatto
+8560|Multicultural
+8570|Multiracial
+9950|Not Hispanic (checkbox)

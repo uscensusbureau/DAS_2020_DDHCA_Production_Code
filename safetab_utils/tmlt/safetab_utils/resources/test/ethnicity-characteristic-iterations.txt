@@ -1,0 +1,9 @@
+ITERATION_CODE|ITERATION_NAME|LEVEL|DETAILED_ONLY|COARSE_ONLY
+3007|Not Hispanic or Latino (of any race)|0|Null|Null
+3008|Hispanic or Latino (of any race)|0|Null|Null
+3010|Central American|1|False|False
+3011|Costa Rican|2|False|False
+3040|Other Hispanic or Latino, not specified (All geos)|2|False|True
+3042|Latino(a)|2|True|False
+3080|Uncommon level 1 ethnicity|1|True|False
+3081|Uncommon level 2 ethnicity|2|True|False

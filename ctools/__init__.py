@@ -1,0 +1,5 @@
+MAJOR = "2"
+MINOR = "3"
+PATCH = "1"
+BUILD = "2"
+__version__=f"{MAJOR}.{MINOR}.{PATCH}.{BUILD}"

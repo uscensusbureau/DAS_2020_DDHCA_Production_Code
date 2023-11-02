@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: tmlt-common
+Version: 0.8.1
+Summary: Common utility functions used by Tumult projects
+Requires-Python: >=3.7.4,<3.8.0
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: boto3 (>=1.16.0,<2.0.0)
+Requires-Dist: numpy (>=1.21.0,<1.21.6)
+Requires-Dist: pandas (>=1.2.0,<2.0.0)
+Requires-Dist: pyarrow (>=6.0.0,<7.0.0)
+Requires-Dist: pyspark[sql] (>=3.0.0,<3.1.0)
+Requires-Dist: scipy (>=1.4.1,<1.6.1)
+Requires-Dist: smart_open (>=5.2.0,<6.0.0)
+Description-Content-Type: text/markdown
+
+# Common Utility
+
+This module primarily contains common utility functions used by different Tumult projects.
+
+<placeholder: add notice if required>
+
+## Overview
+
+The utility functions include:
+* Methods to serialize/deserialize objects into json format (marshallable).
+* Expected error computations.
+* A tool for creating error reports.
+
+See [CHANGELOG](CHANGELOG.md) for version number information and changes from past versions.
+
+## Testing
+
+To run the tests, install the required dependencies from the `test_requirements.txt`
+
+```
+pip install -r test_requirements.txt
+```
+
+*All tests (including Doctest):*
+
+```bash
+nosetests tmlt/common --with-doctest
+```
+
+See `examples` for examples of features of `common`.
+

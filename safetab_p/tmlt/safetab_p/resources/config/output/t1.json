@@ -1,0 +1,51 @@
+{
+    "marshalled": true,
+    "class": "tmlt.common.configuration.Config",
+    "init_params": {
+        "attributes": [
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.CategoricalStr",
+                "init_params": {
+                    "column": "REGION_TYPE",
+                    "values": [
+                        "USA",
+                        "STATE",
+                        "COUNTY",
+                        "TRACT",
+                        "PLACE",
+                        "AIANNH",
+                        "PR-STATE",
+                        "PR-COUNTY",
+                        "PR-TRACT",
+                        "PR-PLACE"
+                    ]
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "REGION_ID",
+                    "pattern": "1|(\\d{2}|\\d{5}|\\d{11}|\\d{7}|\\d{4})$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "ITERATION_CODE",
+                    "pattern": "\\d{1,4}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "COUNT",
+                    "pattern": "-?\\d+$"
+                }
+            }
+        ]
+    }
+}

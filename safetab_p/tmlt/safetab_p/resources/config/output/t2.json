@@ -1,0 +1,75 @@
+{
+    "marshalled": true,
+    "class": "tmlt.common.configuration.Config",
+    "init_params": {
+        "attributes": [
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.CategoricalStr",
+                "init_params": {
+                    "column": "REGION_TYPE",
+                    "values": [
+                        "USA",
+                        "STATE",
+                        "COUNTY",
+                        "TRACT",
+                        "PLACE",
+                        "AIANNH",
+                        "PR-STATE",
+                        "PR-COUNTY",
+                        "PR-TRACT",
+                        "PR-PLACE"
+                    ]
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "REGION_ID",
+                    "pattern": "1|(\\d{2}|\\d{5}|\\d{11}|\\d{7}|\\d{4})$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "ITERATION_CODE",
+                    "pattern": "\\d{1,4}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "AGESTART",
+                    "pattern": "\\*|0|5|(10)|(15)|(18)|(20)|(21)|(22)|(25)|(30)|(35)|(40)|(45)|(50)|(55)|(60)|(62)|(65)|(67)|(70)|(75)|(80)|(85)|$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "AGEEND",
+                    "pattern": "\\*|4|(9)|(14)|(17)|(19)|(20)|(21)|(24)|(29)|(34)|(39)|(44)|(49)|(54)|(59)|(61)|(64)|(66)|(69)|(74)|(79)|(84)|(115)$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "SEX",
+                    "pattern": "1|2$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "COUNT",
+                    "pattern": "-?\\d+$"
+                }
+            }
+        ]
+    }
+}

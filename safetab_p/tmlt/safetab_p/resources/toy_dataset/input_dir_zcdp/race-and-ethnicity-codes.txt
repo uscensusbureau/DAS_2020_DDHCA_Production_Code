@@ -1,0 +1,28 @@
+RACE_ETH_CODE|RACE_ETH_NAME
+1000|White
+1001|European
+1010|Albanian1
+1011|Albanian2
+1012|Albanian3
+1020|Alsatian1
+1021|Alsatian2
+1031|Other European
+1340|Slovak
+2000|Hispanic, Latino, or Spanish (Checkbox)
+2010|Central American
+2020|Costa Rican1
+2021|Costa Rican2
+2030|Other Hispanic
+2040|Lantino
+2322|Dominican Indian (Edit Generated)
+3105|Angolan
+3166|Ethiopian
+3310|Zimbabwean
+5230|Inupiat Community of the Arctic Slope
+5454|Newhalen Village
+7030|Assyrian
+7680|Yapese
+8000|Race code for Uncommon1a
+8001|Race code for Uncommon2a
+8002|Race code for Uncommon3a
+8080|Race code for Uncommon ethniciy

@@ -1,0 +1,3018 @@
+ITERATION_CODE|ITERATION_NAME|LEVEL|ALONE|DETAILED_ONLY|COARSE_ONLY
+1001|White alone|0|True|Null|Null
+1002|European alone|1|True|False|False
+1003|Albanian alone|2|True|False|False
+1004|Alsatian alone|2|True|False|False
+1005|Andorran alone|2|True|False|False
+1006|Armenian alone|2|True|False|False
+1007|Austrian alone|2|True|False|False
+1008|Azerbaijani alone|2|True|False|False
+1009|Basque alone|2|True|False|False
+1010|Belarusian alone|2|True|False|False
+1011|Belgian alone|2|True|False|False
+1012|Bosnian and Herzegovinian alone|2|True|False|False
+1013|British alone|2|True|False|False
+1014|British Islander alone|2|True|False|False
+1015|Bulgarian alone|2|True|False|False
+1016|Carpatho Rusyn alone|2|True|False|False
+1017|Celtic alone|2|True|False|False
+1018|Cornish alone|2|True|False|False
+1019|Croatian alone|2|True|False|False
+1020|Cypriot alone|2|True|False|False
+1021|Czech alone|2|True|False|False
+1022|Danish alone|2|True|False|False
+1023|Dutch alone|2|True|False|False
+1024|English alone|2|True|False|False
+1025|Estonian alone|2|True|False|False
+1026|Faroe Islander alone|2|True|False|False
+1027|Finnish alone|2|True|False|False
+1028|French alone|2|True|False|False
+1029|Frisian alone|2|True|False|False
+1030|Georgian alone|2|True|False|False
+1031|German alone|2|True|False|False
+1032|Greek alone|2|True|False|False
+1033|Hungarian alone|2|True|False|False
+1034|Icelandic alone|2|True|False|False
+1035|Irish alone|2|True|False|False
+1036|Italian alone|2|True|False|False
+1037|Kosovan alone|2|True|False|False
+1038|Lapp alone|2|True|False|False
+1039|Latvian alone|2|True|False|False
+1040|Liechtensteiner alone|2|True|False|False
+1041|Lithuanian alone|2|True|False|False
+1042|Luxembourger alone|2|True|False|False
+1043|Macedonian alone|2|True|False|False
+1044|Maltese alone|2|True|False|False
+1045|Manx alone|2|True|False|False
+1046|Moldovan alone|2|True|False|False
+1047|Monegasque alone|2|True|False|False
+1048|Montenegrin alone|2|True|False|False
+1049|Northern Irelander alone|2|True|False|False
+1050|Norwegian alone|2|True|False|False
+1051|Polish alone|2|True|False|False
+1052|Portuguese alone|2|True|False|False
+1053|Roma alone|2|True|False|False
+1054|Romanian alone|2|True|False|False
+1055|Russian alone|2|True|False|False
+1056|Scandinavian alone|2|True|False|False
+1057|Scots-Irish alone|2|True|False|False
+1058|Scottish alone|2|True|False|False
+1059|Serbian alone|2|True|False|False
+1060|Slavic alone|2|True|False|False
+1061|Slovak alone|2|True|False|False
+1062|Slovenian alone|2|True|False|False
+1063|Swedish alone|2|True|False|False
+1064|Swiss alone|2|True|False|False
+1065|Tatar alone|2|True|False|False
+1066|Turkish alone|2|True|False|False
+1067|Ukrainian alone|2|True|False|False
+1068|Welsh alone|2|True|False|False
+1069|Other European alone|2|True|True|False
+1070|Other European alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+1071|Middle Eastern or North African alone|1|True|False|False
+1072|Algerian alone|2|True|False|False
+1073|Arab alone|2|True|False|False
+1074|Assyrian alone|2|True|False|False
+1075|Bahraini alone|2|True|False|False
+1076|Berber alone|2|True|False|False
+1077|Chaldean alone|2|True|False|False
+1078|Egyptian alone|2|True|False|False
+1079|Emirati alone|2|True|False|False
+1080|Iranian alone|2|True|False|False
+1081|Iraqi alone|2|True|False|False
+1082|Israeli alone|2|True|False|False
+1083|Jordanian alone|2|True|False|False
+1084|Kurdish alone|2|True|False|False
+1085|Kuwaiti alone|2|True|False|False
+1086|Lebanese alone|2|True|False|False
+1087|Libyan alone|2|True|False|False
+1088|Moroccan alone|2|True|False|False
+1089|Omani alone|2|True|False|False
+1090|Palestinian alone|2|True|False|False
+1091|Qatari alone|2|True|False|False
+1092|Saudi alone|2|True|False|False
+1093|Syriac alone|2|True|False|False
+1094|Syrian alone|2|True|False|False
+1095|Tunisian alone|2|True|False|False
+1096|Yazidi alone|2|True|False|False
+1097|Yemeni alone|2|True|False|False
+1098|Other Middle Eastern or North African alone|2|True|True|False
+1099|Other Middle Eastern or North African alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+1100|Other White alone|1|True|False|False
+1101|Afrikaner alone|2|True|False|False
+1102|Australian alone|2|True|False|False
+1103|Cajun alone|2|True|False|False
+1104|Canadian alone|2|True|False|False
+1105|French Canadian alone|2|True|False|False
+1106|Greenlandic alone|2|True|False|False
+1107|New Zealander alone|2|True|False|False
+1108|Pennsylvania German alone|2|True|False|False
+1109|Other White alone, specified|2|True|True|False
+1110|Other White alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+1111|Other White alone, not specified|2|True|False|False
+1112|White alone or in combination with one or more other races|0|False|Null|Null
+1113|European alone or in any combination|1|False|False|False
+1114|Albanian alone or in any combination|2|False|False|False
+1115|Alsatian alone or in any combination|2|False|False|False
+1116|Andorran alone or in any combination|2|False|False|False
+1117|Armenian alone or in any combination|2|False|False|False
+1118|Austrian alone or in any combination|2|False|False|False
+1119|Azerbaijani alone or in any combination|2|False|False|False
+1120|Basque alone or in any combination|2|False|False|False
+1121|Belarusian alone or in any combination|2|False|False|False
+1122|Belgian alone or in any combination|2|False|False|False
+1123|Bosnian and Herzegovinian alone or in any combination|2|False|False|False
+1124|British alone or in any combination|2|False|False|False
+1125|British Islander alone or in any combination|2|False|False|False
+1126|Bulgarian alone or in any combination|2|False|False|False
+1127|Carpatho Rusyn alone or in any combination|2|False|False|False
+1128|Celtic alone or in any combination|2|False|False|False
+1129|Cornish alone or in any combination|2|False|False|False
+1130|Croatian alone or in any combination|2|False|False|False
+1131|Cypriot alone or in any combination|2|False|False|False
+1132|Czech alone or in any combination|2|False|False|False
+1133|Danish alone or in any combination|2|False|False|False
+1134|Dutch alone or in any combination|2|False|False|False
+1135|English alone or in any combination|2|False|False|False
+1136|Estonian alone or in any combination|2|False|False|False
+1137|Faroe Islander alone or in any combination|2|False|False|False
+1138|Finnish alone or in any combination|2|False|False|False
+1139|French alone or in any combination|2|False|False|False
+1140|Frisian alone or in any combination|2|False|False|False
+1141|Georgian alone or in any combination|2|False|False|False
+1142|German alone or in any combination|2|False|False|False
+1143|Greek alone or in any combination|2|False|False|False
+1144|Hungarian alone or in any combination|2|False|False|False
+1145|Icelandic alone or in any combination|2|False|False|False
+1146|Irish alone or in any combination|2|False|False|False
+1147|Italian alone or in any combination|2|False|False|False
+1148|Kosovan alone or in any combination|2|False|False|False
+1149|Lapp alone or in any combination|2|False|False|False
+1150|Latvian alone or in any combination|2|False|False|False
+1151|Liechtensteiner alone or in any combination|2|False|False|False
+1152|Lithuanian alone or in any combination|2|False|False|False
+1153|Luxembourger alone or in any combination|2|False|False|False
+1154|Macedonian alone or in any combination|2|False|False|False
+1155|Maltese alone or in any combination|2|False|False|False
+1156|Manx alone or in any combination|2|False|False|False
+1157|Moldovan alone or in any combination|2|False|False|False
+1158|Monegasque alone or in any combination|2|False|False|False
+1159|Montenegrin alone or in any combination|2|False|False|False
+1160|Northern Irelander alone or in any combination|2|False|False|False
+1161|Norwegian alone or in any combination|2|False|False|False
+1162|Polish alone or in any combination|2|False|False|False
+1163|Portuguese alone or in any combination|2|False|False|False
+1164|Roma alone or in any combination|2|False|False|False
+1165|Romanian alone or in any combination|2|False|False|False
+1166|Russian alone or in any combination|2|False|False|False
+1167|Scandinavian alone or in any combination|2|False|False|False
+1168|Scots-Irish alone or in any combination|2|False|False|False
+1169|Scottish alone or in any combination|2|False|False|False
+1170|Serbian alone or in any combination|2|False|False|False
+1171|Slavic alone or in any combination|2|False|False|False
+1172|Slovak alone or in any combination|2|False|False|False
+1173|Slovenian alone or in any combination|2|False|False|False
+1174|Swedish alone or in any combination|2|False|False|False
+1175|Swiss alone or in any combination|2|False|False|False
+1176|Tatar alone or in any combination|2|False|False|False
+1177|Turkish alone or in any combination|2|False|False|False
+1178|Ukrainian alone or in any combination|2|False|False|False
+1179|Welsh alone or in any combination|2|False|False|False
+1180|Other European alone or in any combination|2|False|True|False
+1181|Other European alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+1182|Middle Eastern or North African alone or in any combination|1|False|False|False
+1183|Algerian alone or in any combination|2|False|False|False
+1184|Arab alone or in any combination|2|False|False|False
+1185|Assyrian alone or in any combination|2|False|False|False
+1186|Bahraini alone or in any combination|2|False|False|False
+1187|Berber alone or in any combination|2|False|False|False
+1188|Chaldean alone or in any combination|2|False|False|False
+1189|Egyptian alone or in any combination|2|False|False|False
+1190|Emirati alone or in any combination|2|False|False|False
+1191|Iranian alone or in any combination|2|False|False|False
+1192|Iraqi alone or in any combination|2|False|False|False
+1193|Israeli alone or in any combination|2|False|False|False
+1194|Jordanian alone or in any combination|2|False|False|False
+1195|Kurdish alone or in any combination|2|False|False|False
+1196|Kuwaiti alone or in any combination|2|False|False|False
+1197|Lebanese alone or in any combination|2|False|False|False
+1198|Libyan alone or in any combination|2|False|False|False
+1199|Moroccan alone or in any combination|2|False|False|False
+1200|Omani alone or in any combination|2|False|False|False
+1201|Palestinian alone or in any combination|2|False|False|False
+1202|Qatari alone or in any combination|2|False|False|False
+1203|Saudi alone or in any combination|2|False|False|False
+1204|Syriac alone or in any combination|2|False|False|False
+1205|Syrian alone or in any combination|2|False|False|False
+1206|Tunisian alone or in any combination|2|False|False|False
+1207|Yazidi alone or in any combination|2|False|False|False
+1208|Yemeni alone or in any combination|2|False|False|False
+1209|Other Middle Eastern or North African alone or in any combination|2|False|True|False
+1210|Other Middle Eastern or North African alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+1211|Other White alone or in any combination|1|False|False|False
+1212|Afrikaner alone or in any combination|2|False|False|False
+1213|Australian alone or in any combination|2|False|False|False
+1214|Cajun alone or in any combination|2|False|False|False
+1215|Canadian alone or in any combination|2|False|False|False
+1216|French Canadian alone or in any combination|2|False|False|False
+1217|Greenlandic alone or in any combination|2|False|False|False
+1218|New Zealander alone or in any combination|2|False|False|False
+1219|Pennsylvania German alone or in any combination|2|False|False|False
+1220|Other White alone or in any combination, specified|2|False|True|False
+1221|Other White alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+1222|Other White alone or in any combination, not specified|2|False|False|False
+1223|Black or African American alone|0|True|Null|Null
+1224|African American alone|2|True|False|False
+1225|Sub-Saharan African alone|1|True|False|False
+1226|Angolan alone|2|True|False|False
+1227|Beninese alone|2|True|False|False
+1228|Bisseau-Guinean alone|2|True|False|False
+1229|Burkinabe alone|2|True|False|False
+1230|Burundian alone|2|True|False|False
+1231|Cameroonian alone|2|True|False|False
+1232|Central African alone|2|True|False|False
+1233|Chadian alone|2|True|False|False
+1234|Congolese alone|2|True|False|False
+1235|Djiboutian alone|2|True|False|False
+1236|Equatorial Guinean alone|2|True|False|False
+1237|Eritrean alone|2|True|False|False
+1238|Ethiopian alone|2|True|False|False
+1239|Gabonese alone|2|True|False|False
+1240|Gambian alone|2|True|False|False
+1241|Ghanaian alone|2|True|False|False
+1242|Guinean alone|2|True|False|False
+1243|Ivoirian alone|2|True|False|False
+1244|Kenyan alone|2|True|False|False
+1245|Liberian alone|2|True|False|False
+1246|Malagasy alone|2|True|False|False
+1247|Malawian alone|2|True|False|False
+1248|Malian alone|2|True|False|False
+1249|Motswana alone|2|True|False|False
+1250|Mozambican alone|2|True|False|False
+1251|Namibian alone|2|True|False|False
+1252|Nigerian (Nigeria) alone|2|True|False|False
+1253|Nigerien (Niger) alone|2|True|False|False
+1254|Rwandan alone|2|True|False|False
+1255|Senegalese alone|2|True|False|False
+1256|Sierra Leonean alone|2|True|False|False
+1257|Somali alone|2|True|False|False
+1258|South African alone|2|True|False|False
+1259|South Sudanese alone|2|True|False|False
+1260|Sudanese alone|2|True|False|False
+1261|Swazi alone|2|True|False|False
+1262|Tanzanian alone|2|True|False|False
+1263|Togolese alone|2|True|False|False
+1264|Ugandan alone|2|True|False|False
+1265|Zambian alone|2|True|False|False
+1266|Zimbabwean alone|2|True|False|False
+1267|Other Sub-Saharan African alone|2|True|True|False
+1268|Other Sub-Saharan African alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+1269|Caribbean alone|1|True|False|False
+1270|Anguillan alone|2|True|False|False
+1271|Antiguan and Barbudan alone|2|True|False|False
+1272|Bahamian alone|2|True|False|False
+1273|Barbadian alone|2|True|False|False
+1274|British Virgin Islander alone|2|True|False|False
+1275|Dominica Islander alone|2|True|False|False
+1276|Grenadian alone|2|True|False|False
+1277|Haitian alone|2|True|False|False
+1278|Jamaican alone|2|True|False|False
+1279|Kittian and Nevisian alone|2|True|False|False
+1280|Montserratian alone|2|True|False|False
+1281|St. Lucian alone|2|True|False|False
+1282|Trinidadian and Tobagonian alone|2|True|False|False
+1283|U.S. Virgin Islander alone|2|True|False|False
+1284|Vincentian alone|2|True|False|False
+1285|West Indian alone|2|True|False|False
+1286|Other Caribbean alone|2|True|True|False
+1287|Other Caribbean alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+1288|Other Black or African American alone|1|True|False|False
+1289|Other Black or African American alone, specified|2|True|True|False
+1290|Other Black or African American alone, not specified|2|True|False|False
+1291|Black or African American alone or in combination with one or more other races|0|False|Null|Null
+1292|African American alone or in any combination|2|False|False|False
+1293|Sub-Saharan African alone or in any combination|1|False|False|False
+1294|Angolan alone or in any combination|2|False|False|False
+1295|Beninese alone or in any combination|2|False|False|False
+1296|Bisseau-Guinean alone or in any combination|2|False|False|False
+1297|Burkinabe alone or in any combination|2|False|False|False
+1298|Burundian alone or in any combination|2|False|False|False
+1299|Cameroonian alone or in any combination|2|False|False|False
+1300|Central African alone or in any combination|2|False|False|False
+1301|Chadian alone or in any combination|2|False|False|False
+1302|Congolese alone or in any combination|2|False|False|False
+1303|Djiboutian alone or in any combination|2|False|False|False
+1304|Equatorial Guinean alone or in any combination|2|False|False|False
+1305|Eritrean alone or in any combination|2|False|False|False
+1306|Ethiopian alone or in any combination|2|False|False|False
+1307|Gabonese alone or in any combination|2|False|False|False
+1308|Gambian alone or in any combination|2|False|False|False
+1309|Ghanaian alone or in any combination|2|False|False|False
+1310|Guinean alone or in any combination|2|False|False|False
+1311|Ivoirian alone or in any combination|2|False|False|False
+1312|Kenyan alone or in any combination|2|False|False|False
+1313|Liberian alone or in any combination|2|False|False|False
+1314|Malagasy alone or in any combination|2|False|False|False
+1315|Malawian alone or in any combination|2|False|False|False
+1316|Malian alone or in any combination|2|False|False|False
+1317|Motswana alone or in any combination|2|False|False|False
+1318|Mozambican alone or in any combination|2|False|False|False
+1319|Namibian alone or in any combination|2|False|False|False
+1320|Nigerian (Nigeria) alone or in any combination|2|False|False|False
+1321|Nigerien (Niger) alone or in any combination|2|False|False|False
+1322|Rwandan alone or in any combination|2|False|False|False
+1323|Senegalese alone or in any combination|2|False|False|False
+1324|Sierra Leonean alone or in any combination|2|False|False|False
+1325|Somali alone or in any combination|2|False|False|False
+1326|South African alone or in any combination|2|False|False|False
+1327|South Sudanese alone or in any combination|2|False|False|False
+1328|Sudanese alone or in any combination|2|False|False|False
+1329|Swazi alone or in any combination|2|False|False|False
+1330|Tanzanian alone or in any combination|2|False|False|False
+1331|Togolese alone or in any combination|2|False|False|False
+1332|Ugandan alone or in any combination|2|False|False|False
+1333|Zambian alone or in any combination|2|False|False|False
+1334|Zimbabwean alone or in any combination|2|False|False|False
+1335|Other Sub-Saharan African alone or in any combination|2|False|True|False
+1336|Other Sub-Saharan African alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+1337|Caribbean alone or in any combination|1|False|False|False
+1338|Anguillan alone or in any combination|2|False|False|False
+1339|Antiguan and Barbudan alone or in any combination|2|False|False|False
+1340|Bahamian alone or in any combination|2|False|False|False
+1341|Barbadian alone or in any combination|2|False|False|False
+1342|British Virgin Islander alone or in any combination|2|False|False|False
+1343|Dominica Islander alone or in any combination|2|False|False|False
+1344|Grenadian alone or in any combination|2|False|False|False
+1345|Haitian alone or in any combination|2|False|False|False
+1346|Jamaican alone or in any combination|2|False|False|False
+1347|Kittian and Nevisian alone or in any combination|2|False|False|False
+1348|Montserratian alone or in any combination|2|False|False|False
+1349|St. Lucian alone or in any combination|2|False|False|False
+1350|Trinidadian and Tobagonian alone or in any combination|2|False|False|False
+1351|U.S. Virgin Islander alone or in any combination|2|False|False|False
+1352|Vincentian alone or in any combination|2|False|False|False
+1353|West Indian alone or in any combination|2|False|False|False
+1354|Other Caribbean alone or in any combination|2|False|True|False
+1355|Other Caribbean alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+1356|Other Black or African American alone or in any combination|1|False|False|False
+1357|Other Black or African American alone or in any combination, specified|2|False|True|False
+1358|Other Black or African American alone or in any combination, not specified|2|False|False|False
+1359|American Indian and Alaska Native alone|0|True|Null|Null
+1360|Alaska Native alone|1|True|False|False
+1361|Agdaagux Tribe of King Cove alone|2|True|False|False
+1362|Ahtna, Inc. Corporation alone|2|True|False|False
+1363|Akiachak Native Community alone|2|True|False|False
+1364|Akiak Native Community alone|2|True|False|False
+1365|Alanvik alone|2|True|True|False
+1366|Alaskan Athabascan alone|2|True|False|False
+1367|Alatna Village alone|2|True|False|False
+1368|Aleut alone|2|True|False|False
+1369|Aleut Corporation alone|2|True|False|False
+1370|Alexander alone|2|True|True|False
+1371|Algaaciq Native Village (St. Mary's) alone|2|True|False|False
+1372|Allakaket Village alone|2|True|False|False
+1373|Alutiiq alone|2|True|False|False
+1374|Alutiiq Tribe of Old Harbor alone|2|True|False|False
+1375|American Eskimo alone|2|True|True|False
+1376|Angoon Community Association alone|2|True|True|False
+1377|Anvik Village alone |2|True|False|False
+1378|Arctic Slope Corporation alone|2|True|False|False
+1379|Arctic Village alone|2|True|True|False
+1380|Asa'carsarmiut Tribe alone|2|True|False|False
+1381|Atqasuk Village (Atkasook) alone|2|True|False|False
+1382|Beaver Village alone|2|True|False|False
+1383|Bering Straits Inupiat alone|2|True|False|False
+1384|Birch Creek Tribe alone|2|True|True|False
+1385|Bristol Bay alone|2|True|False|False
+1386|Bristol Bay Aleut alone|2|True|True|False
+1387|Calista alone|2|True|False|False
+1388|Central Council of the Tlingit and Haida Indian Tribes alone|2|True|False|False
+1389|Chalkyitsik Village alone|2|True|False|False
+1390|Cheesh-Na Tribe (Chistochina) alone|2|True|True|False
+1391|Chevak Native Village alone|2|True|False|False
+1392|Chickaloon Native Village alone|2|True|False|False
+1393|Chignik Bay Tribal Council (Native Village of Chignik) alone|2|True|False|False
+1394|Chignik Lake Village alone|2|True|False|False
+1395|Chilkat Indian Village (Klukwan) alone |2|True|False|False
+1396|Chilkoot Indian Association (Haines) alone|2|True|False|False
+1397|Chinik Eskimo Community (Golovin) alone|2|True|False|False
+1398|Chugach Aleut alone|2|True|False|False
+1399|Chugach Corporation alone|2|True|False|False
+1400|Chuloonawick Native Village alone|2|True|True|False
+1401|Circle Native Community alone|2|True|False|False
+1402|Cook Inlet alone|2|True|False|False
+1403|Copper River alone|2|True|True|False
+1404|Craig Tribal Association alone|2|True|True|False
+1405|Curyung Tribal Council (Native Village of Dillingham) alone|2|True|False|False
+1406|Douglas Indian Association alone|2|True|True|False
+1407|Doyon alone|2|True|False|False
+1408|Egegik Village alone|2|True|False|False
+1409|Eklutna Native Village alone |2|True|False|False
+1410|Emmonak Village alone|2|True|False|False
+1411|Eskimo alone|2|True|False|False
+1412|Evansville Village (Bettles Field) alone|2|True|True|False
+1413|Galena Village (Louden Village) alone|2|True|False|False
+1414|Greenland Inuit alone|2|True|True|False
+1415|Gulkana Village Council alone|2|True|False|False
+1416|Haida alone|2|True|False|False
+1417|Holy Cross Tribe alone|2|True|False|False
+1418|Hoonah Indian Association alone |2|True|False|False
+1419|Hughes Village alone|2|True|False|False
+1420|Hydaburg Cooperative Association alone |2|True|False|False
+1421|Igiugig Village alone|2|True|True|False
+1422|Huslia Village alone |2|True|False|False
+1423|Inuit alone|2|True|False|False
+1424|Inupiat (Inupiaq) alone|2|True|False|False
+1425|Inupiat Community of the Arctic Slope alone|2|True|True|False
+1426|Iqugmuit Traditional Council alone|2|True|False|False
+1427|Ivanof Bay Village alone|2|True|True|False
+1428|Kaguyak Village alone|2|True|True|False
+1429|Kaktovik Village (Barter Island) alone|2|True|False|False
+1430|Kasigluk Traditional Elders Council alone|2|True|False|False
+1431|Kawerak alone|2|True|True|False
+1432|Kenaitze Indian Tribe alone|2|True|False|False
+1433|Ketchikan Indian Corporation alone|2|True|False|False
+1434|King Cove alone|2|True|True|False
+1435|King Island Native Community alone|2|True|False|False
+1436|King Salmon Tribe alone|2|True|True|False
+1437|Klawock Cooperative Association alone|2|True|True|False
+1438|Knik Tribe alone |2|True|False|False
+1439|Kodiak alone |2|True|False|False
+1440|Kokhanok Village alone|2|True|False|False
+1441|Koniag Aleut alone|2|True|False|False
+1442|Koyukuk Native Village alone|2|True|False|False
+1443|Lake Minchumina alone|2|True|True|False
+1444|Levelock Village alone|2|True|False|False
+1445|Lime Village alone|2|True|True|False
+1446|Manley Hot Springs Village alone|2|True|True|False
+1447|Manokotak Village alone|2|True|False|False
+1448|McGrath Native Village alone |2|True|False|False
+1449|Mentasta Traditional Council alone |2|True|False|False
+1450|Metlakatla Indian Community, Annette Island Reserve alone|2|True|False|False
+1451|Naknek Native Village alone|2|True|False|False
+1452|Nana Inupiat alone|2|True|False|False
+1453|Native Village of Afognak alone|2|True|False|False
+1454|Native Village of Akhiok alone|2|True|True|False
+1455|Native Village of Akutan alone|2|True|False|False
+1456|Native Village of Aleknagik alone|2|True|False|False
+1457|Native Village of Ambler alone|2|True|False|False
+1458|Native Village of Atka alone|2|True|False|False
+1459|Native Village of Barrow Inupiat Traditional Government alone|2|True|False|False
+1460|Native Village of Belkofski alone|2|True|True|False
+1461|Native Village of Brevig Mission alone|2|True|False|False
+1462|Native Village of Buckland alone|2|True|False|False
+1463|Native Village of Cantwell alone|2|True|True|False
+1464|Native Village of Chanega (Chenega) alone|2|True|False|False
+1465|Native Village of Chignik Lagoon alone|2|True|False|False
+1466|Native Village of Chitina alone |2|True|True|False
+1467|Native Village of Chuathbaluk alone|2|True|False|False
+1468|Native Village of Council alone|2|True|False|False
+1469|Native Village of Deering alone |2|True|False|False
+1470|Native Village of Diomede (Inalik) alone|2|True|False|False
+1471|Native Village of Eagle alone |2|True|False|False
+1472|Native Village of Eek alone|2|True|False|False
+1473|Native Village of Ekuk alone|2|True|True|False
+1474|Native Village of Ekwok alone|2|True|False|False
+1475|Native Village of Elim alone|2|True|False|False
+1476|Native Village of Eyak (Cordova) alone|2|True|False|False
+1477|Native Village of False Pass alone|2|True|True|False
+1478|Native Village of Fort Yukon alone|2|True|False|False
+1479|Native Village of Gakona alone|2|True|True|False
+1480|Native Village of Gambell alone|2|True|False|False
+1481|Native Village of Georgetown alone|2|True|True|False
+1482|Native Village of Goodnews Bay alone|2|True|False|False
+1483|Native Village of Hamilton alone|2|True|True|False
+1484|Native Village of Hooper Bay (Naparyarmiut) alone|2|True|False|False
+1485|Native Village of Kanatak alone|2|True|False|False
+1486|Native Village of Karluk alone|2|True|True|False
+1487|Native Village of Kiana alone|2|True|False|False
+1488|Native Village of Kipnuk alone|2|True|False|False
+1489|Native Village of Kivalina alone|2|True|False|False
+1490|Native Village of Kluti Kaah (Copper Center) alone|2|True|False|False
+1491|Native Village of Kobuk alone|2|True|False|False
+1492|Native Village of Kongiganak alone|2|True|False|False
+1493|Native Village of Kotzebue alone|2|True|False|False
+1494|Native Village of Koyuk alone|2|True|False|False
+1495|Native Village of Kwigillingok alone|2|True|False|False
+1496|Native Village of Kwinhagak (Quinhagak) alone|2|True|False|False
+1497|Native Village of Larsen Bay alone|2|True|False|False
+1498|Native Village of Marshall (Fortuna Ledge) alone|2|True|False|False
+1499|Native Village of Mary's Igloo alone|2|True|False|False
+1500|Native Village of Mekoryuk alone|2|True|False|False
+1501|Native Village of Minto alone|2|True|False|False
+1502|Native Village of Nanwalek (English Bay) alone|2|True|False|False
+1503|Native Village of Napaimute alone|2|True|True|False
+1504|Native Village of Napakiak alone|2|True|False|False
+1505|Native Village of Napaskiak alone|2|True|False|False
+1506|Native Village of Nelson Lagoon alone|2|True|True|False
+1507|Native Village of Nightmute alone|2|True|False|False
+1508|Native Village of Nikolski alone|2|True|True|False
+1509|Native Village of Noatak alone|2|True|False|False
+1510|Native Village of Nuiqsut (aka Nooiksut) alone|2|True|False|False
+1511|Native Village of Nunam Iqua alone|2|True|False|False
+1512|Native Village of Nunapitchuk alone|2|True|False|False
+1513|Native Village of Ouzinkie alone|2|True|False|False
+1514|Native Village of Paimiut alone|2|True|False|False
+1515|Native Village of Perryville alone|2|True|True|False
+1516|Native Village of Pilot Point alone|2|True|False|False
+1517|Native Village of Point Hope alone|2|True|False|False
+1518|Native Village of Point Lay alone|2|True|False|False
+1519|Native Village of Port Graham alone|2|True|False|False
+1520|Native Village of Port Heiden alone|2|True|False|False
+1521|Native Village of Port Lions alone|2|True|False|False
+1522|Native Village of Ruby alone|2|True|False|False
+1523|Native Village of Saint Michael alone|2|True|False|False
+1524|Native Village of Savoonga alone|2|True|False|False
+1525|Native Village of Scammon Bay alone|2|True|False|False
+1526|Native Village of Selawik alone|2|True|False|False
+1527|Native Village of Shaktoolik alone|2|True|False|False
+1528|Native Village of Shishmaref alone|2|True|False|False
+1529|Native Village of Shungnak alone|2|True|False|False
+1530|Native Village of Stevens alone|2|True|False|False
+1531|Native Village of Tanacross alone|2|True|False|False
+1532|Native Village of Tanana alone|2|True|False|False
+1533|Native Village of Tatitlek alone|2|True|True|False
+1534|Native Village of Tazlina alone|2|True|False|False
+1535|Native Village of Teller alone|2|True|False|False
+1536|Native Village of Tetlin alone|2|True|False|False
+1537|Native Village of Tuntutuliak alone|2|True|False|False
+1538|Native Village of Tununak alone|2|True|False|False
+1539|Native Village of Tyonek alone|2|True|False|False
+1540|Native Village of Unalakleet alone|2|True|False|False
+1541|Native Village of Unga alone |2|True|False|False
+1542|Native Village of Wales alone|2|True|False|False
+1543|Native Village of White Mountain alone|2|True|False|False
+1544|Nenana Native Association alone|2|True|False|False
+1545|New Koliganek Village Council alone|2|True|False|False
+1546|New Stuyahok Village alone|2|True|False|False
+1547|Newhalen Village alone|2|True|False|False
+1548|Newtok Village alone|2|True|False|False
+1549|Nikolai Village alone|2|True|False|False
+1550|Ninilchik Village alone|2|True|False|False
+1551|Nome Eskimo Community alone|2|True|False|False
+1552|Nondalton Village alone|2|True|False|False
+1553|Noorvik Native Community alone|2|True|False|False
+1554|Northway Village alone|2|True|False|False
+1555|Nulato Village alone|2|True|False|False
+1556|Nunakauyarmiut Tribe (Toksook Bay) alone|2|True|False|False
+1557|Organized Village of Grayling (Holikachuk) alone|2|True|False|False
+1558|Organized Village of Kake alone|2|True|False|False
+1559|Organized Village of Kasaan alone|2|True|True|False
+1560|Organized Village of Kwethluk alone|2|True|False|False
+1561|Organized Village of Saxman alone|2|True|False|False
+1562|Orutsararmiut Traditional Native Council alone|2|True|False|False
+1563|Oscarville Traditional Village alone|2|True|False|False
+1564|Pauloff Harbor Village alone|2|True|True|False
+1565|Pedro Bay Village alone|2|True|True|False
+1566|Pelican alone|2|True|True|False
+1567|Petersburg Indian Association alone|2|True|True|False
+1568|Pilot Station Traditional Village alone|2|True|False|False
+1569|Pitka's Point Traditional Council alone|2|True|False|False
+1570|Platinum Traditional Village alone|2|True|True|False
+1571|Portage Creek Village (Ohgsenakale) alone|2|True|True|False
+1572|Qagan Tayagungin Tribe of Sand Point Village alone|2|True|False|False
+1573|Qawalangin Tribe of Unalaska alone|2|True|False|False
+1574|Rampart Village alone|2|True|True|False
+1575|Saint George Island alone|2|True|False|False
+1576|Saint Paul Island alone|2|True|False|False
+1577|Salamatof Tribe alone|2|True|True|False
+1578|Sealaska Corporation (Southeast Alaska) alone|2|True|False|False
+1579|Seldovia Village Tribe alone|2|True|False|False
+1580|Shageluk Native Village alone|2|True|False|False
+1581|Siberian Yupik alone|2|True|False|False
+1582|Sitka Tribe of Alaska alone|2|True|False|False
+1583|Skagway Village alone|2|True|True|False
+1584|Slana alone|2|True|True|False
+1585|South Naknek Village alone|2|True|False|False
+1586|Stebbins Community Association alone|2|True|False|False
+1587|Sugpiaq alone|2|True|True|False
+1588|Sun'aq Tribe of Kodiak alone|2|True|False|False
+1589|Takotna Village alone|2|True|True|False
+1590|Tanana Chiefs alone|2|True|False|False
+1591|Tangirnaq Native Village alone |2|True|False|False
+1592|Telida Village alone|2|True|True|False
+1593|Tenakee Springs alone|2|True|True|False
+1594|Tlingit alone|2|True|False|False
+1595|Tok alone|2|True|True|False
+1596|Traditional Village of Togiak alone|2|True|False|False
+1597|Tsimshian alone|2|True|False|False
+1598|Tuluksak Native Community alone|2|True|False|False
+1599|Twin Hills Village alone|2|True|False|False
+1600|Ugashik Village alone|2|True|True|False
+1601|Umkumiut Native Village alone|2|True|True|False
+1602|Unangan (Unalaska) alone|2|True|True|False
+1603|Village of Alakanuk alone|2|True|False|False
+1604|Village of Anaktuvuk Pass alone|2|True|False|False
+1605|Village of Aniak alone|2|True|False|False
+1606|Village of Atmautluak alone|2|True|False|False
+1607|Village of Bill Moore's Slough alone|2|True|False|False
+1608|Village of Chefornak alone|2|True|False|False
+1609|Village of Clarks Point alone |2|True|False|False
+1610|Village of Crooked Creek alone|2|True|False|False
+1611|Village of Dot Lake alone|2|True|True|False
+1612|Village of Iliamna alone|2|True|True|False
+1613|Village of Kalskag alone|2|True|False|False
+1614|Village of Kaltag alone|2|True|False|False
+1615|Village of Kotlik alone|2|True|False|False
+1616|Village of Lower Kalskag alone|2|True|False|False
+1617|Village of Ohogamiut alone|2|True|False|False
+1618|Village of Red Devil alone|2|True|True|False
+1619|Village of Sleetmute alone|2|True|False|False
+1620|Village of Solomon alone|2|True|True|False
+1621|Village of Stony River alone|2|True|True|False
+1622|Village of Venetie alone|2|True|False|False
+1623|Village of Wainwright alone|2|True|True|False
+1624|Wiseman alone|2|True|True|False
+1625|Wrangell Cooperative Association alone|2|True|True|False
+1626|Yakutat Tlingit Tribe alone|2|True|False|False
+1627|Yupiit of Andreafski alone|2|True|False|False
+1628|Yup'ik (Yup'ik Eskimo) alone|2|True|False|False
+1629|Alaska Native alone, not specified|2|True|False|False
+1630|Other Alaska Native alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+1631|American Indian alone|1|True|False|False
+1632|Abenaki Nation of Missisquoi alone|2|True|False|False
+1633|Absentee Shawnee Tribe of Indians of Oklahoma alone|2|True|False|False
+1634|Agua Caliente alone |2|True|False|False
+1635|Agua Caliente Band of Cahuilla Indians alone|2|True|False|False
+1636|Ak-Chin Indian Community alone|2|True|False|False
+1637|Alabama Creek alone|2|True|True|False
+1638|Alabama Quassarte Tribal Town alone|2|True|False|False
+1639|Alabama-Coushatta Tribe of Texas alone|2|True|False|False
+1640|Algonquian alone|2|True|False|False
+1641|Allegheny Lenape alone |2|True|False|False
+1642|Alpine alone|2|True|True|False
+1643|Alsea alone|2|True|True|False
+1644|Alturas Indian Rancheria alone|2|True|True|False
+1645|Ani-stohini/Unami alone|2|True|True|False
+1646|Apache alone|2|True|False|False
+1647|Apache Tribe of Oklahoma alone|2|True|False|False
+1648|Arapaho alone|2|True|False|False
+1649|Arapaho Tribe of the Wind River Reservation, Wyoming alone|2|True|True|False
+1650|Aroostook Band of Micmacs alone|2|True|False|False
+1651|Assiniboine alone|2|True|False|False
+1652|Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana alone|2|True|False|False
+1653|Assonet Band of the Wampanoag Nation alone|2|True|True|False
+1654|Atakapa alone|2|True|False|False
+1655|Atsina alone|2|True|True|False
+1656|Augustine Band of Cahuilla Indians, California alone|2|True|True|False
+1657|Bad River Band of the Lake Superior Tribe alone|2|True|False|False
+1658|Bannock alone|2|True|True|False
+1659|Barona Group of Capitan Grande Band alone|2|True|False|False
+1660|Bay Mills Indian Community alone|2|True|False|False
+1661|Bear River Band of Rohnerville Rancheria alone|2|True|False|False
+1662|Beaver Creek Indians alone|2|True|False|False
+1663|Berry Creek Rancheria of Maidu Indians alone|2|True|False|False
+1664|Big Lagoon Rancheria alone|2|True|True|False
+1665|Big Pine Paiute Tribe of the Owens Valley alone|2|True|True|False
+1666|Big Sandy Rancheria of Western Mono Indians of California alone|2|True|False|False
+1667|Big Valley Band of Pomo Indians of the Big Valley Rancheria alone|2|True|False|False
+1668|Biloxi alone|2|True|True|False
+1669|Biloxi-Chitimacha Confederation alone|2|True|False|False
+1670|Bishop Paiute Tribe alone|2|True|False|False
+1671|Blackfeet Tribe of the Blackfeet Indian Reservation of Montana alone|2|True|False|False
+1672|Blue Lake Rancheria alone|2|True|True|False
+1673|Bois Forte Band (Nett Lake) alone|2|True|False|False
+1674|Bridgeport Paiute Indian Colony alone|2|True|True|False
+1675|Brotherton alone|2|True|False|False
+1676|Brule Sioux alone|2|True|True|False
+1677|Buena Vista Rancheria of Me-Wuk Indians of California alone|2|True|True|False
+1678|Burns Paiute Tribe alone|2|True|False|False
+1679|Burt Lake Band of Ottawa and Chippewa Indians alone|2|True|False|False
+1680|Cabazon Band of Mission Indians alone|2|True|True|False
+1681|Cachil Dehe Band of Wintun Indians of the Colusa Rancheria alone|2|True|True|False
+1682|Caddo Adais Indians alone|2|True|False|False
+1683|Caddo alone|2|True|False|False
+1684|Caddo Nation of Oklahoma alone|2|True|False|False
+1685|Cahto Indian Tribe of the Laytonville Rancheria alone|2|True|False|False
+1686|Cahuilla alone|2|True|False|False
+1687|Cahuilla Band of Indians alone|2|True|True|False
+1688|California Valley Miwok Tribe alone|2|True|True|False
+1689|Campo Band of Diegueno Mission Indians alone|2|True|False|False
+1690|Capitan Grande Band of Diegueno Mission Indians alone|2|True|True|False
+1691|Catawba Indian Nation alone|2|True|False|False
+1692|Cayuga Nation alone|2|True|False|False
+1693|Cayuse alone|2|True|False|False
+1694|Cedarville Rancheria alone|2|True|True|False
+1695|Celilo alone|2|True|True|False
+1696|Central Pomo alone|2|True|True|False
+1697|Chaloklowa Chickasaw alone|2|True|True|False
+1698|Chappaquiddick Tribe of the Wampanoag Indian Nation alone |2|True|False|False
+1699|Chaubunagungamaug Nipmuck alone|2|True|True|False
+1700|Chemakuan alone|2|True|True|False
+1701|Chemehuevi Indian Tribe alone|2|True|False|False
+1702|Cher-Ae Heights Indian Community of the Trinidad Rancheria alone|2|True|False|False
+1703|Cher-O-Creek Intratribal Indians alone|2|True|False|False
+1704|Cheroenhaka (Nottoway) alone|2|True|False|False
+1705|Cherokee Alabama alone|2|True|False|False
+1706|Cherokee alone|2|True|False|False
+1707|Cherokee Nation alone|2|True|False|False
+1708|Cherokee Bear Clan of South Carolina alone|2|True|True|False
+1709|Cherokee of Georgia alone|2|True|False|False
+1710|Cherokee Tribe of Northeast Alabama alone|2|True|False|False
+1711|Cheyenne alone|2|True|False|False
+1712|Cheyenne and Arapaho Tribes, Oklahoma alone|2|True|False|False
+1713|Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota alone|2|True|False|False
+1714|Chickahominy Indian Tribe alone|2|True|False|False
+1715|Chickahominy Indian Tribe - Eastern Division alone|2|True|True|False
+1716|The Chickasaw Nation alone|2|True|False|False
+1717|Chicken Ranch Rancheria of Me-Wuk Indians alone|2|True|True|False
+1718|Chimariko alone|2|True|True|False
+1719|Chinook alone|2|True|False|False
+1720|Chippewa alone|2|True|False|False
+1721|Chippewa Cree Indians of the Rocky Boy's Reservation, Montana alone|2|True|False|False
+1722|Chitimacha Tribe of Louisiana alone|2|True|False|False
+1723|Choctaw alone|2|True|False|False
+1724|Choctaw-Apache Community of Ebarb alone|2|True|False|False
+1725|The Choctaw Nation of Oklahoma alone|2|True|False|False
+1726|Chumash alone|2|True|False|False
+1727|Citizen Potawatomi Nation, Oklahoma alone|2|True|False|False
+1728|Clatsop alone |2|True|True|False
+1729|Clear Lake alone|2|True|True|False
+1730|Clifton Choctaw Tribe of Louisiana alone|2|True|False|False
+1731|Cloverdale Rancheria of Pomo Indians of California alone|2|True|False|False
+1732|Cocopah Tribe of Arizona alone|2|True|False|False
+1733|Coeur D'Alene alone|2|True|False|False
+1734|Coharie Indian Tribe alone|2|True|False|False
+1735|Cold Springs Rancheria of Mono Indians alone|2|True|False|False
+1736|Colorado River Indian Tribe alone|2|True|False|False
+1737|Columbia alone|2|True|True|False
+1738|Columbia River Chinook alone|2|True|True|False
+1739|Comanche Nation, Oklahoma alone|2|True|False|False
+1740|Confederated Salish and Kootenai Tribes of the Flathead Nation alone|2|True|False|False
+1741|Confederated Tribes and Bands of the Yakama Nation alone|2|True|False|False
+1742|Confederated Tribes of Siletz Indians of Oregon alone|2|True|False|False
+1743|Confederated Tribes of the Chehalis Reservation alone|2|True|False|False
+1744|Confederated Tribes of the Colville Reservation alone|2|True|False|False
+1745|Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians alone|2|True|False|False
+1746|Confederated Tribes of the Goshute Reservation alone|2|True|False|False
+1747|Confederated Tribes of the Grand Ronde Community of Oregon alone|2|True|False|False
+1748|Confederated Tribes of the Umatilla Indian Reservation alone|2|True|False|False
+1749|Confederated Tribes of Warm Springs alone|2|True|False|False
+1750|Coos alone|2|True|False|False
+1751|Coquille Indian Tribe alone|2|True|False|False
+1752|Costanoan alone|2|True|False|False
+1753|Coushatta alone|2|True|False|False
+1754|Coushatta Tribe of Louisiana alone|2|True|False|False
+1755|Cow Creek Band of Umpqua Tribe of Indians alone|2|True|False|False
+1756|Cowlitz Indian Tribe alone|2|True|False|False
+1757|Coyote Valley Band of Pomo Indians of California alone|2|True|False|False
+1758|Cree alone|2|True|False|False
+1759|Croatan alone|2|True|False|False
+1760|Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota alone|2|True|False|False
+1761|Crow Tribe of Montana alone|2|True|False|False
+1762|Cumberland County Association for Indian People alone|2|True|True|False
+1763|Cupeno alone|2|True|False|False
+1764|Delaware (Lenni-Lenape) alone|2|True|False|False
+1765|Delaware Nation alone|2|True|False|False
+1766|Delaware Tribe of Indians, Oklahoma alone |2|True|False|False
+1767|Dry Creek Rancheria Band of Pomo Indians, California alone|2|True|False|False
+1768|Duckwater Shoshone Tribe alone|2|True|False|False
+1769|Duwamish alone|2|True|False|False
+1770|East of the River Shawnee alone|2|True|True|False
+1771|Eastern Band of Cherokee Indians alone|2|True|False|False
+1772|Eastern Creek alone|2|True|False|False
+1773|Eastern Muscogee alone|2|True|True|False
+1774|Eastern Pequot alone|2|True|False|False
+1775|Eastern Pomo alone|2|True|True|False
+1776|Eastern Shawnee Tribe of Oklahoma alone|2|True|False|False
+1777|Eastern Shoshone Tribe of the Wind River Reservation, Wyoming alone|2|True|False|False
+1778|Echota Cherokee Tribe of Alabama alone|2|True|False|False
+1779|Edisto Natchez-Kusso Tribe of South Carolina (Natchez Indian Tribe) alone|2|True|False|False
+1780|Elem Indian Colony of the Sulphur Bank Rancheria alone |2|True|False|False
+1781|Elk Valley Rancheria alone|2|True|True|False
+1782|Elnu Abenaki Tribe alone|2|True|False|False
+1783|Ely Shoshone Tribe alone|2|True|False|False
+1784|Enterprise Rancheria of Maidu Indians alone|2|True|False|False
+1785|Esselen alone|2|True|False|False
+1786|Ewiiaapaayp Band of Kumeyaay Indians alone|2|True|True|False
+1787|Federated Indians of Graton Rancheria alone|2|True|False|False
+1788|Fernandeno Tataviam Band of Mission Indians alone|2|True|False|False
+1789|Flandreau Santee Sioux Tribe of South Dakota alone|2|True|False|False
+1790|Fond du Lac Band alone|2|True|False|False
+1791|Forest County Potawatomi Community, Wisconsin alone|2|True|False|False
+1792|Fort Belknap Indian Community of the Fort Belknap Reservation alone|2|True|False|False
+1793|Fort Bidwell Indian Community alone|2|True|False|False
+1794|Fort Independence Indian Community alone|2|True|True|False
+1795|Fort McDermitt Paiute and Shoshone Tribes of Nevada and Oregon alone|2|True|False|False
+1796|Fort McDowell Yavapai Nation alone|2|True|False|False
+1797|Fort Mojave Indian Tribe of Arizona, California, and Nevada alone|2|True|False|False
+1798|Fort Sill Apache Tribe of Oklahoma alone|2|True|False|False
+1799|Four Winds Cherokee alone|2|True|False|False
+1800|Gabrieleno alone|2|True|False|False
+1801|Georgetown alone|2|True|True|False
+1802|Georgia Eastern Cherokee alone|2|True|False|False
+1803|Gila River Indian Community of the Gila River Indian Reservation alone|2|True|False|False
+1804|Golden Hill Paugussett alone |2|True|False|False
+1805|Grand Portage Band alone|2|True|False|False
+1806|Grand River Band of Ottawa Indians alone|2|True|False|False
+1807|Grand Traverse Band of Ottawa and Chippewa Indians alone|2|True|False|False
+1808|Greenville Rancheria alone|2|True|False|False
+1809|Grindstone Indian Rancheria of Wintun-Wailaki Indians alone |2|True|False|False
+1810|Gros Ventres alone|2|True|False|False
+1811|Guidiville Rancheria of California alone|2|True|False|False
+1812|Guilford Native American Association alone|2|True|True|False
+1813|Habematolel Pomo of Upper Lake alone|2|True|False|False
+1814|Haliwa-Saponi Indian Tribe alone|2|True|False|False
+1815|Hannahville Potawatomi Indian Tribe, Michigan alone|2|True|False|False
+1816|Hassanamisco Band of the Nipmuc Nation alone|2|True|True|False
+1817|Havasupai Tribe of the Havasupai Reservation alone|2|True|False|False
+1818|Herring Pond Wampanoag Tribe alone|2|True|True|False
+1819|Ho-Chunk Nation alone|2|True|False|False
+1820|Hoh Indian Tribe alone|2|True|False|False
+1821|Hoopa Extension alone|2|True|True|False
+1822|Hoopa Valley Tribe alone|2|True|False|False
+1823|Hopi Tribe of Arizona alone|2|True|False|False
+1824|Hopland Band of Pomo Indians alone|2|True|False|False
+1825|Houlton Band of Maliseet Indians alone|2|True|False|False
+1826|Hualapai Indian Tribe of the Hualapai Indian Reservation alone|2|True|False|False
+1827|Iipay Nation of Santa Ysabel alone|2|True|False|False
+1828|Illinois Miami alone|2|True|False|False
+1829|Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation alone|2|True|True|False
+1830|Indian Township alone|2|True|True|False
+1831|Indiana Miami alone|2|True|False|False
+1832|Ione Band of Miwok Indians alone|2|True|False|False
+1833|Iowa (Tribe) alone|2|True|False|False
+1834|Iowa Tribe of Kansas and Nebraska alone|2|True|False|False
+1835|Iowa Tribe of Oklahoma alone|2|True|False|False
+1836|Iroquois alone|2|True|False|False
+1837|Jackson Band of Miwuk Indians alone|2|True|True|False
+1838|Jamestown S'Klallam Tribe alone|2|True|False|False
+1839|Jamul Indian Village alone|2|True|True|False
+1840|Jena Band of Choctaw Indians alone|2|True|False|False
+1841|Jicarilla Apache Nation alone|2|True|False|False
+1842|Juaneno (Acjachemem) alone|2|True|False|False
+1843|Kaibab Band of Paiute Indians of the Kaibab Indian Reservation alone|2|True|False|False
+1844|Kalapuya alone |2|True|True|False
+1845|Kalispel Indian Community alone|2|True|False|False
+1846|Karuk Tribe alone|2|True|False|False
+1847|Kashia Band of Pomo Indians of the Stewarts Point Rancheria alone|2|True|False|False
+1848|Kathlamet alone|2|True|True|False
+1849|Kaw Nation alone|2|True|False|False
+1850|Kern Valley Indian Community alone|2|True|False|False
+1851|Kewa Pueblo, New Mexico alone|2|True|False|False
+1852|Keweenaw Bay Indian Community alone|2|True|False|False
+1853|Kialegee Tribal Town alone|2|True|True|False
+1854|Kickapoo alone|2|True|False|False
+1855|Kickapoo Traditional Tribe of Texas alone|2|True|True|False
+1856|Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas alone|2|True|False|False
+1857|Kickapoo Tribe of Oklahoma alone|2|True|False|False
+1858|Kikiallus alone|2|True|True|False
+1859|Kiowa alone|2|True|False|False
+1860|Kiowa Indian Tribe of Oklahoma alone|2|True|False|False
+1861|Klallam alone|2|True|False|False
+1862|Klamath Tribes alone|2|True|False|False
+1863|Kletsel Dehe Band of Wintun Indians alone|2|True|False|False
+1864|Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation alone|2|True|True|False
+1865|Koi Nation of Northern California alone|2|True|True|False
+1866|Konkow alone|2|True|False|False
+1867|Kootenai Tribe of Idaho alone|2|True|False|False
+1868|Kumeyaay (Diegueno) alone|2|True|False|False
+1869|La Jolla Band of Luiseno Indians, California alone|2|True|False|False
+1870|La Posta Band of Diegueno Mission Indians alone|2|True|True|False
+1871|Lac Courte Oreilles Band of Lake Superior Chippewa alone|2|True|False|False
+1872|Lac du Flambeau Band of Lake Superior Chippewa Indians alone|2|True|False|False
+1873|Lac Vieux Desert Band of Lake Superior Chippewa Indians alone|2|True|False|False
+1874|Lake Superior Chippewa alone|2|True|False|False
+1875|Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony alone |2|True|False|False
+1876|Lassik alone|2|True|True|False
+1877|Leech Lake Band alone|2|True|False|False
+1878|Lemhi-Shoshone alone|2|True|True|False
+1879|Lipan Apache alone|2|True|False|False
+1880|Little River Band of Ottawa Indians of Michigan alone|2|True|False|False
+1881|Little Shell Tribe of Chippewa Indians of Montana alone|2|True|False|False
+1882|Little Traverse Bay Bands of Odawa Indians alone|2|True|False|False
+1883|Lone Pine Paiute-Shoshone Tribe alone|2|True|False|False
+1884|Los Coyotes Band of Cahuilla and Cupeno Indians alone|2|True|False|False
+1885|Louisiana Choctaw Tribe alone|2|True|False|False
+1886|Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada alone|2|True|False|False
+1887|Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota alone|2|True|False|False
+1888|Lower Elwha Tribal Community alone|2|True|False|False
+1889|Lower Muscogee Creek Tribe alone|2|True|False|False
+1890|Lower Sioux Indian Community in the State of Minnesota alone|2|True|False|False
+1891|Lower Skagit alone|2|True|True|False
+1892|Luiseno alone|2|True|False|False
+1893|Lumbee Tribe of North Carolina alone|2|True|False|False
+1894|Lummi Tribe alone|2|True|False|False
+1895|Lytton Rancheria of California alone |2|True|False|False
+1896|Ma-Chis Lower Creek Indian Tribe of Alabama alone|2|True|False|False
+1897|Maidu alone|2|True|False|False
+1898|Makah Indian Tribe alone|2|True|False|False
+1899|Malheur Paiute alone|2|True|True|False
+1900|Maliseet alone|2|True|False|False
+1901|Manchester Band of Pomo Indians of the Manchester Rancheria, California alone|2|True|False|False
+1902|Manzanita Band of Diegueno Mission Indians alone|2|True|False|False
+1903|Maricopa alone|2|True|False|False
+1904|Marietta Band of Nooksack alone|2|True|True|False
+1905|Mashantucket Pequot Indian Tribe alone|2|True|False|False
+1906|Mashpee Wampanoag Tribe alone|2|True|False|False
+1907|Match-e-be-nash-she-wish Band of Pottawatomi Indians alone|2|True|False|False
+1908|Matinecock alone|2|True|True|False
+1909|Mattaponi Indian Tribe alone|2|True|False|False
+1910|Mdewakanton Sioux alone|2|True|False|False
+1911|Mechoopda Indian Tribe of Chico Rancheria alone|2|True|False|False
+1912|Meherrin Indian Tribe alone|2|True|False|False
+1913|Menominee Indian Tribe alone|2|True|False|False
+1914|Mesa Grande Band of Diegueno Mission Indians alone|2|True|False|False
+1915|Mescalero Apache Tribe of the Mescalero Reservation, New Mexico alone|2|True|False|False
+1916|Metrolina Native American Association alone|2|True|True|False
+1917|Miami (Tribe) alone|2|True|False|False
+1918|Miami Tribe of Oklahoma alone|2|True|False|False
+1919|Miccosukee Tribe of Indians of Florida alone|2|True|False|False
+1920|Micmac alone|2|True|False|False
+1921|Middletown Rancheria of Pomo Indians alone|2|True|True|False
+1922|Mille Lacs Band alone|2|True|False|False
+1923|Minnesota Chippewa alone|2|True|False|False
+1924|Mission Indians alone|2|True|False|False
+1925|Mississippi Band of Choctaw Indians alone|2|True|False|False
+1926|Miwok/Me-Wuk alone|2|True|False|False
+1927|Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada alone|2|True|False|False
+1928|Modoc alone|2|True|False|False
+1929|The Modoc Tribe of Oklahoma alone|2|True|False|False
+1930|Mohawk alone|2|True|False|False
+1931|Mohegan Tribe of Indians of Connecticut alone|2|True|False|False
+1932|Molalla alone|2|True|True|False
+1933|Monacan Indian Nation alone|2|True|False|False
+1934|Mono alone|2|True|False|False
+1935|Montauk alone|2|True|False|False
+1936|Moor Indian alone|2|True|False|False
+1937|Mooretown Rancheria of Maidu Indians alone|2|True|False|False
+1938|Morongo Band of Mission Indians, California alone|2|True|False|False
+1939|Mountain Maidu alone|2|True|True|False
+1940|MOWA Band of Choctaw Indians alone|2|True|False|False
+1941|Muckleshoot Indian Tribe alone|2|True|False|False
+1942|Munsee alone|2|True|False|False
+1943|The Muscogee (Creek) Nation alone|2|True|False|False
+1944|Nansemond Indian Nation alone|2|True|False|False
+1945|Nanticoke alone|2|True|False|False
+1946|Nanticoke Lenni-Lenape alone|2|True|False|False
+1947|Narragansett Indian Tribe alone|2|True|False|False
+1948|Natchitoches Tribe of Louisiana alone|2|True|False|False
+1949|Nausu Waiwash alone|2|True|False|False
+1950|Navajo Nation alone|2|True|False|False
+1951|New Jersey Sand Hill Band of Indians, Inc alone |2|True|True|False
+1952|Nez Perce Tribe alone|2|True|False|False
+1953|Nipmuc alone|2|True|False|False
+1954|Nisenen (Nishinam) alone|2|True|True|False
+1955|Nisqually Indian Tribe alone|2|True|False|False
+1956|Nomlaki alone|2|True|False|False
+1957|Nooksack Indian Tribe alone|2|True|False|False
+1958|North Fork Rancheria of Mono Indians alone|2|True|False|False
+1959|Northern Arapaho Tribe alone|2|True|False|False
+1960|Northern Cherokee Nation of Missouri and Arkansas alone|2|True|False|False
+1961|Northern Cheyenne Tribe of the Northern Cheyenne Reservation, Montana alone|2|True|False|False
+1962|Northern Paiute alone|2|True|False|False
+1963|Northern Pomo alone|2|True|True|False
+1964|Northwestern Band of the Shoshone Nation alone|2|True|False|False
+1965|Nottawaseppi Huron Band of the Potawatomi, Michigan alone|2|True|False|False
+1966|Nottoway Indian Tribe of Virginia alone|2|True|False|False
+1967|Nulhegan Band of the Coosuk Abenaki Nation alone|2|True|False|False
+1968|Occaneechi Band of the Saponi Nation alone|2|True|False|False
+1969|Oglala Sioux Tribe alone|2|True|False|False
+1970|Ohkay Owingeh, New Mexico alone|2|True|False|False
+1971|Omaha Tribe of Nebraska alone|2|True|False|False
+1972|Oneida alone|2|True|False|False
+1973|Oneida Indian Nation alone|2|True|False|False
+1974|Oneida Nation alone|2|True|False|False
+1975|Onondaga Nation alone|2|True|False|False
+1976|Oregon Athabascan alone|2|True|False|False
+1977|The Osage Nation alone|2|True|False|False
+1978|Otoe-Missouria Tribe of Indians alone|2|True|False|False
+1979|Ottawa alone|2|True|False|False
+1980|Ottawa Tribe of Oklahoma alone|2|True|False|False
+1981|Paiute alone|2|True|False|False
+1982|Paiute Indian Tribe of Utah (Southern Paiute) alone|2|True|False|False
+1983|Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada alone|2|True|False|False
+1984|Pala Band of Mission Indians alone|2|True|False|False
+1985|Pamunkey Indian Tribe alone|2|True|False|False
+1986|Pascua Yaqui Tribe of Arizona alone|2|True|False|False
+1987|Paskenta Band of Nomlaki Indians alone |2|True|False|False
+1988|Passamaquoddy Tribe alone|2|True|False|False
+1989|Patawomeck Indian Tribe of Virginia alone|2|True|False|False
+1990|Paucatuck Eastern Pequot alone|2|True|True|False
+1991|Pauma Band of Luiseno Mission Indians alone|2|True|False|False
+1992|Pawnee alone|2|True|False|False
+1993|Pawnee Nation of Oklahoma alone|2|True|True|False
+1994|Pechanga Band of Luiseno Mission Indians alone|2|True|False|False
+1995|Pee Dee Indian Nation of Upper South Carolina alone|2|True|False|False
+1996|Pee Dee Indian Tribe of South Carolina alone|2|True|False|False
+1997|Penobscot Nation alone|2|True|False|False
+1998|Peoria Tribe of Indians of Oklahoma alone|2|True|False|False
+1999|Pequot alone|2|True|False|False
+2000|Picayune Rancheria of Chukchansi Indians alone|2|True|False|False
+2001|Piedmont American Indian Association-Lower Eastern Cherokee Nation SC (PAIA) alone|2|True|False|False
+2002|Pima alone |2|True|False|False
+2003|Pinoleville Pomo Nation alone|2|True|False|False
+2004|Pipestone Sioux alone|2|True|True|False
+2005|Piqua Shawnee Tribe alone|2|True|False|False
+2006|Piro Manso Tiwa Tribe alone|2|True|False|False
+2007|Piscataway alone|2|True|False|False
+2008|Piscataway Conoy Tribe alone|2|True|False|False
+2009|Piscataway Indian Nation alone|2|True|False|False
+2010|Pit River Tribe of California alone|2|True|False|False
+2011|Pleasant Point Passamaquoddy alone|2|True|True|False
+2012|Poarch Band of Creeks alone|2|True|False|False
+2013|Pocasset Wampanoag alone|2|True|True|False
+2014|Pocomoke Acohonock alone |2|True|True|False
+2015|Pointe Au-Chien Indian Tribe alone|2|True|False|False
+2016|Pokagon Band of Potawatomi Indians alone|2|True|False|False
+2017|Pokanoket (Royal House of Pokanoket) alone |2|True|False|False
+2018|Pomo alone|2|True|False|False
+2019|Ponca alone|2|True|False|False
+2020|Ponca Tribe of Indians of Oklahoma alone|2|True|False|False
+2021|Ponca Tribe of Nebraska alone|2|True|False|False
+2022|Ponkapoag alone|2|True|True|False
+2023|Poospatuck alone|2|True|False|False
+2024|Port Gamble S'Klallam Tribe alone|2|True|False|False
+2025|Potawatomi alone|2|True|False|False
+2026|Potter Valley Tribe alone|2|True|True|False
+2027|Powhatan alone|2|True|False|False
+2028|Prairie Band Potawatomi Nation alone|2|True|False|False
+2029|Prairie Island Indian Community alone|2|True|False|False
+2030|Principal Creek Indian Nation alone|2|True|True|False
+2031|Pueblo alone|2|True|False|False
+2032|Pueblo of Acoma alone|2|True|False|False
+2033|Pueblo of Cochiti alone|2|True|False|False
+2034|Pueblo of Isleta alone|2|True|False|False
+2035|Pueblo of Jemez alone|2|True|False|False
+2036|Pueblo of Laguna alone|2|True|False|False
+2037|Pueblo of Nambe alone|2|True|False|False
+2038|Pueblo of Picuris alone|2|True|False|False
+2039|Pueblo of Pojoaque alone|2|True|False|False
+2040|Pueblo of San Felipe alone|2|True|False|False
+2041|Pueblo of San Ildefonso alone|2|True|False|False
+2042|Pueblo of Sandia alone|2|True|False|False
+2043|Pueblo of Santa Ana alone|2|True|False|False
+2044|Pueblo of Santa Clara alone|2|True|False|False
+2045|Pueblo of Taos alone|2|True|False|False
+2046|Pueblo of Tesuque alone|2|True|False|False
+2047|Pueblo of Zia alone|2|True|False|False
+2048|Puget Sound Salish alone|2|True|True|False
+2049|Puyallup Tribe of The Puyallup Reservation alone|2|True|False|False
+2050|Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada alone |2|True|False|False
+2051|Quapaw Nation alone|2|True|False|False
+2052|Quartz Valley Indian Reservation alone |2|True|False|False
+2053|Quechan Tribe of the Fort Yuma Indian Reservation, California and Arizona alone|2|True|False|False
+2054|Quileute Tribe of the Quileute Reservation, Washington alone|2|True|False|False
+2055|Quinault Indian Nation alone|2|True|False|False
+2056|Ramapough Lenape Nation (Ramapough Mountain) alone|2|True|False|False
+2057|Ramona Band of Cahuilla, California alone|2|True|True|False
+2058|Rappahannock Tribe, Inc. alone|2|True|False|False
+2059|Red Cliff Band of Lake Superior Chippewa alone|2|True|False|False
+2060|Red Lake Band of Chippewa Indians alone|2|True|False|False
+2061|Red Wood alone|2|True|True|False
+2062|Redding Rancheria, California alone|2|True|False|False
+2063|Redwood Valley or Little River Band of Pomo Indians of the Redwood Valley Rancheria California alone|2|True|False|False
+2064|Reno-Sparks Indian Colony, Nevada alone|2|True|False|False
+2065|Resighini Rancheria alone|2|True|False|False
+2066|Rincon Band of Luiseno Mission Indians alone|2|True|False|False
+2067|Robinson Rancheria alone|2|True|False|False
+2068|Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota alone|2|True|False|False
+2069|Round Valley Indian Tribes alone|2|True|False|False
+2070|Sac and Fox alone|2|True|False|False
+2071|Sac and Fox Nation of Missouri in Kansas and Nebraska alone |2|True|False|False
+2072|Sac and Fox Nation, Oklahoma alone|2|True|False|False
+2073|Sac and Fox Tribe of the Mississippi in Iowa alone|2|True|False|False
+2074|Sac River Band of the Chickamauga-Cherokee alone|2|True|True|False
+2075|Saginaw Chippewa Indian Tribe alone|2|True|False|False
+2076|Saint Regis Mohawk Tribe alone|2|True|False|False
+2077|Salinan alone|2|True|False|False
+2078|Salish alone|2|True|False|False
+2079|Salt River Pima-Maricopa Indian Community alone|2|True|False|False
+2080|Samish Indian Nation alone|2|True|False|False
+2081|San Carlos Apache Tribe of the San Carlos Reservation alone|2|True|False|False
+2082|San Juan alone|2|True|False|False
+2083|San Juan Southern Paiute Tribe of Arizona alone|2|True|True|False
+2084|San Luis Rey Mission Indian alone|2|True|False|False
+2085|San Manuel Band of Mission Indians, California alone|2|True|False|False
+2086|San Pasqual Band of Diegueno Mission Indians alone|2|True|False|False
+2087|Santa Rosa Band of Cahuilla Indians alone |2|True|False|False
+2088|Santa Rosa Indian Community alone |2|True|False|False
+2089|Santa Ynez Band of Chumash Mission Indians alone|2|True|False|False
+2090|Santee Indian Nation of South Carolina alone|2|True|True|False
+2091|Santee Indian Organization alone|2|True|True|False
+2092|Santee Sioux Nation, Nebraska alone|2|True|False|False
+2093|Saponi alone|2|True|False|False
+2094|Sappony alone|2|True|False|False
+2095|Sauk-Suiattle Indian Tribe alone |2|True|False|False
+2096|Sault Ste. Marie Tribe of Chippewa Indians alone|2|True|False|False
+2097|Schaghticoke alone|2|True|False|False
+2098|Scotts Valley Band of Pomo Indians of California alone |2|True|False|False
+2099|Seaconke Wampanoag alone |2|True|False|False
+2100|Seminole alone|2|True|False|False
+2101|The Seminole Nation of Oklahoma alone|2|True|False|False
+2102|Seminole Tribe of Florida alone|2|True|False|False
+2103|Seneca Nation of Indians alone|2|True|False|False
+2104|Seneca-Cayuga Nation alone|2|True|False|False
+2105|Serrano alone|2|True|False|False
+2106|Setalcott Indians alone|2|True|False|False
+2107|Shakopee Mdewakanton Sioux Community of Minnesota alone|2|True|False|False
+2108|Shasta alone|2|True|False|False
+2109|Shawnee alone|2|True|False|False
+2110|Shawnee Nation United Remnant Band alone|2|True|True|False
+2111|Shawnee Tribe alone|2|True|False|False
+2112|Sherwood Valley Rancheria of Pomo Indians of California alone|2|True|False|False
+2113|Shingle Springs Band of Miwok Indians alone |2|True|False|False
+2114|Shinnecock Indian Nation alone|2|True|False|False
+2115|Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation alone|2|True|False|False
+2116|Shoshone alone|2|True|False|False
+2117|Shoshone Paiute alone|2|True|False|False
+2118|Shoshone-Bannock Tribes of the Fort Hall Reservation alone|2|True|False|False
+2119|Shoshone-Paiute Tribes of the Duck Valley Reservation alone|2|True|False|False
+2120|Sioux alone|2|True|False|False
+2121|Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota alone|2|True|False|False
+2122|Siuslaw alone|2|True|True|False
+2123|Skokomish Indian Tribe alone|2|True|False|False
+2124|Skull Valley Band of Goshute Indians of Utah alone|2|True|True|False
+2125|Skykomish alone|2|True|True|False
+2126|Snohomish alone|2|True|False|False
+2127|Snoqualmie Indian Tribe alone|2|True|False|False
+2128|Soboba Band of Luiseno Indians alone|2|True|False|False
+2129|Sokaogon Chippewa Community alone|2|True|False|False
+2130|Southeastern Cherokee Council alone|2|True|False|False
+2131|Southeastern Indians alone|2|True|False|False
+2132|Southern Arapaho alone|2|True|False|False
+2133|Southern Cheyenne alone|2|True|False|False
+2134|Southern Ute Indian Tribe of the Southern Ute Reservation alone|2|True|False|False
+2135|Spirit Lake Tribe alone|2|True|False|False
+2136|Spokane Tribe of the Spokane Reservation alone|2|True|False|False
+2137|Squaxin Island Tribe of the Squaxin Island Reservation, Washington alone|2|True|False|False
+2138|St. Croix Chippewa Indians of Wisconsin alone|2|True|False|False
+2139|Standing Rock Sioux Tribe of North and South Dakota alone|2|True|False|False
+2140|Steilacoom alone |2|True|False|False
+2141|Stillaguamish Tribes of Indians of Washington alone |2|True|False|False
+2142|Stockbridge-Munsee Community alone|2|True|False|False
+2143|Stonyford alone|2|True|True|False
+2144|Summit Lake Paiute Tribe of Nevada alone|2|True|False|False
+2145|The Suquamish Tribe alone|2|True|False|False
+2146|Susanville Indian Rancheria, California alone|2|True|False|False
+2147|Susquehanock alone|2|True|False|False
+2148|Swan Creek Black River Confederate Tribe alone|2|True|True|False
+2149|Swinomish Indian Tribal Community alone|2|True|False|False
+2150|Sycuan Band of the Kumeyaay Nation alone|2|True|False|False
+2151|Table Mountain Rancheria alone|2|True|True|False
+2152|Tachi alone|2|True|False|False
+2153|Takelma alone|2|True|True|False
+2154|Talakamish alone|2|True|True|False
+2155|Tejon Indian Tribe alone|2|True|False|False
+2156|Temecula alone |2|True|False|False
+2157|Te-Moak Tribes of Western Shoshone Indians of Nevada alone|2|True|False|False
+2158|Tenino alone|2|True|True|False
+2159|Teton Sioux alone|2|True|False|False
+2160|The Southeastern Mvskoke Nation, Inc. alone|2|True|False|False
+2161|The Waccamaw Indian People alone|2|True|False|False
+2162|Thlopthlocco Tribal Town alone |2|True|False|False
+2163|Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota alone (all tribes) (Sub-state and AIANNH geographies)|0|True|Null|Null
+2164|Arikara (Sahnish) alone|2|True|False|False
+2165|Hidatsa alone|2|True|False|False
+2166|Mandan alone|2|True|False|False
+2167|Three Affiliated Tribes of the Ft. Berthold Reservation, North Dakota alone|2|True|False|False
+2168|Tillamook alone|2|True|True|False
+2169|Timbisha Shoshone Tribe alone|2|True|False|False
+2170|Tohono O'odham Nation of Arizona alone|2|True|False|False
+2171|Tolowa alone|2|True|False|False
+2172|Tolowa Dee-ni' Nation alone|2|True|False|False
+2173|Tonawanda Band of Seneca alone|2|True|False|False
+2174|Tonkawa Tribe of Indians of Oklahoma alone|2|True|False|False
+2175|Tonto Apache Tribe of Arizona alone|2|True|False|False
+2176|Torres Martinez Desert Cahuilla Indians alone|2|True|False|False
+2177|Trinity alone|2|True|True|False
+2178|Tuckabachee alone|2|True|True|False
+2179|Tulalip Tribes of Washington alone|2|True|False|False
+2180|Tule River Indian Tribe alone|2|True|False|False
+2181|Tunica Biloxi Indian Tribe of Louisiana alone|2|True|False|False
+2182|Tuolumne Band of Me-Wuk Indians of California alone|2|True|False|False
+2183|Turtle Mountain Band of Chippewa Indians of North Dakota alone|2|True|False|False
+2184|Tuscarora Nation alone|2|True|False|False
+2185|Tuscola alone|2|True|True|False
+2186|Twenty-Nine Palms Band of Luiseno Mission Indians alone|2|True|True|False
+2187|Tygh alone|2|True|True|False
+2188|Umpqua alone|2|True|False|False
+2189|United Auburn Indian Community of the Auburn Rancheria of California alone|2|True|True|False
+2190|United Cherokee Ani-Yun-Wiya Nation alone|2|True|False|False
+2191|United Houma Nation alone|2|True|False|False
+2192|United Keetoowah Band of Cherokee Indians in Oklahoma alone|2|True|False|False
+2193|Upper Chinook alone|2|True|True|False
+2194|Upper Mattaponi Tribe alone|2|True|False|False
+2195|Upper Sioux Community alone|2|True|False|False
+2196|Upper Skagit Indian Tribe alone|2|True|False|False
+2197|Ute alone|2|True|False|False
+2198|Ute Indian Tribe of the Uintah and Ouray Reservation, Utah alone|2|True|False|False
+2199|Ute Mountain Ute Tribe alone|2|True|False|False
+2200|Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California alone|2|True|False|False
+2201|Viejas (Baron Long) Group of Capitan Grande Band alone|2|True|False|False
+2202|Waccamaw Siouan Indian Tribe alone|2|True|False|False
+2203|Wahpekute Sioux alone|2|True|True|False
+2204|Wailaki alone|2|True|False|False
+2205|Wakiakum Chinook alone|2|True|True|False
+2206|Walker River Paiute Tribe of the Walker River Reservation, Nevada alone|2|True|False|False
+2207|Walla Walla alone|2|True|False|False
+2208|Wampanoag alone|2|True|False|False
+2209|Wampanoag Tribe of Gay Head (Aquinnah) alone|2|True|False|False
+2210|Wappo alone|2|True|False|False
+2211|Wasco alone|2|True|False|False
+2212|Washoe Tribe of Nevada and California alone|2|True|False|False
+2213|Wassamasaw Tribe of Varnertown Indians alone|2|True|False|False
+2214|Wazhaza Sioux alone|2|True|True|False
+2215|Wenatchee alone|2|True|True|False
+2216|Whilkut alone|2|True|True|False
+2217|White Earth Band alone|2|True|False|False
+2218|White Mountain Apache Tribe of the Fort Apache Reservation, Arizona alone|2|True|False|False
+2219|White River Band of the Chickamauga-Cherokee alone|2|True|True|False
+2220|Wichita and Affiliated Tribes, Oklahoma alone|2|True|False|False
+2221|Wicomico alone|2|True|True|False
+2222|Willapa Chinook alone|2|True|True|False
+2223|Wilton Rancheria alone|2|True|False|False
+2224|Wind River alone|2|True|True|False
+2225|Winnebago alone|2|True|False|False
+2226|Winnebago Tribe of Nebraska alone|2|True|False|False
+2227|Winnemucca Indian Colony of Nevada alone|2|True|True|False
+2228|Wintun alone|2|True|False|False
+2229|Wishram alone|2|True|True|False
+2230|Wiyot Tribe, California alone|2|True|False|False
+2231|Wyandotte Nation alone|2|True|False|False
+2232|Yakama Cowlitz alone|2|True|True|False
+2233|Yana alone|2|True|True|False
+2234|Yankton Sioux Tribe of South Dakota alone|2|True|False|False
+2235|Yanktonai Sioux alone|2|True|True|False
+2236|Yaqui alone|2|True|False|False
+2237|Yavapai Apache Nation of the Camp Verde Indian Reservation alone|2|True|False|False
+2238|Yavapai-Prescott Tribe of the Yavapai Reservation alone|2|True|False|False
+2239|Yerington Paiute Tribe of the Yerington Colony and Campbell Ranch, Nevada alone|2|True|False|False
+2240|Yocha Dehe Wintun Nation, California alone|2|True|True|False
+2241|Yokuts alone|2|True|False|False
+2242|Yomba Shoshone Tribe of the Yomba Reservation, Nevada alone|2|True|False|False
+2243|Ysleta del Sur Pueblo of Texas alone|2|True|False|False
+2244|Yuchi alone|2|True|False|False
+2245|Yuki alone|2|True|False|False
+2246|Yurok Tribe alone|2|True|False|False
+2247|Zuni Tribe of the Zuni Reservation alone|2|True|False|False
+2248|Tribal responses alone, not elsewhere classified|2|True|True|False
+2249|Other American Indian alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2250|Canadian Indian and French American Indian alone|1|True|False|False
+2251|Abenaki Canadian alone|2|True|True|False
+2252|Acadia Band alone|2|True|True|False
+2253|Ache Dene Koe alone|2|True|True|False
+2254|Ahousaht alone|2|True|True|False
+2255|Alderville First Nation alone|2|True|True|False
+2256|Alexandria Band alone|2|True|True|False
+2257|Algonquins of Barriere Lake alone|2|True|True|False
+2258|Batchewana First Nation alone|2|True|True|False
+2259|Beardys and Okemasis Band alone|2|True|True|False
+2260|Beausoleil alone|2|True|True|False
+2261|Beecher Bay alone|2|True|True|False
+2262|Bella Coola (Nuxalk Nation) alone|2|True|True|False
+2263|Beothuk alone|2|True|True|False
+2264|Big Cove alone|2|True|True|False
+2265|Big Grassy alone|2|True|True|False
+2266|Bigstone Cree Nation alone|2|True|True|False
+2267|Bonaparte Band alone|2|True|True|False
+2268|Boston Bar First Nation alone|2|True|True|False
+2269|Bridge River alone|2|True|True|False
+2270|Brokenhead Ojibway Nation alone|2|True|True|False
+2271|Buffalo Point Band alone|2|True|True|False
+2272|Caldwell alone|2|True|True|False
+2273|Campbell River Band alone|2|True|True|False
+2274|Canadian Indian alone|2|True|False|False
+2275|Cape Mudge Band alone|2|True|True|False
+2276|Carcross/Tagish First Nation alone|2|True|True|False
+2277|Caribou alone|2|True|True|False
+2278|Carrier Nation alone|2|True|True|False
+2279|Carry the Kettle Band alone|2|True|True|False
+2280|Cheam Band alone|2|True|True|False
+2281|Chemainus First Nation alone|2|True|True|False
+2282|Chilcotin Nation alone|2|True|True|False
+2283|Chippewa of Sarnia alone|2|True|False|False
+2284|Chippewa of the Thames alone|2|True|False|False
+2285|Chippewa/Ojibwe Canadian alone|2|True|False|False
+2286|Clayoquot alone|2|True|True|False
+2287|Cold Lake First Nations alone|2|True|True|False
+2288|Coldwater Band alone|2|True|True|False
+2289|Comox Band alone|2|True|True|False
+2290|Coquitlam Band (Kwikwetlem First Nation) alone|2|True|True|False
+2291|Cote First Nation alone|2|True|True|False
+2292|Couchiching First Nation alone|2|True|True|False
+2293|Cowessess Band alone|2|True|True|False
+2294|Cowichan alone|2|True|False|False
+2295|Cree Canadian alone |2|True|False|False
+2296|Cross Lake First Nation alone|2|True|True|False
+2297|Curve Lake Band alone|2|True|True|False
+2298|Dene Band Nwt (NW Territory) alone|2|True|True|False
+2299|Dene Canadian alone|2|True|True|False
+2300|Ditidaht Band alone|2|True|True|False
+2301|Dogrib alone|2|True|True|False
+2302|Eagle Lake Band alone|2|True|True|False
+2303|Eastern Cree alone|2|True|True|False
+2304|Ebb and Flow Band alone|2|True|True|False
+2305|English River First Nation alone|2|True|True|False
+2306|Eskasoni alone|2|True|True|False
+2307|Esquimalt alone|2|True|True|False
+2308|Fisher River alone|2|True|True|False
+2309|Five Nations alone|2|True|True|False
+2310|Fort Alexander Band alone|2|True|True|False
+2311|French Canadian/French American Indian alone|2|True|False|False
+2312|Garden River Nation alone|2|True|True|False
+2313|Gibson Band (Wahta Mohawk) alone|2|True|True|False
+2314|Gitksan alone|2|True|True|False
+2315|Grassy Narrows First Nation alone|2|True|True|False
+2316|Gull Bay Band alone|2|True|True|False
+2317|Gwichya Gwich'in alone|2|True|True|False
+2318|Heiltsuk Band alone|2|True|True|False
+2319|Hesquiaht Band alone|2|True|True|False
+2320|Hiawatha First Nation alone|2|True|True|False
+2321|Hope Band (Chawathil Nation) alone|2|True|True|False
+2322|Huron alone|2|True|False|False
+2323|Huron of Lorretteville alone|2|True|True|False
+2324|Innu (Montagnais) alone|2|True|True|False
+2325|Interior Salish alone|2|True|True|False
+2326|James Bay Cree alone|2|True|True|False
+2327|James Smith Cree Nation alone|2|True|True|False
+2328|Kahkewistahaw First Nation alone|2|True|True|False
+2329|Kamloops Band alone|2|True|True|False
+2330|Kanaka Bar alone|2|True|True|False
+2331|Kaska Dena alone|2|True|True|False
+2332|Keeseekoose Band alone|2|True|True|False
+2333|Kingsclear Band alone|2|True|True|False
+2334|Kitamaat alone|2|True|True|False
+2335|Kitigan Zibi Anishinabeg alone|2|True|True|False
+2336|Klahoose First Nation alone|2|True|True|False
+2337|Kwakiutl alone|2|True|True|False
+2338|Kyuquot Band alone|2|True|True|False
+2339|Lakahahmen Band alone|2|True|True|False
+2340|Lake Manitoba Band alone|2|True|True|False
+2341|Lake St. Martin Band alone|2|True|True|False
+2342|Lennox Island Band alone|2|True|True|False
+2343|Liard River First Nation alone|2|True|True|False
+2344|Lillooet alone|2|True|True|False
+2345|Listuguj Mi'Gmaq First Nation alone|2|True|True|False
+2346|Little Shuswap Band alone|2|True|True|False
+2347|Long Plain First Nation alone|2|True|True|False
+2348|Lower Nicola Indian Band alone|2|True|True|False
+2349|Malahat First Nation alone|2|True|True|False
+2350|Matachewan Band alone|2|True|True|False
+2351|Mcleod Lake alone|2|True|True|False
+2352|Metis alone |2|True|False|False
+2353|Millbrook First Nation alone|2|True|True|False
+2354|Mississaugas of the Credit alone|2|True|True|False
+2355|Mohawk Canadian alone |2|True|False|False
+2356|Mohawk Kahnawake alone|2|True|False|False
+2357|Mohawks of Kanesatake alone|2|True|True|False
+2358|Mohawks of the Bay of Quinte alone|2|True|False|False
+2359|Mohican Canadian alone|2|True|True|False
+2360|Musqueam Band alone|2|True|True|False
+2361|N'Quatqua (Anderson Lake) alone|2|True|True|False
+2362|Namgis First Nation (Nimpkish) alone|2|True|True|False
+2363|Nanaimo (Snuneymuxw) alone|2|True|True|False
+2364|Nanoose First Nation alone|2|True|True|False
+2365|Naskapi alone|2|True|True|False
+2366|Nation Huronne Wendat alone|2|True|True|False
+2367|Nipissing First Nation alone|2|True|True|False
+2368|Nisga'a Nation alone|2|True|True|False
+2369|North Thompson Band (Simpcw First Nation) alone|2|True|True|False
+2370|Nuu-chah-nulth (Nootka) alone|2|True|True|False
+2371|Odanak alone|2|True|True|False
+2372|Ohiaht Band (Huu-ay-aht First Nation) alone|2|True|True|False
+2373|Oneida Nation of the Thames alone |2|True|False|False
+2374|Opaskwayak Cree Nation alone|2|True|True|False
+2375|Osoyoos Band alone|2|True|True|False
+2376|Pacheedaht First Nation alone|2|True|True|False
+2377|Pauquachin alone|2|True|True|False
+2378|Peepeekisis alone|2|True|True|False
+2379|Peguis alone|2|True|True|False
+2380|Penelakut alone|2|True|True|False
+2381|Penticton alone|2|True|True|False
+2382|Pine Creek alone|2|True|True|False
+2383|Plains Cree alone|2|True|True|False
+2384|Rainy River First Nations alone|2|True|True|False
+2385|Red Earth Band alone|2|True|True|False
+2386|Roseau River alone|2|True|True|False
+2387|Saddle Lake alone|2|True|True|False
+2388|Sakimay First Nations alone|2|True|True|False
+2389|Sandy Bay Band alone|2|True|True|False
+2390|Sarcee (Tsuut'ina Nation) alone|2|True|True|False
+2391|Saugeen alone|2|True|True|False
+2392|Saulteau First Nations alone|2|True|True|False
+2393|Saulteaux alone|2|True|True|False
+2394|Seabird Island alone|2|True|True|False
+2395|Sechelt alone|2|True|True|False
+2396|Seine River First Nation alone|2|True|True|False
+2397|Serpent River alone|2|True|True|False
+2398|Seton Lake alone|2|True|True|False
+2399|Shoal Lake Cree Nation alone|2|True|True|False
+2400|Shuswap alone|2|True|False|False
+2401|Siksika Canadian alone|2|True|False|False
+2402|Similkameen alone|2|True|True|False
+2403|Six Nations Canada alone|2|True|True|False
+2404|Six Nations of the Grand River alone|2|True|True|False
+2405|Skawahlook First Nation alone|2|True|True|False
+2406|Skeetchestn Indian Band alone|2|True|True|False
+2407|Skookum Chuck Band alone|2|True|True|False
+2408|Skowkale alone|2|True|True|False
+2409|Skuppah alone|2|True|True|False
+2410|Skwah First Nation alone|2|True|True|False
+2411|Skway First Nation alone|2|True|True|False
+2412|Songhees First Nation alone|2|True|True|False
+2413|Soowahlie First Nation alone|2|True|True|False
+2414|Spuzzum First Nation alone|2|True|True|False
+2415|Squamish Nation alone|2|True|False|False
+2416|Stanjikoming First Nation alone|2|True|True|False
+2417|Sto:lo Nation alone |2|True|False|False
+2418|Stone alone|2|True|True|False
+2419|Sucker Creek First Nation alone|2|True|True|False
+2420|Swampy Cree alone|2|True|True|False
+2421|Tahltan alone|2|True|True|False
+2422|Taku River Tlingit alone|2|True|True|False
+2423|Tete De Boule (Attikamek) alone|2|True|True|False
+2424|Thompson alone |2|True|False|False
+2425|Tobacco Plains Band alone|2|True|True|False
+2426|Tobique First Nation alone|2|True|True|False
+2427|Toquaht alone|2|True|True|False
+2428|Tsartlip alone|2|True|True|False
+2429|Tsawout First Nation alone|2|True|True|False
+2430|Tseycum alone|2|True|True|False
+2431|Uchucklesaht alone|2|True|True|False
+2432|Ucluelet First Nation alone|2|True|True|False
+2433|Vuntut Gwitchin First Nation alone|2|True|True|False
+2434|Wabauskang First Nation alone|2|True|True|False
+2435|Walpole Island alone|2|True|False|False
+2436|Wasauksing First Nation alone|2|True|True|False
+2437|Waywayseecappo First Nation alone|2|True|True|False
+2438|West Bay Band alone|2|True|True|False
+2439|White Bear Band alone|2|True|True|False
+2440|Whitefish Lake Band alone|2|True|True|False
+2441|Wikwemikong alone |2|True|False|False
+2442|Wolf Lake Band alone|2|True|True|False
+2443|Woodland Cree First Nation alone|2|True|True|False
+2444|Woodstock First Nation alone|2|True|True|False
+2445|Xaxli'p First Nation (Fountain Band) alone|2|True|True|False
+2446|Canadian Indian alone, not elsewhere classified|2|True|True|False
+2447|Other Canadian Indian alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2448|Central American Indian alone (all tribes)|1|True|False|False
+2449|Belizean Indian alone|2|True|True|False
+2450|Cakchiquel alone|2|True|False|False
+2451|Central American Indian alone|2|True|False|False
+2452|Choco alone|2|True|True|False
+2453|Costa Rican Indian alone|2|True|True|False
+2454|Salvadoran Indian alone|2|True|False|False
+2455|Guatemalan Indian alone|2|True|False|False
+2456|Guatemalan Mayan alone|2|True|False|False
+2457|Guaymi alone|2|True|True|False
+2458|Honduran Indian alone|2|True|False|False
+2459|Kanjobal alone|2|True|False|False
+2460|Kekchi alone|2|True|True|False
+2461|Kuna Indian alone|2|True|False|False
+2462|Lenca alone|2|True|False|False
+2463|Maya Central American alone|2|True|False|False
+2464|Miskito alone|2|True|False|False
+2465|Nahua alone|2|True|False|False
+2466|Nicaraguan Indian alone|2|True|False|False
+2467|Panamanian Indian alone|2|True|False|False
+2468|Pipil alone|2|True|False|False
+2469|Quiche alone|2|True|False|False
+2470|Rama alone|2|True|True|False
+2471|Sumo alone|2|True|True|False
+2472|Central American Indian alone, not elsewhere classified|2|True|True|False
+2473|Central American Indian alone, not elsewhere classified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2474|Mexican Indian alone (all tribes)|1|True|False|False
+2475|Amuzgo alone|2|True|True|False
+2476|Aztec alone|2|True|False|False
+2477|Chatino alone|2|True|False|False
+2478|Chichimeca alone|2|True|False|False
+2479|Chinantec alone|2|True|False|False
+2480|Chocho alone|2|True|True|False
+2481|Cochimi alone|2|True|True|False
+2482|Concho alone|2|True|True|False
+2483|Cora alone|2|True|False|False
+2484|Cuicatec alone|2|True|True|False
+2485|Huastec alone|2|True|False|False
+2486|Huave alone|2|True|True|False
+2487|Huichol alone|2|True|False|False
+2488|Ixcatec alone|2|True|True|False
+2489|Lacandon alone|2|True|True|False
+2490|Lagunero alone|2|True|True|False
+2491|Mazahua alone|2|True|True|False
+2492|Mazatec alone|2|True|True|False
+2493|Mexican American Indian alone|2|True|False|False
+2494|Mexican Indian alone|2|True|False|False
+2495|Mixe alone|2|True|False|False
+2496|Mixtec alone|2|True|False|False
+2497|Nahuatl alone|2|True|False|False
+2498|Olmec alone|2|True|False|False
+2499|Opata alone|2|True|True|False
+2500|Otomi alone|2|True|False|False
+2501|Popoluca alone|2|True|True|False
+2502|Seri alone|2|True|True|False
+2503|Tarahumara (Raramuri) alone|2|True|False|False
+2504|Tarasco (Purepecha) alone|2|True|False|False
+2505|Tepehua alone|2|True|False|False
+2506|Tequistlatec alone|2|True|True|False
+2507|Tlapanec alone|2|True|True|False
+2508|Tojolabal alone|2|True|True|False
+2509|Toltec alone|2|True|False|False
+2510|Triqui (Trique) alone|2|True|False|False
+2511|Tzeltal alone|2|True|True|False
+2512|Tzotzil alone|2|True|True|False
+2513|Zapotec alone|2|True|False|False
+2514|Zoque alone|2|True|True|False
+2515|Mexican Indian alone, not elsewhere classified|2|True|True|False
+2516|Mexican Indian alone, not elsewhere classified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2517|South American Indian alone (all tribes)|1|True|False|False
+2518|Ache Indian alone|2|True|True|False
+2519|Amazon Indian alone|2|True|False|False
+2520|Andean Indian alone|2|True|True|False
+2521|Arawak alone|2|True|False|False
+2522|Argentinean Indian alone|2|True|True|False
+2523|Aymara alone|2|True|False|False
+2524|Bolivian Indian alone|2|True|False|False
+2525|Brazilian Indian alone|2|True|False|False
+2526|Canela alone|2|True|False|False
+2527|Chilean Indian alone|2|True|True|False
+2528|Colombian Indian alone|2|True|False|False
+2529|Ecuadorian Indian alone|2|True|False|False
+2530|Guarani alone|2|True|False|False
+2531|Guyanese South American Indian alone|2|True|False|False
+2532|Inca alone|2|True|False|False
+2533|Mapuche (Araucanian) alone|2|True|False|False
+2534|Maya South American alone|2|True|True|False
+2535|Paraguayan Indian alone|2|True|True|False
+2536|Peruvian Indian alone|2|True|False|False
+2537|Quechua alone|2|True|False|False
+2538|Quichua alone|2|True|True|False
+2539|South American Indian alone|2|True|False|False
+2540|Tehuelche alone|2|True|True|False
+2541|Tupi alone|2|True|True|False
+2542|Uruguayan Indian alone|2|True|True|False
+2543|Venezuelan Indian alone|2|True|True|False
+2544|Zaparo alone|2|True|True|False
+2545|South American Indian alone, not elsewhere classified|2|True|True|False
+2546|South American Indian alone, not elsewhere classified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2547|Caribbean Indian alone (all tribes)|1|True|False|False
+2548|Carib alone|2|True|False|False
+2549|Caribbean Indian alone|2|True|True|False
+2550|Cuban Indian alone|2|True|True|False
+2551|Dominican Indian alone|2|True|False|False
+2552|Puerto Rican Indian alone|2|True|False|False
+2553|Taino alone|2|True|False|False
+2554|Caribbean Indian alone, not elsewhere classified|2|True|True|False
+2555|Caribbean Indian alone, not elsewhere classified (Sub-state and AIANNH geographies)|0|True|Null|Null
+2556|Spanish American Indian alone|2|True|False|False
+2557|Mesoamerican Indian alone (all tribes)|1|True|False|False
+2558|Maya alone|2|True|False|False
+2559|Other Mesoamerican Indian alone|2|True|False|False
+2560|American Indian and Alaska Native alone, not specified|2|True|False|False
+2561|American Indian and Alaska Native alone or in combination with one or more other races|0|False|Null|Null
+2562|Alaska Native alone or in any combination|1|False|False|False
+2563|Agdaagux Tribe of King Cove alone or in any combination|2|False|False|False
+2564|Ahtna, Inc. Corporation alone or in any combination|2|False|False|False
+2565|Akiachak Native Community alone or in any combination|2|False|False|False
+2566|Akiak Native Community alone or in any combination|2|False|False|False
+2567|Alanvik alone or in any combination|2|False|True|False
+2568|Alaskan Athabascan alone or in any combination|2|False|False|False
+2569|Alatna Village alone or in any combination|2|False|False|False
+2570|Aleut alone or in any combination|2|False|False|False
+2571|Aleut Corporation alone or in any combination|2|False|False|False
+2572|Alexander alone or in any combination|2|False|True|False
+2573|Algaaciq Native Village (St. Mary's) alone or in any combination|2|False|False|False
+2574|Allakaket Village alone or in any combination|2|False|False|False
+2575|Alutiiq alone or in any combination|2|False|False|False
+2576|Alutiiq Tribe of Old Harbor alone or in any combination|2|False|False|False
+2577|American Eskimo alone or in any combination|2|False|True|False
+2578|Angoon Community Association alone or in any combination|2|False|True|False
+2579|Anvik Village alone or in any combination |2|False|False|False
+2580|Arctic Slope Corporation alone or in any combination|2|False|False|False
+2581|Arctic Village alone or in any combination|2|False|True|False
+2582|Asa'carsarmiut Tribe alone or in any combination|2|False|False|False
+2583|Atqasuk Village (Atkasook) alone or in any combination|2|False|False|False
+2584|Beaver Village alone or in any combination|2|False|False|False
+2585|Bering Straits Inupiat alone or in any combination|2|False|False|False
+2586|Birch Creek Tribe alone or in any combination|2|False|True|False
+2587|Bristol Bay alone or in any combination|2|False|False|False
+2588|Bristol Bay Aleut alone or in any combination|2|False|True|False
+2589|Calista alone or in any combination|2|False|False|False
+2590|Central Council of the Tlingit and Haida Indian Tribes alone or in any combination|2|False|False|False
+2591|Chalkyitsik Village alone or in any combination|2|False|False|False
+2592|Cheesh-Na Tribe (Chistochina) alone or in any combination|2|False|True|False
+2593|Chevak Native Village alone or in any combination|2|False|False|False
+2594|Chickaloon Native Village alone or in any combination|2|False|False|False
+2595|Chignik Bay Tribal Council (Native Village of Chignik) alone or in any combination|2|False|False|False
+2596|Chignik Lake Village alone or in any combination|2|False|False|False
+2597|Chilkat Indian Village (Klukwan) alone or in any combination |2|False|False|False
+2598|Chilkoot Indian Association (Haines) alone or in any combination|2|False|False|False
+2599|Chinik Eskimo Community (Golovin) alone or in any combination|2|False|False|False
+2600|Chugach Aleut alone or in any combination|2|False|False|False
+2601|Chugach Corporation alone or in any combination|2|False|False|False
+2602|Chuloonawick Native Village alone or in any combination|2|False|True|False
+2603|Circle Native Community alone or in any combination|2|False|False|False
+2604|Cook Inlet alone or in any combination|2|False|False|False
+2605|Copper River alone or in any combination|2|False|True|False
+2606|Craig Tribal Association alone or in any combination|2|False|True|False
+2607|Curyung Tribal Council (Native Village of Dillingham) alone or in any combination|2|False|False|False
+2608|Douglas Indian Association alone or in any combination|2|False|True|False
+2609|Doyon alone or in any combination|2|False|False|False
+2610|Egegik Village alone or in any combination|2|False|False|False
+2611|Eklutna Native Village alone or in any combination |2|False|False|False
+2612|Emmonak Village alone or in any combination|2|False|False|False
+2613|Eskimo alone or in any combination|2|False|False|False
+2614|Evansville Village (Bettles Field) alone or in any combination|2|False|True|False
+2615|Galena Village (Louden Village) alone or in any combination|2|False|False|False
+2616|Greenland Inuit alone or in any combination|2|False|True|False
+2617|Gulkana Village Council alone or in any combination|2|False|False|False
+2618|Haida alone or in any combination|2|False|False|False
+2619|Holy Cross Tribe alone or in any combination|2|False|False|False
+2620|Hoonah Indian Association alone or in any combination |2|False|False|False
+2621|Hughes Village alone or in any combination|2|False|False|False
+2622|Hydaburg Cooperative Association alone or in any combination |2|False|False|False
+2623|Igiugig Village alone or in any combination|2|False|True|False
+2624|Huslia Village alone or in any combination |2|False|False|False
+2625|Inuit alone or in any combination|2|False|False|False
+2626|Inupiat (Inupiaq) alone or in any combination|2|False|False|False
+2627|Inupiat Community of the Arctic Slope alone or in any combination|2|False|False|False
+2628|Iqugmuit Traditional Council alone or in any combination|2|False|False|False
+2629|Ivanof Bay Village alone or in any combination|2|False|True|False
+2630|Kaguyak Village alone or in any combination|2|False|True|False
+2631|Kaktovik Village (Barter Island) alone or in any combination|2|False|False|False
+2632|Kasigluk Traditional Elders Council alone or in any combination|2|False|False|False
+2633|Kawerak alone or in any combination|2|False|True|False
+2634|Kenaitze Indian Tribe alone or in any combination|2|False|False|False
+2635|Ketchikan Indian Corporation alone or in any combination|2|False|False|False
+2636|King Cove alone or in any combination|2|False|True|False
+2637|King Island Native Community alone or in any combination|2|False|False|False
+2638|King Salmon Tribe alone or in any combination|2|False|True|False
+2639|Klawock Cooperative Association alone or in any combination|2|False|False|False
+2640|Knik Tribe alone or in any combination |2|False|False|False
+2641|Kodiak alone or in any combination |2|False|False|False
+2642|Kokhanok Village alone or in any combination|2|False|False|False
+2643|Koniag Aleut alone or in any combination|2|False|False|False
+2644|Koyukuk Native Village alone or in any combination|2|False|False|False
+2645|Lake Minchumina alone or in any combination|2|False|True|False
+2646|Levelock Village alone or in any combination|2|False|False|False
+2647|Lime Village alone or in any combination|2|False|True|False
+2648|Manley Hot Springs Village alone or in any combination|2|False|True|False
+2649|Manokotak Village alone or in any combination|2|False|False|False
+2650|McGrath Native Village alone or in any combination |2|False|False|False
+2651|Mentasta Traditional Council alone or in any combination |2|False|False|False
+2652|Metlakatla Indian Community, Annette Island Reserve alone or in any combination|2|False|False|False
+2653|Naknek Native Village alone or in any combination|2|False|False|False
+2654|Nana Inupiat alone or in any combination|2|False|False|False
+2655|Native Village of Afognak alone or in any combination|2|False|False|False
+2656|Native Village of Akhiok alone or in any combination|2|False|False|False
+2657|Native Village of Akutan alone or in any combination|2|False|False|False
+2658|Native Village of Aleknagik alone or in any combination|2|False|False|False
+2659|Native Village of Ambler alone or in any combination|2|False|False|False
+2660|Native Village of Atka alone or in any combination|2|False|False|False
+2661|Native Village of Barrow Inupiat Traditional Government alone or in any combination|2|False|False|False
+2662|Native Village of Belkofski alone or in any combination|2|False|True|False
+2663|Native Village of Brevig Mission alone or in any combination|2|False|False|False
+2664|Native Village of Buckland alone or in any combination|2|False|False|False
+2665|Native Village of Cantwell alone or in any combination|2|False|True|False
+2666|Native Village of Chanega (Chenega) alone or in any combination|2|False|False|False
+2667|Native Village of Chignik Lagoon alone or in any combination|2|False|False|False
+2668|Native Village of Chitina alone or in any combination |2|False|False|False
+2669|Native Village of Chuathbaluk alone or in any combination|2|False|False|False
+2670|Native Village of Council alone or in any combination|2|False|False|False
+2671|Native Village of Deering alone or in any combination |2|False|False|False
+2672|Native Village of Diomede (Inalik) alone or in any combination|2|False|False|False
+2673|Native Village of Eagle alone or in any combination |2|False|False|False
+2674|Native Village of Eek alone or in any combination|2|False|False|False
+2675|Native Village of Ekuk alone or in any combination|2|False|False|False
+2676|Native Village of Ekwok alone or in any combination|2|False|False|False
+2677|Native Village of Elim alone or in any combination|2|False|False|False
+2678|Native Village of Eyak (Cordova) alone or in any combination|2|False|False|False
+2679|Native Village of False Pass alone or in any combination|2|False|True|False
+2680|Native Village of Fort Yukon alone or in any combination|2|False|False|False
+2681|Native Village of Gakona alone or in any combination|2|False|True|False
+2682|Native Village of Gambell alone or in any combination|2|False|False|False
+2683|Native Village of Georgetown alone or in any combination|2|False|True|False
+2684|Native Village of Goodnews Bay alone or in any combination|2|False|False|False
+2685|Native Village of Hamilton alone or in any combination|2|False|True|False
+2686|Native Village of Hooper Bay (Naparyarmiut) alone or in any combination|2|False|False|False
+2687|Native Village of Kanatak alone or in any combination|2|False|False|False
+2688|Native Village of Karluk alone or in any combination|2|False|False|False
+2689|Native Village of Kiana alone or in any combination|2|False|False|False
+2690|Native Village of Kipnuk alone or in any combination|2|False|False|False
+2691|Native Village of Kivalina alone or in any combination|2|False|False|False
+2692|Native Village of Kluti Kaah (Copper Center) alone or in any combination|2|False|False|False
+2693|Native Village of Kobuk alone or in any combination|2|False|False|False
+2694|Native Village of Kongiganak alone or in any combination|2|False|False|False
+2695|Native Village of Kotzebue alone or in any combination|2|False|False|False
+2696|Native Village of Koyuk alone or in any combination|2|False|False|False
+2697|Native Village of Kwigillingok alone or in any combination|2|False|False|False
+2698|Native Village of Kwinhagak (Quinhagak) alone or in any combination|2|False|False|False
+2699|Native Village of Larsen Bay alone or in any combination|2|False|False|False
+2700|Native Village of Marshall (Fortuna Ledge) alone or in any combination|2|False|False|False
+2701|Native Village of Mary's Igloo alone or in any combination|2|False|False|False
+2702|Native Village of Mekoryuk alone or in any combination|2|False|False|False
+2703|Native Village of Minto alone or in any combination|2|False|False|False
+2704|Native Village of Nanwalek (English Bay) alone or in any combination|2|False|False|False
+2705|Native Village of Napaimute alone or in any combination|2|False|False|False
+2706|Native Village of Napakiak alone or in any combination|2|False|False|False
+2707|Native Village of Napaskiak alone or in any combination|2|False|False|False
+2708|Native Village of Nelson Lagoon alone or in any combination|2|False|True|False
+2709|Native Village of Nightmute alone or in any combination|2|False|False|False
+2710|Native Village of Nikolski alone or in any combination|2|False|True|False
+2711|Native Village of Noatak alone or in any combination|2|False|False|False
+2712|Native Village of Nuiqsut (aka Nooiksut) alone or in any combination|2|False|False|False
+2713|Native Village of Nunam Iqua alone or in any combination|2|False|False|False
+2714|Native Village of Nunapitchuk alone or in any combination|2|False|False|False
+2715|Native Village of Ouzinkie alone or in any combination|2|False|False|False
+2716|Native Village of Paimiut alone or in any combination|2|False|False|False
+2717|Native Village of Perryville alone or in any combination|2|False|True|False
+2718|Native Village of Pilot Point alone or in any combination|2|False|False|False
+2719|Native Village of Point Hope alone or in any combination|2|False|False|False
+2720|Native Village of Point Lay alone or in any combination|2|False|False|False
+2721|Native Village of Port Graham alone or in any combination|2|False|False|False
+2722|Native Village of Port Heiden alone or in any combination|2|False|False|False
+2723|Native Village of Port Lions alone or in any combination|2|False|False|False
+2724|Native Village of Ruby alone or in any combination|2|False|False|False
+2725|Native Village of Saint Michael alone or in any combination|2|False|False|False
+2726|Native Village of Savoonga alone or in any combination|2|False|False|False
+2727|Native Village of Scammon Bay alone or in any combination|2|False|False|False
+2728|Native Village of Selawik alone or in any combination|2|False|False|False
+2729|Native Village of Shaktoolik alone or in any combination|2|False|False|False
+2730|Native Village of Shishmaref alone or in any combination|2|False|False|False
+2731|Native Village of Shungnak alone or in any combination|2|False|False|False
+2732|Native Village of Stevens alone or in any combination|2|False|False|False
+2733|Native Village of Tanacross alone or in any combination|2|False|False|False
+2734|Native Village of Tanana alone or in any combination|2|False|False|False
+2735|Native Village of Tatitlek alone or in any combination|2|False|False|False
+2736|Native Village of Tazlina alone or in any combination|2|False|False|False
+2737|Native Village of Teller alone or in any combination|2|False|False|False
+2738|Native Village of Tetlin alone or in any combination|2|False|False|False
+2739|Native Village of Tuntutuliak alone or in any combination|2|False|False|False
+2740|Native Village of Tununak alone or in any combination|2|False|False|False
+2741|Native Village of Tyonek alone or in any combination|2|False|False|False
+2742|Native Village of Unalakleet alone or in any combination|2|False|False|False
+2743|Native Village of Unga alone or in any combination |2|False|False|False
+2744|Native Village of Wales alone or in any combination|2|False|False|False
+2745|Native Village of White Mountain alone or in any combination|2|False|False|False
+2746|Nenana Native Association alone or in any combination|2|False|False|False
+2747|New Koliganek Village Council alone or in any combination|2|False|False|False
+2748|New Stuyahok Village alone or in any combination|2|False|False|False
+2749|Newhalen Village alone or in any combination|2|False|False|False
+2750|Newtok Village alone or in any combination|2|False|False|False
+2751|Nikolai Village alone or in any combination|2|False|False|False
+2752|Ninilchik Village alone or in any combination|2|False|False|False
+2753|Nome Eskimo Community alone or in any combination|2|False|False|False
+2754|Nondalton Village alone or in any combination|2|False|False|False
+2755|Noorvik Native Community alone or in any combination|2|False|False|False
+2756|Northway Village alone or in any combination|2|False|False|False
+2757|Nulato Village alone or in any combination|2|False|False|False
+2758|Nunakauyarmiut Tribe (Toksook Bay) alone or in any combination|2|False|False|False
+2759|Organized Village of Grayling (Holikachuk) alone or in any combination|2|False|False|False
+2760|Organized Village of Kake alone or in any combination|2|False|False|False
+2761|Organized Village of Kasaan alone or in any combination|2|False|True|False
+2762|Organized Village of Kwethluk alone or in any combination|2|False|False|False
+2763|Organized Village of Saxman alone or in any combination|2|False|False|False
+2764|Orutsararmiut Traditional Native Council alone or in any combination|2|False|False|False
+2765|Oscarville Traditional Village alone or in any combination|2|False|False|False
+2766|Pauloff Harbor Village alone or in any combination|2|False|False|False
+2767|Pedro Bay Village alone or in any combination|2|False|False|False
+2768|Pelican alone or in any combination|2|False|True|False
+2769|Petersburg Indian Association alone or in any combination|2|False|True|False
+2770|Pilot Station Traditional Village alone or in any combination|2|False|False|False
+2771|Pitka's Point Traditional Council alone or in any combination|2|False|False|False
+2772|Platinum Traditional Village alone or in any combination|2|False|True|False
+2773|Portage Creek Village (Ohgsenakale) alone or in any combination|2|False|True|False
+2774|Qagan Tayagungin Tribe of Sand Point Village alone or in any combination|2|False|False|False
+2775|Qawalangin Tribe of Unalaska alone or in any combination|2|False|False|False
+2776|Rampart Village alone or in any combination|2|False|False|False
+2777|Saint George Island alone or in any combination|2|False|False|False
+2778|Saint Paul Island alone or in any combination|2|False|False|False
+2779|Salamatof Tribe alone or in any combination|2|False|False|False
+2780|Sealaska Corporation (Southeast Alaska) alone or in any combination|2|False|False|False
+2781|Seldovia Village Tribe alone or in any combination|2|False|False|False
+2782|Shageluk Native Village alone or in any combination|2|False|False|False
+2783|Siberian Yupik alone or in any combination|2|False|False|False
+2784|Sitka Tribe of Alaska alone or in any combination|2|False|False|False
+2785|Skagway Village alone or in any combination|2|False|True|False
+2786|Slana alone or in any combination|2|False|True|False
+2787|South Naknek Village alone or in any combination|2|False|False|False
+2788|Stebbins Community Association alone or in any combination|2|False|False|False
+2789|Sugpiaq alone or in any combination|2|False|True|False
+2790|Sun'aq Tribe of Kodiak alone or in any combination|2|False|False|False
+2791|Takotna Village alone or in any combination|2|False|True|False
+2792|Tanana Chiefs alone or in any combination|2|False|False|False
+2793|Tangirnaq Native Village alone or in any combination |2|False|False|False
+2794|Telida Village alone or in any combination|2|False|True|False
+2795|Tenakee Springs alone or in any combination|2|False|True|False
+2796|Tlingit alone or in any combination|2|False|False|False
+2797|Tok alone or in any combination|2|False|True|False
+2798|Traditional Village of Togiak alone or in any combination|2|False|False|False
+2799|Tsimshian alone or in any combination|2|False|False|False
+2800|Tuluksak Native Community alone or in any combination|2|False|False|False
+2801|Twin Hills Village alone or in any combination|2|False|False|False
+2802|Ugashik Village alone or in any combination|2|False|True|False
+2803|Umkumiut Native Village alone or in any combination|2|False|True|False
+2804|Unangan (Unalaska) alone or in any combination|2|False|True|False
+2805|Village of Alakanuk alone or in any combination|2|False|False|False
+2806|Village of Anaktuvuk Pass alone or in any combination|2|False|False|False
+2807|Village of Aniak alone or in any combination|2|False|False|False
+2808|Village of Atmautluak alone or in any combination|2|False|False|False
+2809|Village of Bill Moore's Slough alone or in any combination|2|False|False|False
+2810|Village of Chefornak alone or in any combination|2|False|False|False
+2811|Village of Clarks Point alone or in any combination |2|False|False|False
+2812|Village of Crooked Creek alone or in any combination|2|False|False|False
+2813|Village of Dot Lake alone or in any combination|2|False|False|False
+2814|Village of Iliamna alone or in any combination|2|False|False|False
+2815|Village of Kalskag alone or in any combination|2|False|False|False
+2816|Village of Kaltag alone or in any combination|2|False|False|False
+2817|Village of Kotlik alone or in any combination|2|False|False|False
+2818|Village of Lower Kalskag alone or in any combination|2|False|False|False
+2819|Village of Ohogamiut alone or in any combination|2|False|False|False
+2820|Village of Red Devil alone or in any combination|2|False|True|False
+2821|Village of Sleetmute alone or in any combination|2|False|False|False
+2822|Village of Solomon alone or in any combination|2|False|False|False
+2823|Village of Stony River alone or in any combination|2|False|False|False
+2824|Village of Venetie alone or in any combination|2|False|False|False
+2825|Village of Wainwright alone or in any combination|2|False|True|False
+2826|Wiseman alone or in any combination|2|False|True|False
+2827|Wrangell Cooperative Association alone or in any combination|2|False|True|False
+2828|Yakutat Tlingit Tribe alone or in any combination|2|False|False|False
+2829|Yupiit of Andreafski alone or in any combination|2|False|False|False
+2830|Yup'ik (Yup'ik Eskimo) alone or in any combination|2|False|False|False
+2831|Alaska Native alone or in any combination, not specified|2|False|False|False
+2832|Other Alaska Native alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+2833|American Indian alone or in any combination|1|False|False|False
+2834|Abenaki Nation of Missisquoi alone or in any combination|2|False|False|False
+2835|Absentee Shawnee Tribe of Indians of Oklahoma alone or in any combination|2|False|False|False
+2836|Agua Caliente alone or in any combination |2|False|False|False
+2837|Agua Caliente Band of Cahuilla Indians alone or in any combination|2|False|False|False
+2838|Ak-Chin Indian Community alone or in any combination|2|False|False|False
+2839|Alabama Creek alone or in any combination|2|False|True|False
+2840|Alabama Quassarte Tribal Town alone or in any combination|2|False|False|False
+2841|Alabama-Coushatta Tribe of Texas alone or in any combination|2|False|False|False
+2842|Algonquian alone or in any combination|2|False|False|False
+2843|Allegheny Lenape alone or in any combination |2|False|False|False
+2844|Alpine alone or in any combination|2|False|True|False
+2845|Alsea alone or in any combination|2|False|True|False
+2846|Alturas Indian Rancheria alone or in any combination|2|False|True|False
+2847|Ani-stohini/Unami alone or in any combination|2|False|True|False
+2848|Apache alone or in any combination|2|False|False|False
+2849|Apache Tribe of Oklahoma alone or in any combination|2|False|False|False
+2850|Arapaho alone or in any combination|2|False|False|False
+2851|Arapaho Tribe of the Wind River Reservation, Wyoming alone or in any combination|2|False|True|False
+2852|Aroostook Band of Micmacs alone or in any combination|2|False|False|False
+2853|Assiniboine alone or in any combination|2|False|False|False
+2854|Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana alone or in any combination|2|False|False|False
+2855|Assonet Band of the Wampanoag Nation alone or in any combination|2|False|True|False
+2856|Atakapa alone or in any combination|2|False|False|False
+2857|Atsina alone or in any combination|2|False|True|False
+2858|Augustine Band of Cahuilla Indians, California alone or in any combination|2|False|True|False
+2859|Bad River Band of the Lake Superior Tribe alone or in any combination|2|False|False|False
+2860|Bannock alone or in any combination|2|False|False|False
+2861|Barona Group of Capitan Grande Band alone or in any combination|2|False|False|False
+2862|Bay Mills Indian Community alone or in any combination|2|False|False|False
+2863|Bear River Band of Rohnerville Rancheria alone or in any combination|2|False|False|False
+2864|Beaver Creek Indians alone or in any combination|2|False|False|False
+2865|Berry Creek Rancheria of Maidu Indians alone or in any combination|2|False|False|False
+2866|Big Lagoon Rancheria alone or in any combination|2|False|True|False
+2867|Big Pine Paiute Tribe of the Owens Valley alone or in any combination|2|False|False|False
+2868|Big Sandy Rancheria of Western Mono Indians of California alone or in any combination|2|False|False|False
+2869|Big Valley Band of Pomo Indians of the Big Valley Rancheria alone or in any combination|2|False|False|False
+2870|Biloxi alone or in any combination|2|False|False|False
+2871|Biloxi-Chitimacha Confederation alone or in any combination|2|False|False|False
+2872|Bishop Paiute Tribe alone or in any combination|2|False|False|False
+2873|Blackfeet Tribe of the Blackfeet Indian Reservation of Montana alone or in any combination|2|False|False|False
+2874|Blue Lake Rancheria alone or in any combination|2|False|True|False
+2875|Bois Forte Band (Nett Lake) alone or in any combination|2|False|False|False
+2876|Bridgeport Paiute Indian Colony alone or in any combination|2|False|False|False
+2877|Brotherton alone or in any combination|2|False|False|False
+2878|Brule Sioux alone or in any combination|2|False|False|False
+2879|Buena Vista Rancheria of Me-Wuk Indians of California alone or in any combination|2|False|True|False
+2880|Burns Paiute Tribe alone or in any combination|2|False|False|False
+2881|Burt Lake Band of Ottawa and Chippewa Indians alone or in any combination|2|False|False|False
+2882|Cabazon Band of Mission Indians alone or in any combination|2|False|True|False
+2883|Cachil Dehe Band of Wintun Indians of the Colusa Rancheria alone or in any combination|2|False|False|False
+2884|Caddo Adais Indians alone or in any combination|2|False|False|False
+2885|Caddo alone or in any combination|2|False|False|False
+2886|Caddo Nation of Oklahoma alone or in any combination|2|False|False|False
+2887|Cahto Indian Tribe of the Laytonville Rancheria alone or in any combination|2|False|False|False
+2888|Cahuilla alone or in any combination|2|False|False|False
+2889|Cahuilla Band of Indians alone or in any combination|2|False|False|False
+2890|California Valley Miwok Tribe alone or in any combination|2|False|True|False
+2891|Campo Band of Diegueno Mission Indians alone or in any combination|2|False|False|False
+2892|Capitan Grande Band of Diegueno Mission Indians alone or in any combination|2|False|True|False
+2893|Catawba Indian Nation alone or in any combination|2|False|False|False
+2894|Cayuga Nation alone or in any combination|2|False|False|False
+2895|Cayuse alone or in any combination|2|False|False|False
+2896|Cedarville Rancheria alone or in any combination|2|False|True|False
+2897|Celilo alone or in any combination|2|False|True|False
+2898|Central Pomo alone or in any combination|2|False|False|False
+2899|Chaloklowa Chickasaw alone or in any combination|2|False|False|False
+2900|Chappaquiddick Tribe of the Wampanoag Indian Nation alone or in any combination |2|False|False|False
+2901|Chaubunagungamaug Nipmuck alone or in any combination|2|False|True|False
+2902|Chemakuan alone or in any combination|2|False|True|False
+2903|Chemehuevi Indian Tribe alone or in any combination|2|False|False|False
+2904|Cher-Ae Heights Indian Community of the Trinidad Rancheria alone or in any combination|2|False|False|False
+2905|Cher-O-Creek Intratribal Indians alone or in any combination|2|False|False|False
+2906|Cheroenhaka (Nottoway) alone or in any combination|2|False|False|False
+2907|Cherokee Alabama alone or in any combination|2|False|False|False
+2908|Cherokee alone or in any combination|2|False|False|False
+2909|Cherokee Nation alone or in any combination|2|False|False|False
+2910|Cherokee Bear Clan of South Carolina alone or in any combination|2|False|True|False
+2911|Cherokee of Georgia alone or in any combination|2|False|False|False
+2912|Cherokee Tribe of Northeast Alabama alone or in any combination|2|False|False|False
+2913|Cheyenne alone or in any combination|2|False|False|False
+2914|Cheyenne and Arapaho Tribes, Oklahoma alone or in any combination|2|False|False|False
+2915|Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota alone or in any combination|2|False|False|False
+2916|Chickahominy Indian Tribe alone or in any combination|2|False|False|False
+2917|Chickahominy Indian Tribe - Eastern Division alone or in any combination|2|False|False|False
+2918|The Chickasaw Nation alone or in any combination|2|False|False|False
+2919|Chicken Ranch Rancheria of Me-Wuk Indians alone or in any combination|2|False|True|False
+2920|Chimariko alone or in any combination|2|False|False|False
+2921|Chinook alone or in any combination|2|False|False|False
+2922|Chippewa alone or in any combination|2|False|False|False
+2923|Chippewa Cree Indians of the Rocky Boy's Reservation, Montana alone or in any combination|2|False|False|False
+2924|Chitimacha Tribe of Louisiana alone or in any combination|2|False|False|False
+2925|Choctaw alone or in any combination|2|False|False|False
+2926|Choctaw-Apache Community of Ebarb alone or in any combination|2|False|False|False
+2927|The Choctaw Nation of Oklahoma alone or in any combination|2|False|False|False
+2928|Chumash alone or in any combination|2|False|False|False
+2929|Citizen Potawatomi Nation, Oklahoma alone or in any combination|2|False|False|False
+2930|Clatsop alone or in any combination |2|False|False|False
+2931|Clear Lake alone or in any combination|2|False|True|False
+2932|Clifton Choctaw Tribe of Louisiana alone or in any combination|2|False|False|False
+2933|Cloverdale Rancheria of Pomo Indians of California alone or in any combination|2|False|False|False
+2934|Cocopah Tribe of Arizona alone or in any combination|2|False|False|False
+2935|Coeur D'Alene alone or in any combination|2|False|False|False
+2936|Coharie Indian Tribe alone or in any combination|2|False|False|False
+2937|Cold Springs Rancheria of Mono Indians alone or in any combination|2|False|False|False
+2938|Colorado River Indian Tribe alone or in any combination|2|False|False|False
+2939|Columbia alone or in any combination|2|False|False|False
+2940|Columbia River Chinook alone or in any combination|2|False|True|False
+2941|Comanche Nation, Oklahoma alone or in any combination|2|False|False|False
+2942|Confederated Salish and Kootenai Tribes of the Flathead Nation alone or in any combination|2|False|False|False
+2943|Confederated Tribes and Bands of the Yakama Nation alone or in any combination|2|False|False|False
+2944|Confederated Tribes of Siletz Indians of Oregon alone or in any combination|2|False|False|False
+2945|Confederated Tribes of the Chehalis Reservation alone or in any combination|2|False|False|False
+2946|Confederated Tribes of the Colville Reservation alone or in any combination|2|False|False|False
+2947|Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians alone or in any combination|2|False|False|False
+2948|Confederated Tribes of the Goshute Reservation alone or in any combination|2|False|False|False
+2949|Confederated Tribes of the Grand Ronde Community of Oregon alone or in any combination|2|False|False|False
+2950|Confederated Tribes of the Umatilla Indian Reservation alone or in any combination|2|False|False|False
+2951|Confederated Tribes of Warm Springs alone or in any combination|2|False|False|False
+2952|Coos alone or in any combination|2|False|False|False
+2953|Coquille Indian Tribe alone or in any combination|2|False|False|False
+2954|Costanoan alone or in any combination|2|False|False|False
+2955|Coushatta alone or in any combination|2|False|False|False
+2956|Coushatta Tribe of Louisiana alone or in any combination|2|False|False|False
+2957|Cow Creek Band of Umpqua Tribe of Indians alone or in any combination|2|False|False|False
+2958|Cowlitz Indian Tribe alone or in any combination|2|False|False|False
+2959|Coyote Valley Band of Pomo Indians of California alone or in any combination|2|False|False|False
+2960|Cree alone or in any combination|2|False|False|False
+2961|Croatan alone or in any combination|2|False|False|False
+2962|Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota alone or in any combination|2|False|False|False
+2963|Crow Tribe of Montana alone or in any combination|2|False|False|False
+2964|Cumberland County Association for Indian People alone or in any combination|2|False|True|False
+2965|Cupeno alone or in any combination|2|False|False|False
+2966|Delaware (Lenni-Lenape) alone or in any combination|2|False|False|False
+2967|Delaware Nation alone or in any combination|2|False|False|False
+2968|Delaware Tribe of Indians, Oklahoma alone or in any combination |2|False|False|False
+2969|Dry Creek Rancheria Band of Pomo Indians, California alone or in any combination|2|False|False|False
+2970|Duckwater Shoshone Tribe alone or in any combination|2|False|False|False
+2971|Duwamish alone or in any combination|2|False|False|False
+2972|East of the River Shawnee alone or in any combination|2|False|True|False
+2973|Eastern Band of Cherokee Indians alone or in any combination|2|False|False|False
+2974|Eastern Creek alone or in any combination|2|False|False|False
+2975|Eastern Muscogee alone or in any combination|2|False|True|False
+2976|Eastern Pequot alone or in any combination|2|False|False|False
+2977|Eastern Pomo alone or in any combination|2|False|True|False
+2978|Eastern Shawnee Tribe of Oklahoma alone or in any combination|2|False|False|False
+2979|Eastern Shoshone Tribe of the Wind River Reservation, Wyoming alone or in any combination|2|False|False|False
+2980|Echota Cherokee Tribe of Alabama alone or in any combination|2|False|False|False
+2981|Edisto Natchez-Kusso Tribe of South Carolina (Natchez Indian Tribe) alone or in any combination|2|False|False|False
+2982|Elem Indian Colony of the Sulphur Bank Rancheria alone or in any combination |2|False|False|False
+2983|Elk Valley Rancheria alone or in any combination|2|False|False|False
+2984|Elnu Abenaki Tribe alone or in any combination|2|False|False|False
+2985|Ely Shoshone Tribe alone or in any combination|2|False|False|False
+2986|Enterprise Rancheria of Maidu Indians alone or in any combination|2|False|False|False
+2987|Esselen alone or in any combination|2|False|False|False
+2988|Ewiiaapaayp Band of Kumeyaay Indians alone or in any combination|2|False|True|False
+2989|Federated Indians of Graton Rancheria alone or in any combination|2|False|False|False
+2990|Fernandeno Tataviam Band of Mission Indians alone or in any combination|2|False|False|False
+2991|Flandreau Santee Sioux Tribe of South Dakota alone or in any combination|2|False|False|False
+2992|Fond du Lac Band alone or in any combination|2|False|False|False
+2993|Forest County Potawatomi Community, Wisconsin alone or in any combination|2|False|False|False
+2994|Fort Belknap Indian Community of the Fort Belknap Reservation alone or in any combination|2|False|False|False
+2995|Fort Bidwell Indian Community alone or in any combination|2|False|False|False
+2996|Fort Independence Indian Community alone or in any combination|2|False|True|False
+2997|Fort McDermitt Paiute and Shoshone Tribes of Nevada and Oregon alone or in any combination|2|False|False|False
+2998|Fort McDowell Yavapai Nation alone or in any combination|2|False|False|False
+2999|Fort Mojave Indian Tribe of Arizona, California, and Nevada alone or in any combination|2|False|False|False
+3000|Fort Sill Apache Tribe of Oklahoma alone or in any combination|2|False|False|False
+3001|Four Winds Cherokee alone or in any combination|2|False|False|False
+3002|Gabrieleno alone or in any combination|2|False|False|False
+3003|Georgetown alone or in any combination|2|False|True|False
+3004|Georgia Eastern Cherokee alone or in any combination|2|False|False|False
+3005|Gila River Indian Community of the Gila River Indian Reservation alone or in any combination|2|False|False|False
+3006|Golden Hill Paugussett alone or in any combination |2|False|False|False
+3007|Grand Portage Band alone or in any combination|2|False|False|False
+3008|Grand River Band of Ottawa Indians alone or in any combination|2|False|False|False
+3009|Grand Traverse Band of Ottawa and Chippewa Indians alone or in any combination|2|False|False|False
+3010|Greenville Rancheria alone or in any combination|2|False|False|False
+3011|Grindstone Indian Rancheria of Wintun-Wailaki Indians alone or in any combination |2|False|False|False
+3012|Gros Ventres alone or in any combination|2|False|False|False
+3013|Guidiville Rancheria of California alone or in any combination|2|False|False|False
+3014|Guilford Native American Association alone or in any combination|2|False|True|False
+3015|Habematolel Pomo of Upper Lake alone or in any combination|2|False|False|False
+3016|Haliwa-Saponi Indian Tribe alone or in any combination|2|False|False|False
+3017|Hannahville Potawatomi Indian Tribe, Michigan alone or in any combination|2|False|False|False
+3018|Hassanamisco Band of the Nipmuc Nation alone or in any combination|2|False|True|False
+3019|Havasupai Tribe of the Havasupai Reservation alone or in any combination|2|False|False|False
+3020|Herring Pond Wampanoag Tribe alone or in any combination|2|False|False|False
+3021|Ho-Chunk Nation alone or in any combination|2|False|False|False
+3022|Hoh Indian Tribe alone or in any combination|2|False|False|False
+3023|Hoopa Extension alone or in any combination|2|False|True|False
+3024|Hoopa Valley Tribe alone or in any combination|2|False|False|False
+3025|Hopi Tribe of Arizona alone or in any combination|2|False|False|False
+3026|Hopland Band of Pomo Indians alone or in any combination|2|False|False|False
+3027|Houlton Band of Maliseet Indians alone or in any combination|2|False|False|False
+3028|Hualapai Indian Tribe of the Hualapai Indian Reservation alone or in any combination|2|False|False|False
+3029|Iipay Nation of Santa Ysabel alone or in any combination|2|False|False|False
+3030|Illinois Miami alone or in any combination|2|False|False|False
+3031|Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation alone or in any combination|2|False|True|False
+3032|Indian Township alone or in any combination|2|False|True|False
+3033|Indiana Miami alone or in any combination|2|False|False|False
+3034|Ione Band of Miwok Indians alone or in any combination|2|False|False|False
+3035|Iowa (Tribe) alone or in any combination|2|False|False|False
+3036|Iowa Tribe of Kansas and Nebraska alone or in any combination|2|False|False|False
+3037|Iowa Tribe of Oklahoma alone or in any combination|2|False|False|False
+3038|Iroquois alone or in any combination|2|False|False|False
+3039|Jackson Band of Miwuk Indians alone or in any combination|2|False|True|False
+3040|Jamestown S'Klallam Tribe alone or in any combination|2|False|False|False
+3041|Jamul Indian Village alone or in any combination|2|False|False|False
+3042|Jena Band of Choctaw Indians alone or in any combination|2|False|False|False
+3043|Jicarilla Apache Nation alone or in any combination|2|False|False|False
+3044|Juaneno (Acjachemem) alone or in any combination|2|False|False|False
+3045|Kaibab Band of Paiute Indians of the Kaibab Indian Reservation alone or in any combination|2|False|False|False
+3046|Kalapuya alone or in any combination |2|False|False|False
+3047|Kalispel Indian Community alone or in any combination|2|False|False|False
+3048|Karuk Tribe alone or in any combination|2|False|False|False
+3049|Kashia Band of Pomo Indians of the Stewarts Point Rancheria alone or in any combination|2|False|False|False
+3050|Kathlamet alone or in any combination|2|False|True|False
+3051|Kaw Nation alone or in any combination|2|False|False|False
+3052|Kern Valley Indian Community alone or in any combination|2|False|False|False
+3053|Kewa Pueblo, New Mexico alone or in any combination|2|False|False|False
+3054|Keweenaw Bay Indian Community alone or in any combination|2|False|False|False
+3055|Kialegee Tribal Town alone or in any combination|2|False|True|False
+3056|Kickapoo alone or in any combination|2|False|False|False
+3057|Kickapoo Traditional Tribe of Texas alone or in any combination|2|False|False|False
+3058|Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas alone or in any combination|2|False|False|False
+3059|Kickapoo Tribe of Oklahoma alone or in any combination|2|False|False|False
+3060|Kikiallus alone or in any combination|2|False|True|False
+3061|Kiowa alone or in any combination|2|False|False|False
+3062|Kiowa Indian Tribe of Oklahoma alone or in any combination|2|False|False|False
+3063|Klallam alone or in any combination|2|False|False|False
+3064|Klamath Tribes alone or in any combination|2|False|False|False
+3065|Kletsel Dehe Band of Wintun Indians alone or in any combination|2|False|False|False
+3066|Koasek (Cowasuck) Traditional Band of the Sovereign Abenaki Nation alone or in any combination|2|False|False|False
+3067|Koi Nation of Northern California alone or in any combination|2|False|True|False
+3068|Konkow alone or in any combination|2|False|False|False
+3069|Kootenai Tribe of Idaho alone or in any combination|2|False|False|False
+3070|Kumeyaay (Diegueno) alone or in any combination|2|False|False|False
+3071|La Jolla Band of Luiseno Indians, California alone or in any combination|2|False|False|False
+3072|La Posta Band of Diegueno Mission Indians alone or in any combination|2|False|True|False
+3073|Lac Courte Oreilles Band of Lake Superior Chippewa alone or in any combination|2|False|False|False
+3074|Lac du Flambeau Band of Lake Superior Chippewa Indians alone or in any combination|2|False|False|False
+3075|Lac Vieux Desert Band of Lake Superior Chippewa Indians alone or in any combination|2|False|False|False
+3076|Lake Superior Chippewa alone or in any combination|2|False|False|False
+3077|Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony alone or in any combination |2|False|False|False
+3078|Lassik alone or in any combination|2|False|True|False
+3079|Leech Lake Band alone or in any combination|2|False|False|False
+3080|Lemhi-Shoshone alone or in any combination|2|False|True|False
+3081|Lipan Apache alone or in any combination|2|False|False|False
+3082|Little River Band of Ottawa Indians of Michigan alone or in any combination|2|False|False|False
+3083|Little Shell Tribe of Chippewa Indians of Montana alone or in any combination|2|False|False|False
+3084|Little Traverse Bay Bands of Odawa Indians alone or in any combination|2|False|False|False
+3085|Lone Pine Paiute-Shoshone Tribe alone or in any combination|2|False|False|False
+3086|Los Coyotes Band of Cahuilla and Cupeno Indians alone or in any combination|2|False|False|False
+3087|Louisiana Choctaw Tribe alone or in any combination|2|False|False|False
+3088|Lovelock Paiute Tribe of the Lovelock Indian Colony, Nevada alone or in any combination|2|False|False|False
+3089|Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota alone or in any combination|2|False|False|False
+3090|Lower Elwha Tribal Community alone or in any combination|2|False|False|False
+3091|Lower Muscogee Creek Tribe alone or in any combination|2|False|False|False
+3092|Lower Sioux Indian Community in the State of Minnesota alone or in any combination|2|False|False|False
+3093|Lower Skagit alone or in any combination|2|False|True|False
+3094|Luiseno alone or in any combination|2|False|False|False
+3095|Lumbee Tribe of North Carolina alone or in any combination|2|False|False|False
+3096|Lummi Tribe alone or in any combination|2|False|False|False
+3097|Lytton Rancheria of California alone or in any combination |2|False|False|False
+3098|Ma-Chis Lower Creek Indian Tribe of Alabama alone or in any combination|2|False|False|False
+3099|Maidu alone or in any combination|2|False|False|False
+3100|Makah Indian Tribe alone or in any combination|2|False|False|False
+3101|Malheur Paiute alone or in any combination|2|False|True|False
+3102|Maliseet alone or in any combination|2|False|False|False
+3103|Manchester Band of Pomo Indians of the Manchester Rancheria, California alone or in any combination|2|False|False|False
+3104|Manzanita Band of Diegueno Mission Indians alone or in any combination|2|False|False|False
+3105|Maricopa alone or in any combination|2|False|False|False
+3106|Marietta Band of Nooksack alone or in any combination|2|False|True|False
+3107|Mashantucket Pequot Indian Tribe alone or in any combination|2|False|False|False
+3108|Mashpee Wampanoag Tribe alone or in any combination|2|False|False|False
+3109|Match-e-be-nash-she-wish Band of Pottawatomi Indians alone or in any combination|2|False|False|False
+3110|Matinecock alone or in any combination|2|False|False|False
+3111|Mattaponi Indian Tribe alone or in any combination|2|False|False|False
+3112|Mdewakanton Sioux alone or in any combination|2|False|False|False
+3113|Mechoopda Indian Tribe of Chico Rancheria alone or in any combination|2|False|False|False
+3114|Meherrin Indian Tribe alone or in any combination|2|False|False|False
+3115|Menominee Indian Tribe alone or in any combination|2|False|False|False
+3116|Mesa Grande Band of Diegueno Mission Indians alone or in any combination|2|False|False|False
+3117|Mescalero Apache Tribe of the Mescalero Reservation, New Mexico alone or in any combination|2|False|False|False
+3118|Metrolina Native American Association alone or in any combination|2|False|True|False
+3119|Miami (Tribe) alone or in any combination|2|False|False|False
+3120|Miami Tribe of Oklahoma alone or in any combination|2|False|False|False
+3121|Miccosukee Tribe of Indians of Florida alone or in any combination|2|False|False|False
+3122|Micmac alone or in any combination|2|False|False|False
+3123|Middletown Rancheria of Pomo Indians alone or in any combination|2|False|False|False
+3124|Mille Lacs Band alone or in any combination|2|False|False|False
+3125|Minnesota Chippewa alone or in any combination|2|False|False|False
+3126|Mission Indians alone or in any combination|2|False|False|False
+3127|Mississippi Band of Choctaw Indians alone or in any combination|2|False|False|False
+3128|Miwok/Me-Wuk alone or in any combination|2|False|False|False
+3129|Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada alone or in any combination|2|False|False|False
+3130|Modoc alone or in any combination|2|False|False|False
+3131|The Modoc Tribe of Oklahoma alone or in any combination|2|False|False|False
+3132|Mohawk alone or in any combination|2|False|False|False
+3133|Mohegan Tribe of Indians of Connecticut alone or in any combination|2|False|False|False
+3134|Molalla alone or in any combination|2|False|False|False
+3135|Monacan Indian Nation alone or in any combination|2|False|False|False
+3136|Mono alone or in any combination|2|False|False|False
+3137|Montauk alone or in any combination|2|False|False|False
+3138|Moor Indian alone or in any combination|2|False|False|False
+3139|Mooretown Rancheria of Maidu Indians alone or in any combination|2|False|False|False
+3140|Morongo Band of Mission Indians, California alone or in any combination|2|False|False|False
+3141|Mountain Maidu alone or in any combination|2|False|True|False
+3142|MOWA Band of Choctaw Indians alone or in any combination|2|False|False|False
+3143|Muckleshoot Indian Tribe alone or in any combination|2|False|False|False
+3144|Munsee alone or in any combination|2|False|False|False
+3145|The Muscogee (Creek) Nation alone or in any combination|2|False|False|False
+3146|Nansemond Indian Nation alone or in any combination|2|False|False|False
+3147|Nanticoke alone or in any combination|2|False|False|False
+3148|Nanticoke Lenni-Lenape alone or in any combination|2|False|False|False
+3149|Narragansett Indian Tribe alone or in any combination|2|False|False|False
+3150|Natchitoches Tribe of Louisiana alone or in any combination|2|False|False|False
+3151|Nausu Waiwash alone or in any combination|2|False|False|False
+3152|Navajo Nation alone or in any combination|2|False|False|False
+3153|New Jersey Sand Hill Band of Indians, Inc alone or in any combination |2|False|False|False
+3154|Nez Perce Tribe alone or in any combination|2|False|False|False
+3155|Nipmuc alone or in any combination|2|False|False|False
+3156|Nisenen (Nishinam) alone or in any combination|2|False|True|False
+3157|Nisqually Indian Tribe alone or in any combination|2|False|False|False
+3158|Nomlaki alone or in any combination|2|False|False|False
+3159|Nooksack Indian Tribe alone or in any combination|2|False|False|False
+3160|North Fork Rancheria of Mono Indians alone or in any combination|2|False|False|False
+3161|Northern Arapaho Tribe alone or in any combination|2|False|False|False
+3162|Northern Cherokee Nation of Missouri and Arkansas alone or in any combination|2|False|False|False
+3163|Northern Cheyenne Tribe of the Northern Cheyenne Reservation, Montana alone or in any combination|2|False|False|False
+3164|Northern Paiute alone or in any combination|2|False|False|False
+3165|Northern Pomo alone or in any combination|2|False|False|False
+3166|Northwestern Band of the Shoshone Nation alone or in any combination|2|False|False|False
+3167|Nottawaseppi Huron Band of the Potawatomi, Michigan alone or in any combination|2|False|False|False
+3168|Nottoway Indian Tribe of Virginia alone or in any combination|2|False|False|False
+3169|Nulhegan Band of the Coosuk Abenaki Nation alone or in any combination|2|False|False|False
+3170|Occaneechi Band of the Saponi Nation alone or in any combination|2|False|False|False
+3171|Oglala Sioux Tribe alone or in any combination|2|False|False|False
+3172|Ohkay Owingeh, New Mexico alone or in any combination|2|False|False|False
+3173|Omaha Tribe of Nebraska alone or in any combination|2|False|False|False
+3174|Oneida alone or in any combination|2|False|False|False
+3175|Oneida Indian Nation alone or in any combination|2|False|False|False
+3176|Oneida Nation alone or in any combination|2|False|False|False
+3177|Onondaga Nation alone or in any combination|2|False|False|False
+3178|Oregon Athabascan alone or in any combination|2|False|False|False
+3179|The Osage Nation alone or in any combination|2|False|False|False
+3180|Otoe-Missouria Tribe of Indians alone or in any combination|2|False|False|False
+3181|Ottawa alone or in any combination|2|False|False|False
+3182|Ottawa Tribe of Oklahoma alone or in any combination|2|False|False|False
+3183|Paiute alone or in any combination|2|False|False|False
+3184|Paiute Indian Tribe of Utah (Southern Paiute) alone or in any combination|2|False|False|False
+3185|Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada alone or in any combination|2|False|False|False
+3186|Pala Band of Mission Indians alone or in any combination|2|False|False|False
+3187|Pamunkey Indian Tribe alone or in any combination|2|False|False|False
+3188|Pascua Yaqui Tribe of Arizona alone or in any combination|2|False|False|False
+3189|Paskenta Band of Nomlaki Indians alone or in any combination |2|False|False|False
+3190|Passamaquoddy Tribe alone or in any combination|2|False|False|False
+3191|Patawomeck Indian Tribe of Virginia alone or in any combination|2|False|False|False
+3192|Paucatuck Eastern Pequot alone or in any combination|2|False|True|False
+3193|Pauma Band of Luiseno Mission Indians alone or in any combination|2|False|False|False
+3194|Pawnee alone or in any combination|2|False|False|False
+3195|Pawnee Nation of Oklahoma alone or in any combination|2|False|False|False
+3196|Pechanga Band of Luiseno Mission Indians alone or in any combination|2|False|False|False
+3197|Pee Dee Indian Nation of Upper South Carolina alone or in any combination|2|False|False|False
+3198|Pee Dee Indian Tribe of South Carolina alone or in any combination|2|False|False|False
+3199|Penobscot Nation alone or in any combination|2|False|False|False
+3200|Peoria Tribe of Indians of Oklahoma alone or in any combination|2|False|False|False
+3201|Pequot alone or in any combination|2|False|False|False
+3202|Picayune Rancheria of Chukchansi Indians alone or in any combination|2|False|False|False
+3203|Piedmont American Indian Association-Lower Eastern Cherokee Nation SC (PAIA) alone or in any combination|2|False|False|False
+3204|Pima alone or in any combination |2|False|False|False
+3205|Pinoleville Pomo Nation alone or in any combination|2|False|False|False
+3206|Pipestone Sioux alone or in any combination|2|False|True|False
+3207|Piqua Shawnee Tribe alone or in any combination|2|False|False|False
+3208|Piro Manso Tiwa Tribe alone or in any combination|2|False|False|False
+3209|Piscataway alone or in any combination|2|False|False|False
+3210|Piscataway Conoy Tribe alone or in any combination|2|False|False|False
+3211|Piscataway Indian Nation alone or in any combination|2|False|False|False
+3212|Pit River Tribe of California alone or in any combination|2|False|False|False
+3213|Pleasant Point Passamaquoddy alone or in any combination|2|False|True|False
+3214|Poarch Band of Creeks alone or in any combination|2|False|False|False
+3215|Pocasset Wampanoag alone or in any combination|2|False|False|False
+3216|Pocomoke Acohonock alone or in any combination |2|False|False|False
+3217|Pointe Au-Chien Indian Tribe alone or in any combination|2|False|False|False
+3218|Pokagon Band of Potawatomi Indians alone or in any combination|2|False|False|False
+3219|Pokanoket (Royal House of Pokanoket) alone or in any combination |2|False|False|False
+3220|Pomo alone or in any combination|2|False|False|False
+3221|Ponca alone or in any combination|2|False|False|False
+3222|Ponca Tribe of Indians of Oklahoma alone or in any combination|2|False|False|False
+3223|Ponca Tribe of Nebraska alone or in any combination|2|False|False|False
+3224|Ponkapoag alone or in any combination|2|False|False|False
+3225|Poospatuck alone or in any combination|2|False|False|False
+3226|Port Gamble S'Klallam Tribe alone or in any combination|2|False|False|False
+3227|Potawatomi alone or in any combination|2|False|False|False
+3228|Potter Valley Tribe alone or in any combination|2|False|True|False
+3229|Powhatan alone or in any combination|2|False|False|False
+3230|Prairie Band Potawatomi Nation alone or in any combination|2|False|False|False
+3231|Prairie Island Indian Community alone or in any combination|2|False|False|False
+3232|Principal Creek Indian Nation alone or in any combination|2|False|False|False
+3233|Pueblo alone or in any combination|2|False|False|False
+3234|Pueblo of Acoma alone or in any combination|2|False|False|False
+3235|Pueblo of Cochiti alone or in any combination|2|False|False|False
+3236|Pueblo of Isleta alone or in any combination|2|False|False|False
+3237|Pueblo of Jemez alone or in any combination|2|False|False|False
+3238|Pueblo of Laguna alone or in any combination|2|False|False|False
+3239|Pueblo of Nambe alone or in any combination|2|False|False|False
+3240|Pueblo of Picuris alone or in any combination|2|False|False|False
+3241|Pueblo of Pojoaque alone or in any combination|2|False|False|False
+3242|Pueblo of San Felipe alone or in any combination|2|False|False|False
+3243|Pueblo of San Ildefonso alone or in any combination|2|False|False|False
+3244|Pueblo of Sandia alone or in any combination|2|False|False|False
+3245|Pueblo of Santa Ana alone or in any combination|2|False|False|False
+3246|Pueblo of Santa Clara alone or in any combination|2|False|False|False
+3247|Pueblo of Taos alone or in any combination|2|False|False|False
+3248|Pueblo of Tesuque alone or in any combination|2|False|False|False
+3249|Pueblo of Zia alone or in any combination|2|False|False|False
+3250|Puget Sound Salish alone or in any combination|2|False|False|False
+3251|Puyallup Tribe of The Puyallup Reservation alone or in any combination|2|False|False|False
+3252|Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada alone or in any combination |2|False|False|False
+3253|Quapaw Nation alone or in any combination|2|False|False|False
+3254|Quartz Valley Indian Reservation alone or in any combination |2|False|False|False
+3255|Quechan Tribe of the Fort Yuma Indian Reservation, California and Arizona alone or in any combination|2|False|False|False
+3256|Quileute Tribe of the Quileute Reservation, Washington alone or in any combination|2|False|False|False
+3257|Quinault Indian Nation alone or in any combination|2|False|False|False
+3258|Ramapough Lenape Nation (Ramapough Mountain) alone or in any combination|2|False|False|False
+3259|Ramona Band of Cahuilla, California alone or in any combination|2|False|True|False
+3260|Rappahannock Tribe, Inc. alone or in any combination|2|False|False|False
+3261|Red Cliff Band of Lake Superior Chippewa alone or in any combination|2|False|False|False
+3262|Red Lake Band of Chippewa Indians alone or in any combination|2|False|False|False
+3263|Red Wood alone or in any combination|2|False|True|False
+3264|Redding Rancheria, California alone or in any combination|2|False|False|False
+3265|Redwood Valley or Little River Band of Pomo Indians of the Redwood Valley Rancheria California alone or in any combination|2|False|False|False
+3266|Reno-Sparks Indian Colony, Nevada alone or in any combination|2|False|False|False
+3267|Resighini Rancheria alone or in any combination|2|False|False|False
+3268|Rincon Band of Luiseno Mission Indians alone or in any combination|2|False|False|False
+3269|Robinson Rancheria alone or in any combination|2|False|False|False
+3270|Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota alone or in any combination|2|False|False|False
+3271|Round Valley Indian Tribes alone or in any combination|2|False|False|False
+3272|Sac and Fox alone or in any combination|2|False|False|False
+3273|Sac and Fox Nation of Missouri in Kansas and Nebraska alone or in any combination |2|False|False|False
+3274|Sac and Fox Nation, Oklahoma alone or in any combination|2|False|False|False
+3275|Sac and Fox Tribe of the Mississippi in Iowa alone or in any combination|2|False|False|False
+3276|Sac River Band of the Chickamauga-Cherokee alone or in any combination|2|False|True|False
+3277|Saginaw Chippewa Indian Tribe alone or in any combination|2|False|False|False
+3278|Saint Regis Mohawk Tribe alone or in any combination|2|False|False|False
+3279|Salinan alone or in any combination|2|False|False|False
+3280|Salish alone or in any combination|2|False|False|False
+3281|Salt River Pima-Maricopa Indian Community alone or in any combination|2|False|False|False
+3282|Samish Indian Nation alone or in any combination|2|False|False|False
+3283|San Carlos Apache Tribe of the San Carlos Reservation alone or in any combination|2|False|False|False
+3284|San Juan alone or in any combination|2|False|False|False
+3285|San Juan Southern Paiute Tribe of Arizona alone or in any combination|2|False|True|False
+3286|San Luis Rey Mission Indian alone or in any combination|2|False|False|False
+3287|San Manuel Band of Mission Indians, California alone or in any combination|2|False|False|False
+3288|San Pasqual Band of Diegueno Mission Indians alone or in any combination|2|False|False|False
+3289|Santa Rosa Band of Cahuilla Indians alone or in any combination |2|False|False|False
+3290|Santa Rosa Indian Community alone or in any combination |2|False|False|False
+3291|Santa Ynez Band of Chumash Mission Indians alone or in any combination|2|False|False|False
+3292|Santee Indian Nation of South Carolina alone or in any combination|2|False|True|False
+3293|Santee Indian Organization alone or in any combination|2|False|True|False
+3294|Santee Sioux Nation, Nebraska alone or in any combination|2|False|False|False
+3295|Saponi alone or in any combination|2|False|False|False
+3296|Sappony alone or in any combination|2|False|False|False
+3297|Sauk-Suiattle Indian Tribe alone or in any combination |2|False|False|False
+3298|Sault Ste. Marie Tribe of Chippewa Indians alone or in any combination|2|False|False|False
+3299|Schaghticoke alone or in any combination|2|False|False|False
+3300|Scotts Valley Band of Pomo Indians of California alone or in any combination |2|False|False|False
+3301|Seaconke Wampanoag alone or in any combination |2|False|False|False
+3302|Seminole alone or in any combination|2|False|False|False
+3303|The Seminole Nation of Oklahoma alone or in any combination|2|False|False|False
+3304|Seminole Tribe of Florida alone or in any combination|2|False|False|False
+3305|Seneca Nation of Indians alone or in any combination|2|False|False|False
+3306|Seneca-Cayuga Nation alone or in any combination|2|False|False|False
+3307|Serrano alone or in any combination|2|False|False|False
+3308|Setalcott Indians alone or in any combination|2|False|False|False
+3309|Shakopee Mdewakanton Sioux Community of Minnesota alone or in any combination|2|False|False|False
+3310|Shasta alone or in any combination|2|False|False|False
+3311|Shawnee alone or in any combination|2|False|False|False
+3312|Shawnee Nation United Remnant Band alone or in any combination|2|False|False|False
+3313|Shawnee Tribe alone or in any combination|2|False|False|False
+3314|Sherwood Valley Rancheria of Pomo Indians of California alone or in any combination|2|False|False|False
+3315|Shingle Springs Band of Miwok Indians alone or in any combination |2|False|False|False
+3316|Shinnecock Indian Nation alone or in any combination|2|False|False|False
+3317|Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation alone or in any combination|2|False|False|False
+3318|Shoshone alone or in any combination|2|False|False|False
+3319|Shoshone Paiute alone or in any combination|2|False|False|False
+3320|Shoshone-Bannock Tribes of the Fort Hall Reservation alone or in any combination|2|False|False|False
+3321|Shoshone-Paiute Tribes of the Duck Valley Reservation alone or in any combination|2|False|False|False
+3322|Sioux alone or in any combination|2|False|False|False
+3323|Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota alone or in any combination|2|False|False|False
+3324|Siuslaw alone or in any combination|2|False|False|False
+3325|Skokomish Indian Tribe alone or in any combination|2|False|False|False
+3326|Skull Valley Band of Goshute Indians of Utah alone or in any combination|2|False|False|False
+3327|Skykomish alone or in any combination|2|False|True|False
+3328|Snohomish alone or in any combination|2|False|False|False
+3329|Snoqualmie Indian Tribe alone or in any combination|2|False|False|False
+3330|Soboba Band of Luiseno Indians alone or in any combination|2|False|False|False
+3331|Sokaogon Chippewa Community alone or in any combination|2|False|False|False
+3332|Southeastern Cherokee Council alone or in any combination|2|False|False|False
+3333|Southeastern Indians alone or in any combination|2|False|False|False
+3334|Southern Arapaho alone or in any combination|2|False|False|False
+3335|Southern Cheyenne alone or in any combination|2|False|False|False
+3336|Southern Ute Indian Tribe of the Southern Ute Reservation alone or in any combination|2|False|False|False
+3337|Spirit Lake Tribe alone or in any combination|2|False|False|False
+3338|Spokane Tribe of the Spokane Reservation alone or in any combination|2|False|False|False
+3339|Squaxin Island Tribe of the Squaxin Island Reservation, Washington alone or in any combination|2|False|False|False
+3340|St. Croix Chippewa Indians of Wisconsin alone or in any combination|2|False|False|False
+3341|Standing Rock Sioux Tribe of North and South Dakota alone or in any combination|2|False|False|False
+3342|Steilacoom alone or in any combination |2|False|False|False
+3343|Stillaguamish Tribes of Indians of Washington alone or in any combination |2|False|False|False
+3344|Stockbridge-Munsee Community alone or in any combination|2|False|False|False
+3345|Stonyford alone or in any combination|2|False|True|False
+3346|Summit Lake Paiute Tribe of Nevada alone or in any combination|2|False|False|False
+3347|The Suquamish Tribe alone or in any combination|2|False|False|False
+3348|Susanville Indian Rancheria, California alone or in any combination|2|False|False|False
+3349|Susquehanock alone or in any combination|2|False|False|False
+3350|Swan Creek Black River Confederate Tribe alone or in any combination|2|False|False|False
+3351|Swinomish Indian Tribal Community alone or in any combination|2|False|False|False
+3352|Sycuan Band of the Kumeyaay Nation alone or in any combination|2|False|False|False
+3353|Table Mountain Rancheria alone or in any combination|2|False|True|False
+3354|Tachi alone or in any combination|2|False|False|False
+3355|Takelma alone or in any combination|2|False|True|False
+3356|Talakamish alone or in any combination|2|False|True|False
+3357|Tejon Indian Tribe alone or in any combination|2|False|False|False
+3358|Temecula alone or in any combination |2|False|False|False
+3359|Te-Moak Tribes of Western Shoshone Indians of Nevada alone or in any combination|2|False|False|False
+3360|Tenino alone or in any combination|2|False|True|False
+3361|Teton Sioux alone or in any combination|2|False|False|False
+3362|The Southeastern Mvskoke Nation, Inc. alone or in any combination|2|False|False|False
+3363|The Waccamaw Indian People alone or in any combination|2|False|False|False
+3364|Thlopthlocco Tribal Town alone or in any combination |2|False|False|False
+3365|Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota alone or in any combination (all tribes) (Sub-state and AIANNH geographies)|0|False|Null|Null
+3366|Arikara (Sahnish) alone or in any combination|2|False|False|False
+3367|Hidatsa alone or in any combination|2|False|False|False
+3368|Mandan alone or in any combination|2|False|False|False
+3369|Three Affiliated Tribes of the Ft. Berthold Reservation, North Dakota alone or in any combination|2|False|False|False
+3370|Tillamook alone or in any combination|2|False|False|False
+3371|Timbisha Shoshone Tribe alone or in any combination|2|False|False|False
+3372|Tohono O'odham Nation of Arizona alone or in any combination|2|False|False|False
+3373|Tolowa alone or in any combination|2|False|False|False
+3374|Tolowa Dee-ni' Nation alone or in any combination|2|False|False|False
+3375|Tonawanda Band of Seneca alone or in any combination|2|False|False|False
+3376|Tonkawa Tribe of Indians of Oklahoma alone or in any combination|2|False|False|False
+3377|Tonto Apache Tribe of Arizona alone or in any combination|2|False|False|False
+3378|Torres Martinez Desert Cahuilla Indians alone or in any combination|2|False|False|False
+3379|Trinity alone or in any combination|2|False|True|False
+3380|Tuckabachee alone or in any combination|2|False|True|False
+3381|Tulalip Tribes of Washington alone or in any combination|2|False|False|False
+3382|Tule River Indian Tribe alone or in any combination|2|False|False|False
+3383|Tunica Biloxi Indian Tribe of Louisiana alone or in any combination|2|False|False|False
+3384|Tuolumne Band of Me-Wuk Indians of California alone or in any combination|2|False|False|False
+3385|Turtle Mountain Band of Chippewa Indians of North Dakota alone or in any combination|2|False|False|False
+3386|Tuscarora Nation alone or in any combination|2|False|False|False
+3387|Tuscola alone or in any combination|2|False|True|False
+3388|Twenty-Nine Palms Band of Luiseno Mission Indians alone or in any combination|2|False|True|False
+3389|Tygh alone or in any combination|2|False|True|False
+3390|Umpqua alone or in any combination|2|False|False|False
+3391|United Auburn Indian Community of the Auburn Rancheria of California alone or in any combination|2|False|False|False
+3392|United Cherokee Ani-Yun-Wiya Nation alone or in any combination|2|False|False|False
+3393|United Houma Nation alone or in any combination|2|False|False|False
+3394|United Keetoowah Band of Cherokee Indians in Oklahoma alone or in any combination|2|False|False|False
+3395|Upper Chinook alone or in any combination|2|False|True|False
+3396|Upper Mattaponi Tribe alone or in any combination|2|False|False|False
+3397|Upper Sioux Community alone or in any combination|2|False|False|False
+3398|Upper Skagit Indian Tribe alone or in any combination|2|False|False|False
+3399|Ute alone or in any combination|2|False|False|False
+3400|Ute Indian Tribe of the Uintah and Ouray Reservation, Utah alone or in any combination|2|False|False|False
+3401|Ute Mountain Ute Tribe alone or in any combination|2|False|False|False
+3402|Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California alone or in any combination|2|False|False|False
+3403|Viejas (Baron Long) Group of Capitan Grande Band alone or in any combination|2|False|False|False
+3404|Waccamaw Siouan Indian Tribe alone or in any combination|2|False|False|False
+3405|Wahpekute Sioux alone or in any combination|2|False|True|False
+3406|Wailaki alone or in any combination|2|False|False|False
+3407|Wakiakum Chinook alone or in any combination|2|False|True|False
+3408|Walker River Paiute Tribe of the Walker River Reservation, Nevada alone or in any combination|2|False|False|False
+3409|Walla Walla alone or in any combination|2|False|False|False
+3410|Wampanoag alone or in any combination|2|False|False|False
+3411|Wampanoag Tribe of Gay Head (Aquinnah) alone or in any combination|2|False|False|False
+3412|Wappo alone or in any combination|2|False|False|False
+3413|Wasco alone or in any combination|2|False|False|False
+3414|Washoe Tribe of Nevada and California alone or in any combination|2|False|False|False
+3415|Wassamasaw Tribe of Varnertown Indians alone or in any combination|2|False|False|False
+3416|Wazhaza Sioux alone or in any combination|2|False|True|False
+3417|Wenatchee alone or in any combination|2|False|True|False
+3418|Whilkut alone or in any combination|2|False|True|False
+3419|White Earth Band alone or in any combination|2|False|False|False
+3420|White Mountain Apache Tribe of the Fort Apache Reservation, Arizona alone or in any combination|2|False|False|False
+3421|White River Band of the Chickamauga-Cherokee alone or in any combination|2|False|False|False
+3422|Wichita and Affiliated Tribes, Oklahoma alone or in any combination|2|False|False|False
+3423|Wicomico alone or in any combination|2|False|True|False
+3424|Willapa Chinook alone or in any combination|2|False|True|False
+3425|Wilton Rancheria alone or in any combination|2|False|False|False
+3426|Wind River alone or in any combination|2|False|True|False
+3427|Winnebago alone or in any combination|2|False|False|False
+3428|Winnebago Tribe of Nebraska alone or in any combination|2|False|False|False
+3429|Winnemucca Indian Colony of Nevada alone or in any combination|2|False|True|False
+3430|Wintun alone or in any combination|2|False|False|False
+3431|Wishram alone or in any combination|2|False|True|False
+3432|Wiyot Tribe, California alone or in any combination|2|False|False|False
+3433|Wyandotte Nation alone or in any combination|2|False|False|False
+3434|Yakama Cowlitz alone or in any combination|2|False|True|False
+3435|Yana alone or in any combination|2|False|False|False
+3436|Yankton Sioux Tribe of South Dakota alone or in any combination|2|False|False|False
+3437|Yanktonai Sioux alone or in any combination|2|False|True|False
+3438|Yaqui alone or in any combination|2|False|False|False
+3439|Yavapai Apache Nation of the Camp Verde Indian Reservation alone or in any combination|2|False|False|False
+3440|Yavapai-Prescott Tribe of the Yavapai Reservation alone or in any combination|2|False|False|False
+3441|Yerington Paiute Tribe of the Yerington Colony and Campbell Ranch, Nevada alone or in any combination|2|False|False|False
+3442|Yocha Dehe Wintun Nation, California alone or in any combination|2|False|True|False
+3443|Yokuts alone or in any combination|2|False|False|False
+3444|Yomba Shoshone Tribe of the Yomba Reservation, Nevada alone or in any combination|2|False|False|False
+3445|Ysleta del Sur Pueblo of Texas alone or in any combination|2|False|False|False
+3446|Yuchi alone or in any combination|2|False|False|False
+3447|Yuki alone or in any combination|2|False|False|False
+3448|Yurok Tribe alone or in any combination|2|False|False|False
+3449|Zuni Tribe of the Zuni Reservation alone or in any combination|2|False|False|False
+3450|Tribal responses alone or in any combination, not elsewhere classified|2|False|True|False
+3451|Other American Indian alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3452|Canadian Indian and French American Indian alone or in any combination|1|False|False|False
+3453|Abenaki Canadian alone or in any combination|2|False|True|False
+3454|Acadia Band alone or in any combination|2|False|True|False
+3455|Ache Dene Koe alone or in any combination|2|False|True|False
+3456|Ahousaht alone or in any combination|2|False|True|False
+3457|Alderville First Nation alone or in any combination|2|False|True|False
+3458|Alexandria Band alone or in any combination|2|False|True|False
+3459|Algonquins of Barriere Lake alone or in any combination|2|False|True|False
+3460|Batchewana First Nation alone or in any combination|2|False|True|False
+3461|Beardys and Okemasis Band alone or in any combination|2|False|True|False
+3462|Beausoleil alone or in any combination|2|False|True|False
+3463|Beecher Bay alone or in any combination|2|False|True|False
+3464|Bella Coola (Nuxalk Nation) alone or in any combination|2|False|True|False
+3465|Beothuk alone or in any combination|2|False|True|False
+3466|Big Cove alone or in any combination|2|False|True|False
+3467|Big Grassy alone or in any combination|2|False|True|False
+3468|Bigstone Cree Nation alone or in any combination|2|False|True|False
+3469|Bonaparte Band alone or in any combination|2|False|True|False
+3470|Boston Bar First Nation alone or in any combination|2|False|True|False
+3471|Bridge River alone or in any combination|2|False|True|False
+3472|Brokenhead Ojibway Nation alone or in any combination|2|False|True|False
+3473|Buffalo Point Band alone or in any combination|2|False|True|False
+3474|Caldwell alone or in any combination|2|False|True|False
+3475|Campbell River Band alone or in any combination|2|False|True|False
+3476|Canadian Indian alone or in any combination|2|False|False|False
+3477|Cape Mudge Band alone or in any combination|2|False|True|False
+3478|Carcross/Tagish First Nation alone or in any combination|2|False|True|False
+3479|Caribou alone or in any combination|2|False|True|False
+3480|Carrier Nation alone or in any combination|2|False|True|False
+3481|Carry the Kettle Band alone or in any combination|2|False|True|False
+3482|Cheam Band alone or in any combination|2|False|True|False
+3483|Chemainus First Nation alone or in any combination|2|False|True|False
+3484|Chilcotin Nation alone or in any combination|2|False|True|False
+3485|Chippewa of Sarnia alone or in any combination|2|False|False|False
+3486|Chippewa of the Thames alone or in any combination|2|False|False|False
+3487|Chippewa/Ojibwe Canadian alone or in any combination|2|False|False|False
+3488|Clayoquot alone or in any combination|2|False|True|False
+3489|Cold Lake First Nations alone or in any combination|2|False|True|False
+3490|Coldwater Band alone or in any combination|2|False|True|False
+3491|Comox Band alone or in any combination|2|False|True|False
+3492|Coquitlam Band (Kwikwetlem First Nation) alone or in any combination|2|False|True|False
+3493|Cote First Nation alone or in any combination|2|False|True|False
+3494|Couchiching First Nation alone or in any combination|2|False|False|False
+3495|Cowessess Band alone or in any combination|2|False|True|False
+3496|Cowichan alone or in any combination|2|False|False|False
+3497|Cree Canadian alone or in any combination |2|False|False|False
+3498|Cross Lake First Nation alone or in any combination|2|False|True|False
+3499|Curve Lake Band alone or in any combination|2|False|True|False
+3500|Dene Band Nwt (NW Territory) alone or in any combination|2|False|True|False
+3501|Dene Canadian alone or in any combination|2|False|False|False
+3502|Ditidaht Band alone or in any combination|2|False|True|False
+3503|Dogrib alone or in any combination|2|False|True|False
+3504|Eagle Lake Band alone or in any combination|2|False|True|False
+3505|Eastern Cree alone or in any combination|2|False|True|False
+3506|Ebb and Flow Band alone or in any combination|2|False|True|False
+3507|English River First Nation alone or in any combination|2|False|True|False
+3508|Eskasoni alone or in any combination|2|False|True|False
+3509|Esquimalt alone or in any combination|2|False|True|False
+3510|Fisher River alone or in any combination|2|False|True|False
+3511|Five Nations alone or in any combination|2|False|True|False
+3512|Fort Alexander Band alone or in any combination|2|False|True|False
+3513|French Canadian/French American Indian alone or in any combination|2|False|False|False
+3514|Garden River Nation alone or in any combination|2|False|True|False
+3515|Gibson Band (Wahta Mohawk) alone or in any combination|2|False|True|False
+3516|Gitksan alone or in any combination|2|False|True|False
+3517|Grassy Narrows First Nation alone or in any combination|2|False|True|False
+3518|Gull Bay Band alone or in any combination|2|False|True|False
+3519|Gwichya Gwich'in alone or in any combination|2|False|True|False
+3520|Heiltsuk Band alone or in any combination|2|False|True|False
+3521|Hesquiaht Band alone or in any combination|2|False|True|False
+3522|Hiawatha First Nation alone or in any combination|2|False|True|False
+3523|Hope Band (Chawathil Nation) alone or in any combination|2|False|True|False
+3524|Huron alone or in any combination|2|False|False|False
+3525|Huron of Lorretteville alone or in any combination|2|False|True|False
+3526|Innu (Montagnais) alone or in any combination|2|False|False|False
+3527|Interior Salish alone or in any combination|2|False|True|False
+3528|James Bay Cree alone or in any combination|2|False|True|False
+3529|James Smith Cree Nation alone or in any combination|2|False|True|False
+3530|Kahkewistahaw First Nation alone or in any combination|2|False|True|False
+3531|Kamloops Band alone or in any combination|2|False|True|False
+3532|Kanaka Bar alone or in any combination|2|False|True|False
+3533|Kaska Dena alone or in any combination|2|False|True|False
+3534|Keeseekoose Band alone or in any combination|2|False|True|False
+3535|Kingsclear Band alone or in any combination|2|False|True|False
+3536|Kitamaat alone or in any combination|2|False|True|False
+3537|Kitigan Zibi Anishinabeg alone or in any combination|2|False|False|False
+3538|Klahoose First Nation alone or in any combination|2|False|True|False
+3539|Kwakiutl alone or in any combination|2|False|True|False
+3540|Kyuquot Band alone or in any combination|2|False|True|False
+3541|Lakahahmen Band alone or in any combination|2|False|True|False
+3542|Lake Manitoba Band alone or in any combination|2|False|True|False
+3543|Lake St. Martin Band alone or in any combination|2|False|True|False
+3544|Lennox Island Band alone or in any combination|2|False|True|False
+3545|Liard River First Nation alone or in any combination|2|False|True|False
+3546|Lillooet alone or in any combination|2|False|True|False
+3547|Listuguj Mi'Gmaq First Nation alone or in any combination|2|False|True|False
+3548|Little Shuswap Band alone or in any combination|2|False|True|False
+3549|Long Plain First Nation alone or in any combination|2|False|True|False
+3550|Lower Nicola Indian Band alone or in any combination|2|False|True|False
+3551|Malahat First Nation alone or in any combination|2|False|True|False
+3552|Matachewan Band alone or in any combination|2|False|True|False
+3553|Mcleod Lake alone or in any combination|2|False|True|False
+3554|Metis alone or in any combination |2|False|False|False
+3555|Millbrook First Nation alone or in any combination|2|False|True|False
+3556|Mississaugas of the Credit alone or in any combination|2|False|False|False
+3557|Mohawk Canadian alone or in any combination |2|False|False|False
+3558|Mohawk Kahnawake alone or in any combination|2|False|False|False
+3559|Mohawks of Kanesatake alone or in any combination|2|False|True|False
+3560|Mohawks of the Bay of Quinte alone or in any combination|2|False|False|False
+3561|Mohican Canadian alone or in any combination|2|False|True|False
+3562|Musqueam Band alone or in any combination|2|False|True|False
+3563|N'Quatqua (Anderson Lake) alone or in any combination|2|False|False|False
+3564|Namgis First Nation (Nimpkish) alone or in any combination|2|False|True|False
+3565|Nanaimo (Snuneymuxw) alone or in any combination|2|False|True|False
+3566|Nanoose First Nation alone or in any combination|2|False|True|False
+3567|Naskapi alone or in any combination|2|False|True|False
+3568|Nation Huronne Wendat alone or in any combination|2|False|False|False
+3569|Nipissing First Nation alone or in any combination|2|False|True|False
+3570|Nisga'a Nation alone or in any combination|2|False|True|False
+3571|North Thompson Band (Simpcw First Nation) alone or in any combination|2|False|True|False
+3572|Nuu-chah-nulth (Nootka) alone or in any combination|2|False|False|False
+3573|Odanak alone or in any combination|2|False|False|False
+3574|Ohiaht Band (Huu-ay-aht First Nation) alone or in any combination|2|False|True|False
+3575|Oneida Nation of the Thames alone or in any combination |2|False|False|False
+3576|Opaskwayak Cree Nation alone or in any combination|2|False|True|False
+3577|Osoyoos Band alone or in any combination|2|False|True|False
+3578|Pacheedaht First Nation alone or in any combination|2|False|True|False
+3579|Pauquachin alone or in any combination|2|False|True|False
+3580|Peepeekisis alone or in any combination|2|False|True|False
+3581|Peguis alone or in any combination|2|False|True|False
+3582|Penelakut alone or in any combination|2|False|True|False
+3583|Penticton alone or in any combination|2|False|True|False
+3584|Pine Creek alone or in any combination|2|False|True|False
+3585|Plains Cree alone or in any combination|2|False|True|False
+3586|Rainy River First Nations alone or in any combination|2|False|True|False
+3587|Red Earth Band alone or in any combination|2|False|True|False
+3588|Roseau River alone or in any combination|2|False|False|False
+3589|Saddle Lake alone or in any combination|2|False|True|False
+3590|Sakimay First Nations alone or in any combination|2|False|True|False
+3591|Sandy Bay Band alone or in any combination|2|False|True|False
+3592|Sarcee (Tsuut'ina Nation) alone or in any combination|2|False|True|False
+3593|Saugeen alone or in any combination|2|False|True|False
+3594|Saulteau First Nations alone or in any combination|2|False|True|False
+3595|Saulteaux alone or in any combination|2|False|False|False
+3596|Seabird Island alone or in any combination|2|False|True|False
+3597|Sechelt alone or in any combination|2|False|False|False
+3598|Seine River First Nation alone or in any combination|2|False|True|False
+3599|Serpent River alone or in any combination|2|False|True|False
+3600|Seton Lake alone or in any combination|2|False|True|False
+3601|Shoal Lake Cree Nation alone or in any combination|2|False|True|False
+3602|Shuswap alone or in any combination|2|False|False|False
+3603|Siksika Canadian alone or in any combination|2|False|False|False
+3604|Similkameen alone or in any combination|2|False|True|False
+3605|Six Nations Canada alone or in any combination|2|False|True|False
+3606|Six Nations of the Grand River alone or in any combination|2|False|True|False
+3607|Skawahlook First Nation alone or in any combination|2|False|True|False
+3608|Skeetchestn Indian Band alone or in any combination|2|False|True|False
+3609|Skookum Chuck Band alone or in any combination|2|False|True|False
+3610|Skowkale alone or in any combination|2|False|True|False
+3611|Skuppah alone or in any combination|2|False|True|False
+3612|Skwah First Nation alone or in any combination|2|False|True|False
+3613|Skway First Nation alone or in any combination|2|False|True|False
+3614|Songhees First Nation alone or in any combination|2|False|True|False
+3615|Soowahlie First Nation alone or in any combination|2|False|True|False
+3616|Spuzzum First Nation alone or in any combination|2|False|True|False
+3617|Squamish Nation alone or in any combination|2|False|False|False
+3618|Stanjikoming First Nation alone or in any combination|2|False|True|False
+3619|Sto:lo Nation alone or in any combination |2|False|False|False
+3620|Stone alone or in any combination|2|False|True|False
+3621|Sucker Creek First Nation alone or in any combination|2|False|True|False
+3622|Swampy Cree alone or in any combination|2|False|True|False
+3623|Tahltan alone or in any combination|2|False|True|False
+3624|Taku River Tlingit alone or in any combination|2|False|True|False
+3625|Tete De Boule (Attikamek) alone or in any combination|2|False|True|False
+3626|Thompson alone or in any combination |2|False|False|False
+3627|Tobacco Plains Band alone or in any combination|2|False|True|False
+3628|Tobique First Nation alone or in any combination|2|False|False|False
+3629|Toquaht alone or in any combination|2|False|True|False
+3630|Tsartlip alone or in any combination|2|False|True|False
+3631|Tsawout First Nation alone or in any combination|2|False|True|False
+3632|Tseycum alone or in any combination|2|False|True|False
+3633|Uchucklesaht alone or in any combination|2|False|True|False
+3634|Ucluelet First Nation alone or in any combination|2|False|True|False
+3635|Vuntut Gwitchin First Nation alone or in any combination|2|False|True|False
+3636|Wabauskang First Nation alone or in any combination|2|False|True|False
+3637|Walpole Island alone or in any combination|2|False|False|False
+3638|Wasauksing First Nation alone or in any combination|2|False|True|False
+3639|Waywayseecappo First Nation alone or in any combination|2|False|True|False
+3640|West Bay Band alone or in any combination|2|False|True|False
+3641|White Bear Band alone or in any combination|2|False|True|False
+3642|Whitefish Lake Band alone or in any combination|2|False|True|False
+3643|Wikwemikong alone or in any combination |2|False|False|False
+3644|Wolf Lake Band alone or in any combination|2|False|True|False
+3645|Woodland Cree First Nation alone or in any combination|2|False|True|False
+3646|Woodstock First Nation alone or in any combination|2|False|True|False
+3647|Xaxli'p First Nation (Fountain Band) alone or in any combination|2|False|True|False
+3648|Canadian Indian alone or in any combination, not elsewhere classified|2|False|True|False
+3649|Other Canadian Indian alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3650|Central American Indian alone or in any combination (all tribes)|1|False|False|False
+3651|Belizean Indian alone or in any combination|2|False|True|False
+3652|Cakchiquel alone or in any combination|2|False|False|False
+3653|Central American Indian alone or in any combination|2|False|False|False
+3654|Choco alone or in any combination|2|False|False|False
+3655|Costa Rican Indian alone or in any combination|2|False|False|False
+3656|Salvadoran Indian alone or in any combination|2|False|False|False
+3657|Guatemalan Indian alone or in any combination|2|False|False|False
+3658|Guatemalan Mayan alone or in any combination|2|False|False|False
+3659|Guaymi alone or in any combination|2|False|False|False
+3660|Honduran Indian alone or in any combination|2|False|False|False
+3661|Kanjobal alone or in any combination|2|False|False|False
+3662|Kekchi alone or in any combination|2|False|False|False
+3663|Kuna Indian alone or in any combination|2|False|False|False
+3664|Lenca alone or in any combination|2|False|False|False
+3665|Maya Central American alone or in any combination|2|False|False|False
+3666|Miskito alone or in any combination|2|False|False|False
+3667|Nahua alone or in any combination|2|False|False|False
+3668|Nicaraguan Indian alone or in any combination|2|False|False|False
+3669|Panamanian Indian alone or in any combination|2|False|False|False
+3670|Pipil alone or in any combination|2|False|False|False
+3671|Quiche alone or in any combination|2|False|False|False
+3672|Rama alone or in any combination|2|False|True|False
+3673|Sumo alone or in any combination|2|False|True|False
+3674|Central American Indian alone or in any combination, not elsewhere classified|2|False|True|False
+3675|Central American Indian alone or in any combination, not elsewhere classified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3676|Mexican Indian alone or in any combination (all tribes)|1|False|False|False
+3677|Amuzgo alone or in any combination|2|False|True|False
+3678|Aztec alone or in any combination|2|False|False|False
+3679|Chatino alone or in any combination|2|False|False|False
+3680|Chichimeca alone or in any combination|2|False|False|False
+3681|Chinantec alone or in any combination|2|False|False|False
+3682|Chocho alone or in any combination|2|False|True|False
+3683|Cochimi alone or in any combination|2|False|True|False
+3684|Concho alone or in any combination|2|False|True|False
+3685|Cora alone or in any combination|2|False|False|False
+3686|Cuicatec alone or in any combination|2|False|True|False
+3687|Huastec alone or in any combination|2|False|False|False
+3688|Huave alone or in any combination|2|False|True|False
+3689|Huichol alone or in any combination|2|False|False|False
+3690|Ixcatec alone or in any combination|2|False|True|False
+3691|Lacandon alone or in any combination|2|False|True|False
+3692|Lagunero alone or in any combination|2|False|True|False
+3693|Mazahua alone or in any combination|2|False|False|False
+3694|Mazatec alone or in any combination|2|False|True|False
+3695|Mexican American Indian alone or in any combination|2|False|False|False
+3696|Mexican Indian alone or in any combination|2|False|False|False
+3697|Mixe alone or in any combination|2|False|False|False
+3698|Mixtec alone or in any combination|2|False|False|False
+3699|Nahuatl alone or in any combination|2|False|False|False
+3700|Olmec alone or in any combination|2|False|False|False
+3701|Opata alone or in any combination|2|False|False|False
+3702|Otomi alone or in any combination|2|False|False|False
+3703|Popoluca alone or in any combination|2|False|True|False
+3704|Seri alone or in any combination|2|False|True|False
+3705|Tarahumara (Raramuri) alone or in any combination|2|False|False|False
+3706|Tarasco (Purepecha) alone or in any combination|2|False|False|False
+3707|Tepehua alone or in any combination|2|False|False|False
+3708|Tequistlatec alone or in any combination|2|False|True|False
+3709|Tlapanec alone or in any combination|2|False|True|False
+3710|Tojolabal alone or in any combination|2|False|True|False
+3711|Toltec alone or in any combination|2|False|False|False
+3712|Triqui (Trique) alone or in any combination|2|False|False|False
+3713|Tzeltal alone or in any combination|2|False|True|False
+3714|Tzotzil alone or in any combination|2|False|False|False
+3715|Zapotec alone or in any combination|2|False|False|False
+3716|Zoque alone or in any combination|2|False|True|False
+3717|Mexican Indian alone or in any combination, not elsewhere classified|2|False|True|False
+3718|Mexican Indian alone or in any combination, not elsewhere classified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3719|South American Indian alone or in any combination (all tribes)|1|False|False|False
+3720|Ache Indian alone or in any combination|2|False|True|False
+3721|Amazon Indian alone or in any combination|2|False|False|False
+3722|Andean Indian alone or in any combination|2|False|False|False
+3723|Arawak alone or in any combination|2|False|False|False
+3724|Argentinean Indian alone or in any combination|2|False|True|False
+3725|Aymara alone or in any combination|2|False|False|False
+3726|Bolivian Indian alone or in any combination|2|False|False|False
+3727|Brazilian Indian alone or in any combination|2|False|False|False
+3728|Canela alone or in any combination|2|False|False|False
+3729|Chilean Indian alone or in any combination|2|False|False|False
+3730|Colombian Indian alone or in any combination|2|False|False|False
+3731|Ecuadorian Indian alone or in any combination|2|False|False|False
+3732|Guarani alone or in any combination|2|False|False|False
+3733|Guyanese South American Indian alone or in any combination|2|False|False|False
+3734|Inca alone or in any combination|2|False|False|False
+3735|Mapuche (Araucanian) alone or in any combination|2|False|False|False
+3736|Maya South American alone or in any combination|2|False|False|False
+3737|Paraguayan Indian alone or in any combination|2|False|True|False
+3738|Peruvian Indian alone or in any combination|2|False|False|False
+3739|Quechua alone or in any combination|2|False|False|False
+3740|Quichua alone or in any combination|2|False|False|False
+3741|South American Indian alone or in any combination|2|False|False|False
+3742|Tehuelche alone or in any combination|2|False|True|False
+3743|Tupi alone or in any combination|2|False|False|False
+3744|Uruguayan Indian alone or in any combination|2|False|True|False
+3745|Venezuelan Indian alone or in any combination|2|False|False|False
+3746|Zaparo alone or in any combination|2|False|True|False
+3747|South American Indian alone or in any combination, not elsewhere classified|2|False|True|False
+3748|South American Indian alone or in any combination, not elsewhere classified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3749|Caribbean Indian alone or in any combination (all tribes)|1|False|False|False
+3750|Carib alone or in any combination|2|False|False|False
+3751|Caribbean Indian alone or in any combination|2|False|False|False
+3752|Cuban Indian alone or in any combination|2|False|False|False
+3753|Dominican Indian alone or in any combination|2|False|False|False
+3754|Puerto Rican Indian alone or in any combination|2|False|False|False
+3755|Taino alone or in any combination|2|False|False|False
+3756|Caribbean Indian alone or in any combination, not elsewhere classified|2|False|True|False
+3757|Caribbean Indian alone or in any combination, not elsewhere classified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3758|Spanish American Indian alone or in any combination|2|False|False|False
+3759|Mesoamerican Indian alone or in any combination (all tribes)|1|False|False|False
+3760|Maya alone or in any combination|2|False|False|False
+3761|Other Mesoamerican Indian alone or in any combination|2|False|False|False
+3762|American Indian and Alaska Native alone or in any combination, not specified|2|False|False|False
+3763|Asian alone|0|True|Null|Null
+3764|East Asian alone|1|True|False|False
+3765|Chinese, except Taiwanese alone|2|True|False|False
+3766|Hmong alone|2|True|False|False
+3767|Japanese alone|2|True|False|False
+3768|Korean alone|2|True|False|False
+3769|Mongolian alone|2|True|False|False
+3770|Taiwanese alone|2|True|False|False
+3771|Other East Asian alone|2|True|False|False
+3772|Central Asian alone|1|True|False|False
+3773|Afghan alone|2|True|False|False
+3774|Kazakh alone|2|True|False|False
+3775|Kyrgyz alone|2|True|False|False
+3776|Tajik alone|2|True|False|False
+3777|Turkmen alone|2|True|False|False
+3778|Uzbek alone|2|True|False|False
+3779|Other Central Asian alone|2|True|True|False
+3780|Other Central Asian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3781|South Asian alone|1|True|False|False
+3782|Asian Indian alone|2|True|False|False
+3783|Bangladeshi alone|2|True|False|False
+3784|Bhutanese alone|2|True|False|False
+3785|Maldivian alone|2|True|False|False
+3786|Nepalese alone|2|True|False|False
+3787|Pakistani alone|2|True|False|False
+3788|Sikh alone|2|True|False|False
+3789|Sindhi alone|2|True|False|False
+3790|Sri Lankan alone|2|True|False|False
+3791|Other South Asian alone|2|True|True|False
+3792|Other South Asian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3793|Southeast Asian alone|1|True|False|False
+3794|Bruneian alone|2|True|False|False
+3795|Burmese alone|2|True|False|False
+3796|Cambodian alone|2|True|False|False
+3797|Filipino alone|2|True|False|False
+3798|Indonesian alone|2|True|False|False
+3799|Laotian alone|2|True|False|False
+3800|Malaysian alone|2|True|False|False
+3801|Mien alone|2|True|False|False
+3802|Singaporean alone|2|True|False|False
+3803|Thai alone|2|True|False|False
+3804|Vietnamese alone|2|True|False|False
+3805|Other Southeast Asian alone|2|True|True|False
+3806|Other Southeast Asian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3807|Other Asian alone|1|True|False|False
+3808|Buryat alone|2|True|False|False
+3809|Kalmyk alone|2|True|False|False
+3810|Kuki alone|2|True|False|False
+3811|Lahu alone|2|True|False|False
+3812|Malay alone|2|True|False|False
+3813|Mizo alone|2|True|False|False
+3814|Pashtun alone|2|True|False|False
+3815|Tai Dam alone|2|True|False|False
+3816|Timorese alone|2|True|False|False
+3817|Other Asian alone, specified|2|True|True|False
+3818|Other Asian alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+3819|Other Asian alone, not specified|2|True|False|False
+3820|Asian alone or in combination with one or more other races|0|False|Null|Null
+3821|East Asian alone or in any combination|1|False|False|False
+3822|Chinese, except Taiwanese alone or in any combination|2|False|False|False
+3823|Hmong alone or in any combination|2|False|False|False
+3824|Japanese alone or in any combination|2|False|False|False
+3825|Korean alone or in any combination|2|False|False|False
+3826|Mongolian alone or in any combination|2|False|False|False
+3827|Taiwanese alone or in any combination|2|False|False|False
+3828|Other East Asian alone or in any combination|2|False|False|False
+3829|Central Asian alone or in any combination|1|False|False|False
+3830|Afghan alone or in any combination|2|False|False|False
+3831|Kazakh alone or in any combination|2|False|False|False
+3832|Kyrgyz alone or in any combination|2|False|False|False
+3833|Tajik alone or in any combination|2|False|False|False
+3834|Turkmen alone or in any combination|2|False|False|False
+3835|Uzbek alone or in any combination|2|False|False|False
+3836|Other Central Asian alone or in any combination|2|False|True|False
+3837|Other Central Asian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3838|South Asian alone or in any combination|1|False|False|False
+3839|Asian Indian alone or in any combination|2|False|False|False
+3840|Bangladeshi alone or in any combination|2|False|False|False
+3841|Bhutanese alone or in any combination|2|False|False|False
+3842|Maldivian alone or in any combination|2|False|False|False
+3843|Nepalese alone or in any combination|2|False|False|False
+3844|Pakistani alone or in any combination|2|False|False|False
+3845|Sikh alone or in any combination|2|False|False|False
+3846|Sindhi alone or in any combination|2|False|False|False
+3847|Sri Lankan alone or in any combination|2|False|False|False
+3848|Other South Asian alone or in any combination|2|False|True|False
+3849|Other South Asian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3850|Southeast Asian alone or in any combination|1|False|False|False
+3851|Bruneian alone or in any combination|2|False|False|False
+3852|Burmese alone or in any combination|2|False|False|False
+3853|Cambodian alone or in any combination|2|False|False|False
+3854|Filipino alone or in any combination|2|False|False|False
+3855|Indonesian alone or in any combination|2|False|False|False
+3856|Laotian alone or in any combination|2|False|False|False
+3857|Malaysian alone or in any combination|2|False|False|False
+3858|Mien alone or in any combination|2|False|False|False
+3859|Singaporean alone or in any combination|2|False|False|False
+3860|Thai alone or in any combination|2|False|False|False
+3861|Vietnamese alone or in any combination|2|False|False|False
+3862|Other Southeast Asian alone or in any combination|2|False|True|False
+3863|Other Southeast Asian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3864|Other Asian alone or in any combination|1|False|False|False
+3865|Buryat alone or in any combination|2|False|False|False
+3866|Kalmyk alone or in any combination|2|False|False|False
+3867|Kuki alone or in any combination|2|False|False|False
+3868|Lahu alone or in any combination|2|False|False|False
+3869|Malay alone or in any combination|2|False|False|False
+3870|Mizo alone or in any combination|2|False|False|False
+3871|Pashtun alone or in any combination|2|False|False|False
+3872|Tai Dam alone or in any combination|2|False|False|False
+3873|Timorese alone or in any combination|2|False|False|False
+3874|Other Asian alone or in any combination, specified|2|False|True|False
+3875|Other Asian alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+3876|Other Asian alone or in any combination, not specified|2|False|False|False
+3877|Native Hawaiian and Other Pacific Islander alone|0|True|Null|Null
+3878|Polynesian alone|1|True|False|False
+3879|Cook Islander alone|2|True|False|False
+3880|Easter Islander alone|2|True|False|False
+3881|French Polynesian alone|2|True|False|False
+3882|Maori alone|2|True|False|False
+3883|Native Hawaiian alone|2|True|False|False
+3884|Niuean alone|2|True|False|False
+3885|Rotuman alone|2|True|False|False
+3886|Samoan alone|2|True|False|False
+3887|Tahitian alone|2|True|False|False
+3888|Tongan alone|2|True|False|False
+3889|Tokelauan alone|2|True|False|False
+3890|Tuvaluan alone|2|True|False|False
+3891|Wallisian and Futunan alone|2|True|False|False
+3892|Other Polynesian alone|2|True|True|False
+3893|Other Polynesian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3894|Micronesian alone|1|True|False|False
+3895|Carolinian alone|2|True|False|False
+3896|Chamorro alone|2|True|False|False
+3897|Chuukese alone|2|True|False|False
+3898|Guamanian alone|2|True|False|False
+3899|I-Kiribati alone|2|True|False|False
+3900|Kosraean alone|2|True|False|False
+3901|Marshallese alone|2|True|False|False
+3902|Nauruan alone|2|True|False|False
+3903|Northern Mariana Islander alone|2|True|False|False
+3904|Palauan alone|2|True|False|False
+3905|Pohnpeian alone|2|True|False|False
+3906|Saipanese alone|2|True|False|False
+3907|Yapese alone|2|True|False|False
+3908|Other Micronesian alone|2|True|True|False
+3909|Other Micronesian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3910|Melanesian alone|1|True|False|False
+3911|Fijian alone|2|True|False|False
+3912|Papua New Guinean alone|2|True|False|False
+3913|Solomon Islander alone|2|True|False|False
+3914|Ni-Vanuatu alone|2|True|True|False
+3915|New Caledonian alone|2|True|False|False
+3916|Other Melanesian alone|2|True|True|False
+3917|Other Melanesian alone (Sub-state and AIANNH geographies)|0|True|Null|Null
+3918|Other Native Hawaiian and Other Pacific Islander alone, not specified|2|True|False|False
+3919|Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races|0|False|Null|Null
+3920|Polynesian alone or in any combination|1|False|False|False
+3921|Cook Islander alone or in any combination|2|False|False|False
+3922|Easter Islander alone or in any combination|2|False|False|False
+3923|French Polynesian alone or in any combination|2|False|False|False
+3924|Maori alone or in any combination|2|False|False|False
+3925|Native Hawaiian alone or in any combination|2|False|False|False
+3926|Niuean alone or in any combination|2|False|False|False
+3927|Rotuman alone or in any combination|2|False|False|False
+3928|Samoan alone or in any combination|2|False|False|False
+3929|Tahitian alone or in any combination|2|False|False|False
+3930|Tongan alone or in any combination|2|False|False|False
+3931|Tokelauan alone or in any combination|2|False|False|False
+3932|Tuvaluan alone or in any combination|2|False|False|False
+3933|Wallisian and Futunan alone or in any combination|2|False|False|False
+3934|Other Polynesian alone or in any combination|2|False|True|False
+3935|Other Polynesian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3936|Micronesian alone or in any combination|1|False|False|False
+3937|Carolinian alone or in any combination|2|False|False|False
+3938|Chamorro alone or in any combination|2|False|False|False
+3939|Chuukese alone or in any combination|2|False|False|False
+3940|Guamanian alone or in any combination|2|False|False|False
+3941|I-Kiribati alone or in any combination|2|False|False|False
+3942|Kosraean alone or in any combination|2|False|False|False
+3943|Marshallese alone or in any combination|2|False|False|False
+3944|Nauruan alone or in any combination|2|False|False|False
+3945|Northern Mariana Islander alone or in any combination|2|False|False|False
+3946|Palauan alone or in any combination|2|False|False|False
+3947|Pohnpeian alone or in any combination|2|False|False|False
+3948|Saipanese alone or in any combination|2|False|False|False
+3949|Yapese alone or in any combination|2|False|False|False
+3950|Other Micronesian alone or in any combination|2|False|True|False
+3951|Other Micronesian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3952|Melanesian alone or in any combination|1|False|False|False
+3953|Fijian alone or in any combination|2|False|False|False
+3954|Papua New Guinean alone or in any combination|2|False|False|False
+3955|Solomon Islander alone or in any combination|2|False|False|False
+3956|Ni-Vanuatu alone or in any combination|2|False|False|False
+3957|New Caledonian alone or in any combination|2|False|False|False
+3958|Other Melanesian alone or in any combination|2|False|True|False
+3959|Other Melanesian alone or in any combination (Sub-state and AIANNH geographies)|0|False|Null|Null
+3960|Other Native Hawaiian and Other Pacific Islander alone or in any combination, not specified|2|False|False|False
+3961|Some Other Race alone|0|True|Null|Null
+3962|Aruban alone|2|True|False|False
+3963|Belizean alone|2|True|False|False
+3964|Bermudan alone|2|True|False|False
+3965|Brazilian alone|2|True|False|False
+3966|Cabo Verdean alone|2|True|False|False
+3967|Comorian alone|2|True|False|False
+3968|Cayman Islander alone|2|True|False|False
+3969|Guyanese alone|2|True|False|False
+3970|Mauritanian alone|2|True|False|False
+3971|Surinamese alone|2|True|False|False
+3972|Multiracial/Multiethnic responses alone|1|True|True|False
+3973|Biracial alone|2|True|True|False
+3974|Mixed alone|2|True|True|False
+3975|Multiracial alone|2|True|True|False
+3976|Other Multiracial/Multiethnic responses alone|2|True|True|False
+3977|Hispanic responses alone|1|True|True|False
+3978|Hispanic alone|2|True|True|False
+3979|Latin American alone|2|True|True|False
+3980|Mexican alone|2|True|True|False
+3981|Puerto Rican alone|2|True|True|False
+3982|Cuban alone|2|True|True|False
+3983|All other Hispanic, Latino, or Spanish responses alone|2|True|True|False
+3984|Other Some Other Race alone, specified|2|True|True|False
+3985|Other Some Other Race alone, specified (Sub-state and AIANNH geographies)|0|True|Null|Null
+3986|Other Some Other Race alone, not specified|2|True|False|False
+3987|Some Other Race alone or in combination with one or more other races|0|False|Null|Null
+3988|Aruban alone or in any combination|2|False|False|False
+3989|Belizean alone or in any combination|2|False|False|False
+3990|Bermudan alone or in any combination|2|False|False|False
+3991|Brazilian alone or in any combination|2|False|False|False
+3992|Cabo Verdean alone or in any combination|2|False|False|False
+3993|Comorian alone or in any combination|2|False|False|False
+3994|Cayman Islander alone or in any combination|2|False|False|False
+3995|Guyanese alone or in any combination|2|False|False|False
+3996|Mauritanian alone or in any combination|2|False|False|False
+3997|Surinamese alone or in any combination|2|False|False|False
+3998|Multiracial/Multiethnic responses alone or in any combination|1|False|True|False
+3999|Biracial alone or in any combination|2|False|True|False
+4000|Mixed alone or in any combination|2|False|True|False
+4001|Multiracial alone or in any combination|2|False|True|False
+4002|Other Multiracial/Multiethnic responses alone or in any combination|2|False|True|False
+4003|Hispanic responses alone or in any combination|1|False|True|False
+4004|Hispanic alone or in any combination|2|False|True|False
+4005|Latin American alone or in any combination|2|False|True|False
+4006|Mexican alone or in any combination|2|False|True|False
+4007|Puerto Rican alone or in any combination|2|False|True|False
+4008|Cuban alone or in any combination|2|False|True|False
+4009|All other Hispanic, Latino, or Spanish responses alone or in any combination|2|False|True|False
+4010|Other Some Other Race alone or in any combination, specified|2|False|True|False
+4011|Other Some Other Race alone or in any combination, specified (Sub-state and AIANNH geographies)|0|False|Null|Null
+4012|Other Some Other Race alone or in any combination, not specified|2|False|False|False
+4051|Healy Lake Village alone|2|True|True|False
+4052|Healy Lake Village alone or in any combination|2|False|True|False
+4053|American Indian alone, not specified|2|True|False|False
+4054|American Indian alone or in any combination, not specified|2|False|False|False
+

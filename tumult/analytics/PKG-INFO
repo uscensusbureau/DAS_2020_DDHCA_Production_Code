@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: tmlt-analytics
+Version: 0.5.3
+Summary: Tumult's differential privacy analytics API
+Home-page: https://www.tmlt.dev/
+License: Apache-2.0
+Requires-Python: >=3.7.1,<3.10.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: pandas (>=1.2.0,<2.0.0)
+Requires-Dist: pyspark[sql] (>=3.0.0,<3.3.1)
+Requires-Dist: sympy (>=1.8,<1.10)
+Requires-Dist: tmlt.core (>=0.6.0,<0.7.0)
+Requires-Dist: typeguard (>=2.12.1,<2.13.0)
+Requires-Dist: typing-extensions (>=3.10.0,<4.0.0)
+Project-URL: Documentation, https://docs.tmlt.dev/analytics/latest
+Project-URL: Repository, https://gitlab.com/tumult-labs/analytics
+Description-Content-Type: text/markdown
+
+# Tumult Analytics
+
+Tumult Analytics is a library that allows users to execute differentially private operations on
+data without having to worry about the privacy implementation, which is handled
+automatically by the API. It is built atop the [Tumult Core library](https://gitlab.com/tumult-labs/core).
+
+## Installation
+
+See the [installation instructions in the documentation](https://docs.tmlt.dev/analytics/latest/installation.html#prerequisites)
+for information about setting up prerequisites such as Spark.
+
+Once the prerequisites are installed, you can install Tumult Analytics using [pip](https://pypi.org/project.pip).
+
+```bash
+pip install tmlt.analytics
+```
+
+## Documentation
+
+The full documentation is located at https://docs.tmlt.dev/analytics/latest/.
+
+## Support
+
+If you have any questions/concerns, please [create an issue](https://gitlab.com/tumult-labs/analytics/-/issues) or reach out to [support@tmlt.io](mailto:support@tmlt.io)
+
+## Contributing
+
+We are not yet accepting external contributions, but please let us know at [support@tmlt.io](mailto:support@tmlt.io) if you are interested in contributing.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for information about installing our development dependencies and running tests.
+
+## License
+
+Copyright Tumult Labs 2022
+
+The Tumult Platform source code is licensed under the Apache License, version 2.0 (Apache-2.0).
+The Tumult Platform documentation is licensed under
+Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0).
+

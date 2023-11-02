@@ -1,0 +1,56 @@
+{
+    "marshalled": true,
+    "class": "tmlt.common.configuration.Config",
+    "init_params": {
+        "attributes": [
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "TABBLKST",
+                    "pattern": "\\d{2}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "TABBLKCOU",
+                    "pattern": "\\d{3}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "TABTRACTCE",
+                    "pattern": "\\d{6}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "TABBLK",
+                    "pattern": "\\d{4}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "PLACEFP",
+                    "pattern": "\\d{5}$"
+                }
+            },
+            {
+                "marshalled": true,
+                "class": "tmlt.common.configuration.Unrestricted",
+                "init_params": {
+                    "column": "AIANNHCE",
+                    "pattern": "\\d{4}$"
+                }
+            }
+        ]
+    }
+}

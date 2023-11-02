@@ -59,10 +59,10 @@ When running locally, Core can be installed by calling:
 sudo python3 -m pip install --no-deps core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 ```
 When running on an EMR cluster, Tumult Core can be installed from the wheel file in a bootstrap action. Tumult Core is dependent on some of the [SafeTab-P requirements](requirements.txt) so ensure that the first EMR bootstrap action installs those dependencies. Then add a second bootstrap action to install Tumult Core using the following steps:
-1. Upload [`core/bootstrap_script.sh`](../core/bootstrap_script.sh), [`core/test_script.py`](../core/test_script.py), and [`core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`](../core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl) to an S3 bucket. 
+1. Upload [`core/bootstrap_script.sh`](../tumult/core/bootstrap_script.sh), [`../tumult/core/test_script.py`](../core/test_script.py), and [`../tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`](../core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl) to an S3 bucket. 
 2. When creating the EMR cluster, add a bootstrap action. Set the bootstrap action's "Script location" to the s3 location of `core/bootstrap_script.sh`, and add the wheel (whl) file's s3 path as an Optional Argument.
 
-To verify Tumult Core's installation on an EMR cluster, add [`core/test_script.py`](../core/test_script.py) as a step to the EMR cluster. For details on how to add a step, see [adding a step](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-work-with-steps.html) in the AWS documentation or the [Steps](#steps) section below.
+To verify Tumult Core's installation on an EMR cluster, add [`../tumult/core/test_script.py`](../tumult/core/test_script.py) as a step to the EMR cluster. For details on how to add a step, see [adding a step](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-work-with-steps.html) in the AWS documentation or the [Steps](#steps) section below.
 
     spark-submit --deploy-mode client --master yarn <s3-path-to-test_script.py>
 

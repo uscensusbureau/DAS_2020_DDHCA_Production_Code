@@ -17,9 +17,9 @@ Execute the following to run the tests:
 *Fast Tests:*
 
 ```bash
-DIR=<path of cloned repository>
-python3 -m nose $DIR/common -a '!slow'
-python3 -m pytest $DIR/analytics -m 'not slow'
+DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
+python3 -m nose $DIR/tumult/common -a '!slow'
+python3 -m pytest $DIR/tumult/analytics -m 'not slow'
 python3 -m nose $DIR/safetab_p -a '!slow'
 python3 -m nose $DIR/safetab_utils -a '!slow'
 (Total runtime estimate: 20 minutes)
@@ -28,9 +28,9 @@ python3 -m nose $DIR/safetab_utils -a '!slow'
 *Slow Tests:*
 
 ```bash
-DIR=<path of cloned repository>
-python3 -m nose $DIR/common -a 'slow'
-python3 -m pytest $DIR/analytics -m 'slow'
+DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
+python3 -m nose $DIR/tumult/common -a 'slow'
+python3 -m pytest $DIR/tumult/analytics -m 'slow'
 python3 -m nose $DIR/safetab_p -a 'slow'
 python3 -m nose $DIR/safetab_utils -a 'slow'
 (Total runtime estimate: 140 minutes)
@@ -38,12 +38,14 @@ python3 -m nose $DIR/safetab_utils -a 'slow'
 
 ## SafeTab-P's tests
 
+*All tests are deisgned to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/tmlt/safetab_p`.*
+
 ### Unit Tests:
 
 SafeTab-P unit tests test the individual components of the algorithm like characteristic iteration flat maps, region preprocessing, and accuracy report components.
 
 ```
-python3 -m nose safetab_p/test/unit
+python3 -m nose test/unit
 (Runtime estimate: 45 seconds)
 ```
 
@@ -54,18 +56,16 @@ python3 -m nose safetab_p/test/unit
    * Tests that SafeTab-P raises appropriate exceptions when invalid arguments are supplied and that SafeTab-P runs the full algorithm for US and/or Puerto Rico depending on input supplied.
 
 ```
-python3 -m nose safetab_p/test/system/test_input_validation.py
+python3 -m nose test/system/test_input_validation.py
 (Runtime estimate: 3 minutes)
 ```
 
  The below spark-submit commands demonstrates running SafeTab-P command line program in input `validate` mode on toy dataset and a csv reader. To validate with the CEF reader, see instructions in the [README](./README.md).
 
-*Run from the directory `safetab_p/tmlt/safetab_p`.*
-
 ```bash
 spark-submit \
-        --properties-file resources/spark_configs/spark_local_properties.conf \
-        ./safetab-p.py validate resources/toy_dataset/input_dir_<puredp or zcdp> \
+        --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
+        tmlt/safetab_p/safetab-p.py validate tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp> \
          resources/toy_dataset
 (Runtime estimate: 35 seconds)
 ```
@@ -76,13 +76,11 @@ spark-submit \
 
 The below spark-submit commands demonstrates running SafeTab-P command line program to produce private tabulations followed by output validation on toy dataset and a csv reader.
 
-*Run from the directory `safetab_p/tmlt/safetab_p`.*
-
 ```bash
 spark-submit \
-        --properties-file resources/spark_configs/spark_local_properties.conf \
-        ./safetab-p.py execute resources/toy_dataset/input_dir_<puredp or zcdp>  \
-        resources/toy_dataset  \
+        --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
+        tmlt/safetab_p/safetab-p.py execute tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp>  \
+        tmlt/safetab_p/resources/toy_dataset  \
         example_output/safetab_p --validate-private-output
 (Runtime estimate: 4 minutes)
 ```
@@ -96,7 +94,7 @@ spark-submit \
    * A test ensures that the SafeTab-P algorithm determines the correct statistic level and computes the correct aggregate counts when the noise addition is turned off.
 
 ```
-python3 -m nose safetab_p/test/system/test_correctness.py
+python3 -m nose test/system/test_correctness.py
 (Runtime estimate: 2 hours and 10 minutes)
 ```
 
@@ -106,11 +104,11 @@ python3 -m nose safetab_p/test/system/test_correctness.py
 
    * Calculates the observed error between the noisy and ground-truth results.
 
-Run [`safetab_p/examples/multi_run_error_report_p.py`](examples/multi_run_error_report_p.py) to compare the results from SafeTab-P algorithm execution against the ground truth (non-private) answers across multiple trials and privacy budgets. This example script runs the SafeTab-P program on non-sensitive data present in input path (`safetab_p/tmlt/safetab_p/resources/toy_dataset`) for 5 trials, epsilons specified in [`safetab_p/tmlt/safetab_p/resources/toy_dataset/input_dir_puredp/config.json`](tmlt/safetab_p/resources/toy_dataset/input_dir_puredp/config.json) for each combination of geography level and iteration level. It produces ground truth tabulations `t1/*.csv` and `t2/*.csv` in directory (`safetab_p/example_output/multi_run_error_report_p/ground_truth`). Private tabulations `t1/*.csv` and `t2/*.csv` for each run can be found in the directory (`safetab_p/example_output/multi_run_error_report_p/single_runs`). The aggregated error report `multi_run_error_report.csv` is saved to output directory (`safetab_p/example_output/multi_run_error_report_p/full_error_report`).
+Run [`examples/multi_run_error_report_p.py`](examples/multi_run_error_report_p.py) to compare the results from SafeTab-P algorithm execution against the ground truth (non-private) answers across multiple trials and privacy budgets. This example script runs the SafeTab-P program on non-sensitive data present in input path (`tmlt/safetab_p/resources/toy_dataset`) for 5 trials, epsilons specified in [`tmlt/safetab_p/resources/toy_dataset/input_dir_puredp/config.json`](tmlt/safetab_p/resources/toy_dataset/input_dir_puredp/config.json) for each combination of geography level and iteration level. It produces ground truth tabulations `t1/*.csv` and `t2/*.csv` in directory (`example_output/multi_run_error_report_p/ground_truth`). Private tabulations `t1/*.csv` and `t2/*.csv` for each run can be found in the directory (`example_output/multi_run_error_report_p/single_runs`). The aggregated error report `multi_run_error_report.csv` is saved to output directory (`example_output/multi_run_error_report_p/full_error_report`).
 
 
 ```bash
-safetab_p/examples/multi_run_error_report_p.py
+python3 examples/multi_run_error_report_p.py
 (Runtime estimate: 15 minutes)
 ```
 
@@ -119,6 +117,6 @@ Note: Multi-run error report uses the ground truth counts. It violates different
    * Tests that running the full accuracy report creates the appropriate output directories for SafeTab-P algorithm.
 
 ```
-python3 -m nose safetab_p/test/system/test_accuracy_report.py
+python3 -m nose test/system/test_accuracy_report.py
 (Runtime estimate: 25 minutes)
 ```

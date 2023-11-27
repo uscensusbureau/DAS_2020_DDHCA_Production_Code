@@ -13,9 +13,9 @@ Copyright 2023 Tumult Labs
    See the License for the specific language governing permissions and
    limitations under the License.
 
-## Tumult Contents
+## Supporting Libraries Developed by Tumult Labs
 
-This directory contains SafeTab-P's supporting Tumult-developed libraries. There are three folders, each of which contains a Python library used by SafeTab-P. For instructions on running SafeTab-P, see its [README](../safetab_p/README.md).
+This directory contains SafeTab-P's supporting libraries developed by Tumult Labs. There are three folders, each of which contains a Python library used by SafeTab-P. For instructions on running SafeTab-P, see its [README](../safetab_p/README.md).
 
 - **Core 0.6.0**: A Python library for performing differentially private computations. The design of Tumult Core is based on the design proposed in the [OpenDP White Paper](https://projects.iq.harvard.edu/files/opendp/files/opendp_programming_framework_11may2020_1_01.pdf), and can automatically verify the privacy properties of algorithms constructed from Tumult Core components. Tumult Core is scalable, includes a wide variety of components to handle various query types, and supports multiple privacy definitions. This library is available as an independent open-source release. For more, see its software documentation at https://docs.tmlt.dev/core/v0.6/.
 - **Analytics 0.5.3**: A Python library for privately answering statistical queries on tabular data, implemented using Tumult Core. It is built on PySpark, allowing it to scale to large datasets. Its privacy guarantees are based on differential privacy, a technique that perturbs statistics to provably protect the data of individuals in the original dataset. This library is available as an independent open-source release. For more, see its software documentation at https://docs.tmlt.dev/analytics/v0.5/.

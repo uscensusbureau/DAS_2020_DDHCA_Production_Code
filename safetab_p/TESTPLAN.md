@@ -38,7 +38,7 @@ python3 -m nose $DIR/safetab_utils -a 'slow'
 
 ## SafeTab-P's tests
 
-*All tests are deisgned to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/tmlt/safetab_p`.*
+*All tests are designed to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/tmlt/safetab_p`.*
 
 ### Unit Tests:
 

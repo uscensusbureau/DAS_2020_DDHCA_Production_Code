@@ -6,10 +6,7 @@ File A (Detailed DHC-A). A later source code release will contain the source
 code for SafeTab-H, the application used to protect the Detailed
 Demographic and Housing Characteristics File B (Detailed DHC-B).
 
-Using the mathematical principles of differential privacy, SafeTab-P infused
-noise into 2020 Census results to create *privacy-protected
-statistics* which were used by Census Bureau subject-matter experts to
-tabulate the 2020 Detailed DHC-A product. SafeTab-P was built on Tumult Analytics, a platform for computing statistics using differential privacy. Both SafeTab-P and the underlying platform are implemented in Python. The latest version of Tumult Analytics can be found at https://tmlt.dev/.
+Using the mathematical principles of differential privacy, SafeTab-P infused noise into 2020 Census results to create *privacy-protected statistics* which were used by Census Bureau subject-matter experts to tabulate the 2020 Detailed DHC-A product. SafeTab-P was built on Tumult Analytics, a platform for computing statistics using differential privacy. Both SafeTab-P and the underlying platform are implemented in Python. The latest version of Tumult Analytics can be found at https://tmlt.dev/.
 
 In the interests of both transparency and scientific advancement, the
 Census Bureau committed to releasing any source code used in creation

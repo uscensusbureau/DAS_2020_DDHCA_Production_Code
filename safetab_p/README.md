@@ -81,7 +81,7 @@ If installing on an EMR cluster, Tumult Core can be installed with a boostrap ac
 Some environment variables need to be set. In particular, `PYSPARK_PYTHON` must be set to the correct python version:
 
 ```bash
-export PYSPARK_PYTHON=$(which python)
+export PYSPARK_PYTHON=$(which python3)
 ```
 
 If running on the master node of an EMR cluster, some libraries need to be added to the `PYTHONPATH`:

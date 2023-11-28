@@ -21,7 +21,7 @@ software for the TopDown Algorithm (TDA) used in production of the
 2020 Redistricting and the 2020 Demographic and Housing Characteristics
 products.
 
-The repo containing the 2020 Detailed DHC-A product is divided into six subdirectories.:
+This repository is divided into six subdirectories:
 * `configs` contains the specific configuration files used for the
   production Detailed DHC-A runs, including privacy-loss budget (PLB) allocations
   and the rules for adaptive table generation. These configurations reflect

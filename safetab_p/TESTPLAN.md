@@ -38,7 +38,7 @@ python3 -m nose $DIR/safetab_utils -a 'slow'
 
 ## SafeTab-P's tests
 
-*All tests are designed to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/tmlt/safetab_p`.*
+*All tests are designed to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p`.*
 
 ### Unit Tests:
 
@@ -66,7 +66,7 @@ python3 -m nose test/system/test_input_validation.py
 spark-submit \
         --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
         tmlt/safetab_p/safetab-p.py validate tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp> \
-         resources/toy_dataset
+        tmlt/safetab_p/resources/toy_dataset
 (Runtime estimate: 35 seconds)
 ```
 

@@ -103,17 +103,13 @@ export PYTHONPATH=$PYTHONPATH:$DIR/tumult/analytics
 
 `PYTHONPATH` also needs to be updated to include a Census Edited File (CEF) reader module for SafeTab `safetab_cef_reader.py`. This can be either MITRE’s CEF reader (developed separately), or the built-in mock CEF reader: `safetab_p/tmlt/mock_cef_reader`. Note that the mock CEF reader does not actually read CEF files, so it can only be used if input is being read from CSV files.
 
+To use the MITRE CEF reader and add it to the Python Path, run the following command:
+
 ```bash
 export PYTHONPATH=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/mitre:$PYTHONPATH
 ```
 
-If using MITRE's CEF reader, you will also need to include its dependencies, which can be found in its `das_decennial` directory:
-
-```bash
-export PYTHONPATH=<path to das_decennial>:$PYTHONPATH
-```
-
-Consult the CEF reader README for more details.
+Consult the CEF reader [README](../mitre/cef-readers/README.md) for more details.
 
 ## Input Directory Structure
 There are two path inputs to SafeTab-P, a `parameters path` and a `data path`. This setup is replicated in the  `safetab_p/tmlt/safetab_p/resources/toy_dataset` directory. 

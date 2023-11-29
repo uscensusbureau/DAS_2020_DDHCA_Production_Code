@@ -63,6 +63,7 @@ python3 -m nose test/system/test_input_validation.py
  The below spark-submit commands demonstrates running SafeTab-P command line program in input `validate` mode on toy dataset and a csv reader. To validate with the CEF reader, see instructions in the [README](./README.md).
 
 ```bash
+pushd tmlt/safetab_p
 spark-submit \
         --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
         tmlt/safetab_p/safetab-p.py validate tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp> \

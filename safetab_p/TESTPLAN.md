@@ -65,9 +65,10 @@ python3 -m nose test/system/test_input_validation.py
 ```bash
 pushd tmlt/safetab_p
 spark-submit \
-        --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
-        tmlt/safetab_p/safetab-p.py validate tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp> \
-        tmlt/safetab_p/resources/toy_dataset
+        --properties-file resources/spark_configs/spark_local_properties.conf \
+        safetab-p.py validate resources/toy_dataset/input_dir_<puredp or zcdp> \
+        resources/toy_dataset
+popd
 (Runtime estimate: 35 seconds)
 ```
 

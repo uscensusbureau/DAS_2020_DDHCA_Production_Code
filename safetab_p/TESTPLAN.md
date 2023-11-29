@@ -81,10 +81,11 @@ The below spark-submit commands demonstrates running SafeTab-P command line prog
 ```bash
 pushd tmlt/safetab_p
 spark-submit \
-        --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
-        tmlt/safetab_p/safetab-p.py execute tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp>  \
-        tmlt/safetab_p/resources/toy_dataset  \
+        --properties-file resources/spark_configs/spark_local_properties.conf \
+        safetab-p.py execute resources/toy_dataset/input_dir_<puredp or zcdp>  \
+        resources/toy_dataset  \
         example_output/safetab_p --validate-private-output
+popd
 (Runtime estimate: 4 minutes)
 ```
 

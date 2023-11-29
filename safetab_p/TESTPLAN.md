@@ -79,6 +79,7 @@ popd
 The below spark-submit commands demonstrates running SafeTab-P command line program to produce private tabulations followed by output validation on toy dataset and a csv reader.
 
 ```bash
+pushd tmlt/safetab_p
 spark-submit \
         --properties-file tmlt/safetab_p/resources/spark_configs/spark_local_properties.conf \
         tmlt/safetab_p/safetab-p.py execute tmlt/safetab_p/resources/toy_dataset/input_dir_<puredp or zcdp>  \

@@ -40,7 +40,7 @@ All python dependencies, as specified in [requirements.txt](requirements.txt) mu
 When running locally, dependencies can be installed by running:
 
 ```bash
-sudo python3 -m pip install -r safetab_p/requirements.txt
+sudo python3 -m pip install -r <absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/requirements.txt
 ```
 
 Note that one of the dependencies is PySpark, which requires Java 8 or later with `JAVA_HOME` properly set. If Java is not yet installed on your system, you can [install OpenJDK 8](https://openjdk.org/install/) (installation will vary based on the system type).
@@ -56,7 +56,7 @@ SafeTab-P also requires the Tumult Core library to be installed. Tumult Core can
 When running locally, Core can be installed by calling:
 
 ```bash
-sudo python3 -m pip install --no-deps core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+sudo python3 -m pip install --no-deps <absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 ```
 When running on an EMR cluster, Tumult Core can be installed from the wheel file in a bootstrap action. Tumult Core is dependent on some of the [SafeTab-P requirements](requirements.txt) so ensure that the first EMR bootstrap action installs those dependencies. Then add a second bootstrap action to install Tumult Core using the following steps:
 1. Upload [`core/bootstrap_script.sh`](../tumult/core/bootstrap_script.sh), [`../tumult/core/test_script.py`](../tumult/core/test_script.py), and [`../tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`](../core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl) to an S3 bucket. 
@@ -81,7 +81,7 @@ If installing on an EMR cluster, Tumult Core can be installed with a boostrap ac
 Some environment variables need to be set. In particular, `PYSPARK_PYTHON` must be set to the correct python version:
 
 ```bash
-export PYSPARK_PYTHON=/usr/bin/python3
+export PYSPARK_PYTHON=$(which python3)
 ```
 
 If running on the master node of an EMR cluster, some libraries need to be added to the `PYTHONPATH`:
@@ -93,27 +93,23 @@ export PYTHONPATH=/usr/lib/spark/python:/usr/lib/spark/python/lib:/usr/lib/spark
 `PYTHONPATH` needs to updated to include the Tumult source directories. This assumes that required Python dependencies have been installed.
 
 ```bash
-DIR=<absolute path of cloned tumult repository>
+DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
 export PYTHONPATH=$PYTHONPATH:$DIR/safetab_p
 export PYTHONPATH=$PYTHONPATH:$DIR/safetab_utils
-export PYTHONPATH=$PYTHONPATH:$DIR/core
-export PYTHONPATH=$PYTHONPATH:$DIR/common
-export PYTHONPATH=$PYTHONPATH:$DIR/analytics
+export PYTHONPATH=$PYTHONPATH:$DIR/tumult/core
+export PYTHONPATH=$PYTHONPATH:$DIR/tumult/common
+export PYTHONPATH=$PYTHONPATH:$DIR/tumult/analytics
 ```
 
 `PYTHONPATH` also needs to be updated to include a Census Edited File (CEF) reader module for SafeTab `safetab_cef_reader.py`. This can be either MITRE’s CEF reader (developed separately), or the built-in mock CEF reader: `safetab_p/tmlt/mock_cef_reader`. Note that the mock CEF reader does not actually read CEF files, so it can only be used if input is being read from CSV files.
 
-```bash
-export PYTHONPATH=<absolute path to directory containing safetab_cef_reader.py>:$PYTHONPATH
-```
-
-If using MITRE's CEF reader, you will also need to include its dependencies, which can be found in its `das_decennial` directory:
+To use the MITRE CEF reader and add it to the Python Path, run the following command:
 
 ```bash
-export PYTHONPATH=<path to das_decennial>:$PYTHONPATH
+export PYTHONPATH=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/mitre:$PYTHONPATH
 ```
 
-Consult the CEF reader README for more details.
+Consult the CEF reader [README](../mitre/cef-readers/README.md) for more details.
 
 ## Input Directory Structure
 There are two path inputs to SafeTab-P, a `parameters path` and a `data path`. This setup is replicated in the  `safetab_p/tmlt/safetab_p/resources/toy_dataset` directory. 

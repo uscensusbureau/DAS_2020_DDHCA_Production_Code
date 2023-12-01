@@ -16,7 +16,7 @@ includes code developed under contract by Tumult Labs (https://tmlt.io)
 and MITRE corporation. Tumult Analytics is an evolving platform and
 the code in the repository is from version 0.5.3.
 
-The Bureau has already separately released the internally developed
+The Census Bureau has already separately released the internally developed
 software for the TopDown Algorithm (TDA) used in production of the
 2020 Redistricting and the 2020 Demographic and Housing Characteristics
 products.

@@ -17,7 +17,7 @@ Execute the following to run the tests:
 *Fast Tests:*
 
 ```bash
-DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
+DIR=${DDHCA_REPO_ROOT}
 python3 -m nose $DIR/tumult/common -a '!slow'
 python3 -m pytest $DIR/tumult/analytics -m 'not slow'
 python3 -m nose $DIR/safetab_p -a '!slow'
@@ -28,7 +28,7 @@ python3 -m nose $DIR/safetab_utils -a '!slow'
 *Slow Tests:*
 
 ```bash
-DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
+DIR=${DDHCA_REPO_ROOT}
 python3 -m nose $DIR/tumult/common -a 'slow'
 python3 -m pytest $DIR/tumult/analytics -m 'slow'
 python3 -m nose $DIR/safetab_p -a 'slow'
@@ -38,7 +38,7 @@ python3 -m nose $DIR/safetab_utils -a 'slow'
 
 ## SafeTab-P's tests
 
-*All tests are designed to be run from the directory `<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p`.*
+*All tests are designed to be run from the directory `${DDHCA_REPO_ROOT}/safetab_p`.*
 
 ### Unit Tests:
 

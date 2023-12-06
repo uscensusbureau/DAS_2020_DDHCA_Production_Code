@@ -32,7 +32,7 @@ SafeTab-P is designed to run on a Linux machine with Python 3.7 and PySpark 3. I
 ## Installation Instructions
 
 For both local and cluster mode execution, the following preconditions must be met:
- 
+
 ### 1. Dependencies
 
 All python dependencies, as specified in [requirements.txt](requirements.txt) must be installed and available on the PYTHONPATH.
@@ -40,7 +40,7 @@ All python dependencies, as specified in [requirements.txt](requirements.txt) mu
 When running locally, dependencies can be installed by running:
 
 ```bash
-sudo python3 -m pip install -r <absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/safetab_p/requirements.txt
+sudo python3 -m pip install -r ${DDHCA_REPO_ROOT}/safetab_p/requirements.txt
 ```
 
 Note that one of the dependencies is PySpark, which requires Java 8 or later with `JAVA_HOME` properly set. If Java is not yet installed on your system, you can [install OpenJDK 8](https://openjdk.org/install/) (installation will vary based on the system type).
@@ -56,10 +56,10 @@ SafeTab-P also requires the Tumult Core library to be installed. Tumult Core can
 When running locally, Core can be installed by calling:
 
 ```bash
-sudo python3 -m pip install --no-deps <absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+sudo python3 -m pip install --no-deps ${DDHCA_REPO_ROOT}/tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 ```
 When running on an EMR cluster, Tumult Core can be installed from the wheel file in a bootstrap action. Tumult Core is dependent on some of the [SafeTab-P requirements](requirements.txt) so ensure that the first EMR bootstrap action installs those dependencies. Then add a second bootstrap action to install Tumult Core using the following steps:
-1. Upload [`core/bootstrap_script.sh`](../tumult/core/bootstrap_script.sh), [`../tumult/core/test_script.py`](../tumult/core/test_script.py), and [`../tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`](../core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl) to an S3 bucket. 
+1. Upload [`core/bootstrap_script.sh`](../tumult/core/bootstrap_script.sh), [`../tumult/core/test_script.py`](../tumult/core/test_script.py), and [`../tumult/core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl`](../core/tmlt_core-0.6.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl) to an S3 bucket.
 2. When creating the EMR cluster, add a bootstrap action. Set the bootstrap action's "Script location" to the s3 location of `core/bootstrap_script.sh`, and add the wheel (whl) file's s3 path as an Optional Argument.
 
 To verify Tumult Core's installation on an EMR cluster, add [`../tumult/core/test_script.py`](../tumult/core/test_script.py) as a step to the EMR cluster. For details on how to add a step, see [adding a step](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-work-with-steps.html) in the AWS documentation or the [Steps](#steps) section below.
@@ -93,7 +93,7 @@ export PYTHONPATH=/usr/lib/spark/python:/usr/lib/spark/python/lib:/usr/lib/spark
 `PYTHONPATH` needs to updated to include the Tumult source directories. This assumes that required Python dependencies have been installed.
 
 ```bash
-DIR=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>
+DIR=${DDHCA_REPO_ROOT}
 export PYTHONPATH=$PYTHONPATH:$DIR/safetab_p
 export PYTHONPATH=$PYTHONPATH:$DIR/safetab_utils
 export PYTHONPATH=$PYTHONPATH:$DIR/tumult/core
@@ -106,13 +106,13 @@ export PYTHONPATH=$PYTHONPATH:$DIR/tumult/analytics
 To use the MITRE CEF reader and add it to the Python Path, run the following command:
 
 ```bash
-export PYTHONPATH=<absolute path of cloned DAS_2020_DDHCA_Production_Code repository>/mitre:$PYTHONPATH
+export PYTHONPATH=${DDHCA_REPO_ROOT}/mitre:$PYTHONPATH
 ```
 
 Consult the CEF reader [README](../mitre/cef-readers/README.md) for more details.
 
 ## Input Directory Structure
-There are two path inputs to SafeTab-P, a `parameters path` and a `data path`. This setup is replicated in the  `safetab_p/tmlt/safetab_p/resources/toy_dataset` directory. 
+There are two path inputs to SafeTab-P, a `parameters path` and a `data path`. This setup is replicated in the  `safetab_p/tmlt/safetab_p/resources/toy_dataset` directory.
 
 The parameters path should point to a directory containing:
   - config.json
@@ -120,7 +120,7 @@ The parameters path should point to a directory containing:
   - race-and-ethnicity-code-to-iteration.txt
   - race-and-ethnicity-codes.txt
   - race-characteristic-iterations.txt
-  
+
 The `data path` has different requirements depending on the type of input reader being used. If a CEF reader is specified, the data path should point to the CEF reader's config file. If a CSV reader is being used, the data path should point to a directory containing:
   - person-records.txt
   - GRF-C.txt
@@ -214,7 +214,7 @@ While Spark properties are often specific to the environment (number of cores,
 memory allocation, etc.), we strongly recommend that the `spark.sql.execution.arrow.enabled`
 be set to `true` as is done in the example config file for local mode.
 When pyarrow is enabled, the data exchange between Python and Java is much faster and results
-in orders-of-magnitude differences in runtime performance. 
+in orders-of-magnitude differences in runtime performance.
 
 ### Example scripts
 
@@ -295,7 +295,7 @@ It is possible to run `safetab-p.py` in cluster mode on an existing EMR cluster 
 
                 Action on Failure: Cancel and wait
 
-Note: Output locations must be S3 paths. The `--log` and `--validate-private-output` arguments are optional. 
+Note: Output locations must be S3 paths. The `--log` and `--validate-private-output` arguments are optional.
 
 This requires a copy of safetab-p.py and the `repo.zip` (created from the instructions above) to be stored in an s3 bucket.
 

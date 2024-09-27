@@ -10,11 +10,12 @@ Using the mathematical principles of differential privacy, SafeTab-P infused noi
 
 In the interests of both transparency and scientific advancement, the
 Census Bureau committed to releasing any source code used in creation
-of products protected by formal privacy guarantees. In the case of the 
+of products protected by formal privacy guarantees. In the case of the
 Detailed Demographic and Housing Characteristics publications, this
-includes code developed under contract by Tumult Labs (https://tmlt.io)
-and MITRE corporation. Tumult Analytics is an evolving platform and
-the code in the repository is from version 0.5.3.
+includes code developed under contract by Tumult Labs
+(https://tmlt.io) and MITRE corporation. Tumult Analytics is an
+evolving platform and the code in this repository is from
+version 0.5.3 used in the production of DDHC-A.
 
 The Census Bureau has already separately released the internally developed
 software for the TopDown Algorithm (TDA) used in production of the
@@ -39,3 +40,10 @@ This repository is divided into six subdirectories:
    into `common`, `analytics`, and `core` directories. The `core` directory
    also includes a pre-packaged Python *wheel* for the core library.
 
+*WARNING*: the pre-packaged Python wheel in this repository contains a
+  binary version of pyarrow containing the `pyarrow` vulnerability
+  identified in 2023
+  (https://nvd.nist.gov/vuln/detail/CVE-2023-47248). The SAFETAB-P
+  code itself does not expose this vulnerability, but modifications
+  should rebuild the wheel from sources beneath the `tumult/core`
+  prefix or later sources from Tumult itself.

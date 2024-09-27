@@ -47,6 +47,9 @@ Note that one of the dependencies is PySpark, which requires Java 8 or later wit
 
 When running on an EMR cluster, make sure your cluster comes with Spark and Hadoop installed. Other dependencies can be installed as part of a [bootstrap action](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html). A sample bootstrap scipt has been provided with SafeTab-P that installs the public dependencies as well as Tumult Core (see below): [public_install_bootstrap.sh](tmlt/safetab_p/resources/installation/public_install_bootstrap.sh). If you prefer to install Tumult Core from a wheel, rather than from PyPI (see below for details on both options), comment out the line in the bootstrap script that installs `tmlt.core`. EMR clusters come with Java pre-installed, so no additional steps are necessary.
 
+If using the wheel, please check the [warnings](../WARNING.md) about
+the pyarrow version in the archival wheel.
+
 ### 2. Tumult Core installation
 
 SafeTab-P also requires the Tumult Core library to be installed. Tumult Core can either be installed from the wheel file provided with this repository, or from PyPI (like external dependencies in the previous step). Users like the Census who prefer to avoid installing packages from PyPI will likely prefer installing from a wheel. Users who do not have such concerns will likely find it easier to install from PyPI.
